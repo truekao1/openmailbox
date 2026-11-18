@@ -1,0 +1,48 @@
+{
+  "slug": "st-city",
+  "city": "City",
+  "citySlug": "city",
+  "state": "ST",
+  "stateName": "State",
+  "focus": "",
+  "lastUpdated": "YYYY-MM-DD",
+  "intro": "Replace with a short, factual intro. Do not invent coverage you did not research.",
+  "listings": [
+    {
+      "name": "",
+      "area": "",
+      "address": "",
+      "phone": "",
+      "website": "",
+      "bookingUrl": "",
+      "hours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": ""
+      },
+      "carriers": [],
+      "carriersNotes": "",
+      "flags": {
+        "access24": false,
+        "allCarriers": false,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "",
+          "url": ""
+        }
+      ],
+      "lastChecked": "YYYY-MM-DD"
+    }
+  ]
+}

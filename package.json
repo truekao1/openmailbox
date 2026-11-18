@@ -1,0 +1,15 @@
+{
+  "name": "openmailbox",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "OpenMailbox is a static directory of private mailbox stores and a comparison of virtual mailbox services.",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve",
+    "check": "node scripts/check.mjs"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}

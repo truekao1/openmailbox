@@ -1,0 +1,37 @@
+---
+layout: base.njk
+permalink: "/about/"
+eleventyComputed:
+  title: "About {{ site.name }}"
+  description: "OpenMailbox is an independent directory of private mailbox stores and virtual mailbox services. We do not invent hours, carriers, or prices."
+  breadcrumbs:
+    - name: Home
+      url: /
+    - name: About
+      url: /about/
+---
+<article class="prose wrap">
+  {% include "partials/breadcrumbs.njk" %}
+  <p class="eyebrow">About</p>
+  <h1>About OpenMailbox</h1>
+  <p>OpenMailbox is a small directory for a common problem: you need a place that will take your mail and packages, often after a post office lobby has closed, when a PO Box is waitlisted, or when a carrier other than USPS will not deliver to a PO Box.</p>
+  <p>We are an independent website. We are not a post office, a mailbox store, a virtual mailbox provider, or a government office. We do not rent boxes, receive mail, or guarantee that a listed store has an open box today.</p>
+
+  <h2>How listings get on this site</h2>
+  <ul>
+    <li>Every fact — hours, phone numbers, carriers, and service flags — must come from a real public source, usually the business’s own website or an official location page.</li>
+    <li>Each listing includes the source URL and the date we last checked it.</li>
+    <li>If we cannot verify a detail, we leave it out. We do not invent businesses, hours, carriers, or prices.</li>
+    <li>“24-hour access” is flagged only when the source says the mailbox lobby or facility is available around the clock. Staffed store hours are listed separately.</li>
+    <li>“All carriers” is flagged only when the source says it accepts packages from all carriers or all major carriers. We still list the carrier names the page actually uses.</li>
+    <li>Mail scanning is flagged only when the source offers open-and-scan or similar mail-content scanning, not ordinary photocopy services.</li>
+    <li>“No waitlist” is flagged only when the source says boxes are available. We do not treat availability as live inventory.</li>
+  </ul>
+  <p>Hours and box availability change. Confirm with the store before you travel or pay. Virtual mailbox prices are compared on the <a href="/virtual-mailboxes/">virtual mailboxes</a> page, again only from official public pages.</p>
+
+  <h2>Adding a city</h2>
+  <p>Each city is one JSON file. The research checklist for a new city lives in the project’s <code>scripts/new-city.md</code> file, so a nightly pass can add one verified page at a time.</p>
+
+  <h2>Contact</h2>
+  <p>For corrections or questions, email <a href="mailto:{{ site.emailContact }}">{{ site.emailContact }}</a>. Mailbox stores that want to be listed can use the <a href="/list-your-business/">list your business</a> page.</p>
+</article>

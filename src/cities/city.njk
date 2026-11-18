@@ -1,0 +1,145 @@
+---
+layout: base.njk
+pagination:
+  data: cities
+  size: 1
+  alias: city
+permalink: "/{{ city.state | lower }}/{{ city.citySlug }}/"
+eleventyComputed:
+  title: "Private mailboxes in {{ city.city }}, {{ city.state }} — 24-hour access, all-carrier packages, and scanning · {{ site.name }}"
+  description: "Verified private mailbox stores in {{ city.city }}, {{ city.state }}{% if city.focus %}, with a {{ city.focus }} focus{% endif %}. Hours, carriers, and 24-hour access are copied from public sources and dated when last checked."
+  ogType: "article"
+  extraJs: "/assets/filters.js"
+  breadcrumbs:
+    - name: Home
+      url: /
+    - name: "{{ city.city }}, {{ city.state }}"
+      url: "/{{ city.state | lower }}/{{ city.citySlug }}/"
+---
+{% set faqs = city.faqs if city.faqs else (city | defaultCityFaqs) %}
+
+<article class="city-page">
+  <header class="page-hero wrap">
+    {% include "partials/breadcrumbs.njk" %}
+    <p class="eyebrow">{{ city.stateName }}{% if city.focus %} · {{ city.focus }} focus{% endif %}</p>
+    <h1>Private mailboxes in {{ city.city }}, {{ city.state }}</h1>
+    <p class="lede">{{ city.intro }}</p>
+    <p class="meta">{{ city.listings | length }} listings · Last updated {{ city.lastUpdated | displayDate }}</p>
+  </header>
+
+  <section class="wrap" id="listings" aria-labelledby="listings-heading">
+    <div class="section-head">
+      <h2 id="listings-heading">Listings</h2>
+      <p class="muted">Filter by what the business itself publishes. Flags are not a guarantee that a box is free today.</p>
+    </div>
+
+    <div class="filters" data-filter-bar>
+      <p class="filter-label" id="filter-label">Show only:</p>
+      <div class="filter-toggles" role="group" aria-labelledby="filter-label">
+        <button type="button" class="chip" data-filter="access24" aria-pressed="false">24-hour access</button>
+        <button type="button" class="chip" data-filter="allcarriers" aria-pressed="false">All carriers</button>
+        <button type="button" class="chip" data-filter="mailscanning" aria-pressed="false">Mail scanning</button>
+        <button type="button" class="chip" data-filter="nowaitlist" aria-pressed="false">No waitlist</button>
+      </div>
+      <p class="filter-count" data-filter-count></p>
+    </div>
+
+    <div class="table-scroll">
+      <table class="listing-table">
+        <thead>
+          <tr>
+            <th scope="col">Mailbox store</th>
+            <th scope="col">Area &amp; address</th>
+            <th scope="col">Hours</th>
+            <th scope="col">Carriers &amp; flags</th>
+            <th scope="col">Contact</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for listing in city.listings %}
+          <tr
+            id="{{ listing.name | slugifyId }}"
+            class="listing-row"
+            data-access24="{{ '1' if listing.flags.access24 else '0' }}"
+            data-allcarriers="{{ '1' if listing.flags.allCarriers else '0' }}"
+            data-mailscanning="{{ '1' if listing.flags.mailScanning else '0' }}"
+            data-nowaitlist="{{ '1' if listing.flags.noWaitlist else '0' }}"
+          >
+            <td>
+              {% if listing.website %}
+              <a class="listing-name" href="{{ listing.website }}" rel="noopener">{{ listing.name }}</a>
+              {% else %}
+              <span class="listing-name">{{ listing.name }}</span>
+              {% endif %}
+              {% if listing.feeNotes %}<p class="small muted">{{ listing.feeNotes }}</p>{% endif %}
+              <p class="small muted">Last checked {{ listing.lastChecked | displayDate }} · {% for source in listing.sources %}<a href="{{ source.url }}" rel="noopener">{{ source.label }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</p>
+            </td>
+            <td>
+              <p>{{ listing.area }}</p>
+              {% if listing.address %}<p class="small muted">{{ listing.address }}</p>{% endif %}
+              {% if listing.visitNotes %}<p class="small muted">{{ listing.visitNotes }}</p>{% endif %}
+            </td>
+            <td>
+              <p>{{ listing.hours | hoursSummary }}</p>
+              {% if listing.hours.notes %}<p class="small muted">{{ listing.hours.notes }}</p>{% endif %}
+            </td>
+            <td>
+              <p>{{ listing.carriers | joinList }}</p>
+              {% if listing.carriersNotes %}<p class="small muted">{{ listing.carriersNotes }}</p>{% endif %}
+              <ul class="flags">
+                {% if listing.flags.access24 %}<li>24-hour access</li>{% endif %}
+                {% if listing.flags.allCarriers %}<li>All carriers</li>{% endif %}
+                {% if listing.flags.mailScanning %}<li>Mail scanning</li>{% endif %}
+                {% if listing.flags.noWaitlist %}<li>No waitlist</li>{% endif %}
+                {% if listing.flags.virtual %}<li>Virtual mailbox</li>{% endif %}
+              </ul>
+            </td>
+            <td>
+              {% if listing.phone %}<p><a href="{{ listing.phone | telHref }}">{{ listing.phone }}</a></p>{% endif %}
+              {% if listing.bookingUrl %}<p><a href="{{ listing.bookingUrl }}" rel="noopener">Mailbox or location page</a></p>{% endif %}
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    <p class="empty-filter" data-empty-filter hidden>No listings on this page match those filters. Clear a filter, or compare <a href="/virtual-mailboxes/">virtual mailbox services</a>.</p>
+  </section>
+
+  <section class="wrap tonight" id="how-to-rent" aria-labelledby="how-to-heading">
+    <h2 id="how-to-heading">How to rent a mailbox here</h2>
+    <ol class="steps">
+      <li>Decide whether you need <strong>after-hours lobby access</strong>, packages from carriers a PO Box will not take, or mail you can open online. Use the filters above.</li>
+      <li>Call or visit the store, or follow its signup page, and ask whether a box is actually available. We do not treat availability as live inventory.</li>
+      <li>Bring the identification the store asks for. Commercial mail receiving agencies typically require <strong>USPS Form 1583</strong> and two IDs before they can receive mail for you.</li>
+      <li>If you cannot get to a storefront, compare <a href="/virtual-mailboxes/">virtual mailbox services</a>. Those providers scan or forward mail from a real street address.</li>
+    </ol>
+  </section>
+
+  <div class="wrap">
+    {% include "partials/affiliate.njk" %}
+  </div>
+
+  <section class="wrap more-cities" aria-labelledby="more-heading">
+    <h2 id="more-heading">Other cities and virtual mailboxes</h2>
+    <ul class="internal-links">
+      {% for other in cities %}
+      {% if other.slug != city.slug %}
+      <li><a href="{{ other | cityPath }}">Private mailboxes in {{ other.city }}, {{ other.state }}</a> ({{ other.listings | length }} listings)</li>
+      {% endif %}
+      {% endfor %}
+      <li><a href="/virtual-mailboxes/">Virtual mailbox comparison</a> — Anytime Mailbox, iPostal1, PostScan Mail, and Traveling Mailbox</li>
+      <li><a href="/">All cities</a></li>
+    </ul>
+  </section>
+
+  <section class="wrap faq" id="faq" aria-labelledby="faq-heading">
+    <h2 id="faq-heading">Frequently asked questions</h2>
+    {% for faq in faqs %}
+    <details>
+      <summary>{{ faq.q }}</summary>
+      <p>{{ faq.a }}</p>
+    </details>
+    {% endfor %}
+  </section>
+</article>

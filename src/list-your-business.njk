@@ -1,0 +1,31 @@
+---
+layout: base.njk
+permalink: "/list-your-business/"
+eleventyComputed:
+  title: "List your mailbox store · {{ site.name }}"
+  description: "Ask to be included in OpenMailbox. Listings are added only when hours, address, and carriers can be verified from a public source."
+  breadcrumbs:
+    - name: Home
+      url: /
+    - name: List your business
+      url: /list-your-business/
+---
+<article class="prose wrap">
+  {% include "partials/breadcrumbs.njk" %}
+  <p class="eyebrow">Mailbox stores</p>
+  <h1>List your mailbox store</h1>
+  <p>If you rent private mailboxes and those facts are published on your website or a public listing page, we want the record to be accurate — especially 24-hour lobby access, the carriers you accept, mail scanning, and whether boxes are currently available.</p>
+  <p>Send:</p>
+  <ul>
+    <li>Business name and the city or neighborhood</li>
+    <li>Street address, phone, and website</li>
+    <li>Staffed hours for each day, and whether mailbox customers have 24-hour lobby access</li>
+    <li>Which carriers you accept for mailbox customers (for example USPS, UPS, FedEx, DHL, Amazon)</li>
+    <li>Whether you offer mail scanning or forwarding</li>
+    <li>A public page where we can verify those facts</li>
+  </ul>
+  <p>We will not publish hours or services we cannot check on a public source, and we may recrawl your page before each update.</p>
+  <p>
+    <a class="button" href="mailto:{{ site.emailListings }}?subject=List%20a%20mailbox%20store">Email {{ site.emailListings }}</a>
+  </p>
+</article>

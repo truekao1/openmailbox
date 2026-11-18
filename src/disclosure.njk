@@ -1,0 +1,38 @@
+---
+layout: base.njk
+permalink: "/affiliate-disclosure/"
+eleventyComputed:
+  title: "Affiliate disclosure · {{ site.name }}"
+  description: "How OpenMailbox discloses advertising and affiliate links for virtual mailbox services."
+  breadcrumbs:
+    - name: Home
+      url: /
+    - name: Affiliate disclosure
+      url: /affiliate-disclosure/
+---
+<article class="prose wrap">
+  {% include "partials/breadcrumbs.njk" %}
+  <p class="eyebrow">Legal</p>
+  <h1>Affiliate disclosure</h1>
+  <p>{{ site.disclosure }} Advertising is labeled. A commission does not change a local store listing, and it is not a reason we include or exclude a business.</p>
+
+  <h2>Virtual mailbox services</h2>
+  <p>City pages and the <a href="/virtual-mailboxes/">virtual mailboxes comparison</a> include clearly marked links for Anytime Mailbox, iPostal1, PostScan Mail, and Traveling Mailbox.</p>
+  <ul>
+    {% for key, program in site.affiliates %}
+    <li>
+      <strong>{{ program.name }}</strong>
+      {% if program | affiliateIsTracked %}
+      — If you click through the marked link and complete a qualifying signup, OpenMailbox may receive a commission.
+      {% else %}
+      — The button currently goes to that company’s <a href="{{ program.publicUrl }}" rel="noopener">public website</a>. It is a placeholder until an affiliate link is approved through <a href="{{ program.programUrl }}" rel="noopener">the official program page</a>. We will not present a placeholder as a tracked affiliate URL.
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+
+  <h2>Listings are not paid placements</h2>
+  <p>The mailbox directory itself is researched from public sources. We do not charge a fee to be included in the first version of this site, and we do not accept payment to invent or inflate hours or services. If that policy changes, we will say so here and on the affected page.</p>
+
+  <p>Questions: <a href="mailto:{{ site.emailContact }}">{{ site.emailContact }}</a>.</p>
+</article>

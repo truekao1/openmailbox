@@ -1,0 +1,629 @@
+{
+  "slug": "ny-new-york",
+  "city": "New York",
+  "citySlug": "new-york",
+  "state": "NY",
+  "stateName": "New York",
+  "focus": "Manhattan and Brooklyn",
+  "lastUpdated": "2026-11-18",
+  "intro": "This first New York page covers private mailbox stores in Manhattan and Brooklyn whose own public pages list an address, staffed hours, and the carriers they accept. It is not a complete citywide inventory. 24-hour lobby access is flagged only when the store\u2019s page says so. The UPS Store pages mention 24-hour access only at participating locations, so that flag is off for those stores unless a store-specific page confirms it. Box availability can change; treat it as something to confirm, not as live inventory. If you cannot get to a storefront, compare virtual mailbox services.",
+  "listings": [
+    {
+      "name": "Mailbox NYC",
+      "area": "Manhattan \u00b7 174 W 4th St",
+      "address": "174 W 4th St, New York, NY 10014",
+      "phone": "(212) 675-6310",
+      "website": "https://www.mailboxnyc.com/Home-Business/Mailbox-Rental",
+      "bookingUrl": "https://www.mailboxnyc.com/Home-Business/Mailbox-Rental",
+      "hours": {
+        "monday": "9:00 AM\u20137:00 PM",
+        "tuesday": "9:00 AM\u20137:00 PM",
+        "wednesday": "9:00 AM\u20137:00 PM",
+        "thursday": "9:00 AM\u20137:00 PM",
+        "friday": "9:00 AM\u20137:00 PM",
+        "saturday": "10:00 AM\u20136:00 PM",
+        "sunday": "11:00 AM\u20135:00 PM",
+        "notes": "Staffed store hours from the week of November 18, 2026, as shown on the mailbox rental page. The same page says mailbox customers have 24-hour access to a lit, secured lobby."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL",
+        "Couriers"
+      ],
+      "carriersNotes": "The mailbox rental page says the store accepts packages and mail from the Post Office, UPS, FedEx, DHL, and couriers, and offers mail forwarding.",
+      "flags": {
+        "access24": true,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Mailbox rental page",
+          "url": "https://www.mailboxnyc.com/Home-Business/Mailbox-Rental"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "GorillaShip",
+      "area": "Brooklyn \u00b7 2935 W 5th St",
+      "address": "2935 W 5th St Ste 58, Brooklyn, NY 11224-3965",
+      "phone": "(718) 679-9093",
+      "website": "https://www.gorillashipco.com/Home-Business/Mailbox-Rental",
+      "bookingUrl": "https://www.gorillashipco.com/Home-Business/Mailbox-Rental",
+      "hours": {
+        "monday": "8:00 AM\u20138:00 PM",
+        "tuesday": "8:00 AM\u20138:00 PM",
+        "wednesday": "8:00 AM\u20138:00 PM",
+        "thursday": "8:00 AM\u20138:00 PM",
+        "friday": "8:00 AM\u20138:00 PM",
+        "saturday": "9:00 AM\u20135:00 PM",
+        "sunday": "9:00 AM\u20135:00 PM",
+        "notes": "Staffed store hours from the week of November 18, 2026, as shown on the mailbox rental page. The same page says mailbox customers have 24-hour access to a lit, secured lobby."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL",
+        "Couriers"
+      ],
+      "carriersNotes": "The mailbox rental page says the store accepts packages and mail from the Post Office, UPS, FedEx, DHL, and couriers, and offers mail forwarding.",
+      "flags": {
+        "access24": true,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Mailbox rental page",
+          "url": "https://www.gorillashipco.com/Home-Business/Mailbox-Rental"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Postman Joe",
+      "area": "Brooklyn \u00b7 1923 McDonald Ave",
+      "address": "1923 McDonald Ave, Brooklyn, NY 11223",
+      "phone": "(718) 934-0030",
+      "website": "https://postmanjoe.com/MailboxServices/MailboxRental",
+      "bookingUrl": "https://postmanjoe.com/MailboxServices/MailboxRental",
+      "hours": {
+        "monday": "9:00 AM\u20137:00 PM",
+        "tuesday": "9:00 AM\u20137:00 PM",
+        "wednesday": "9:00 AM\u20137:00 PM",
+        "thursday": "9:00 AM\u20137:00 PM",
+        "friday": "9:00 AM\u20137:00 PM",
+        "saturday": "10:00 AM\u20136:00 PM",
+        "sunday": "10:00 AM\u20136:00 PM",
+        "notes": "The mailbox rental page says you can pick up during store hours: Monday\u2013Friday 9:00am\u20137:00pm, Saturday\u2013Sunday 10:00am\u20136:00pm, and that the store is open every day of the week. We did not find a 24-hour lobby claim on that page."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL",
+        "Most courier services"
+      ],
+      "carriersNotes": "The FAQ on the mailbox rental page says the store accepts deliveries from all major carriers \u2014 UPS, FedEx, DHL, USPS \u2014 as well as most courier services, and that the street address is accepted by all carriers.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Mailbox rental page",
+          "url": "https://postmanjoe.com/MailboxServices/MailboxRental"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Copy Experts NYC",
+      "area": "Manhattan \u00b7 2424 Broadway",
+      "address": "2424 Broadway, New York, NY 10024",
+      "phone": "(212) 875-1602",
+      "website": "https://www.copyexperts.co/mailbox-rental",
+      "bookingUrl": "https://www.copyexperts.co/mailbox-rental",
+      "hours": {
+        "monday": "8:00 AM\u20137:00 PM",
+        "tuesday": "8:00 AM\u20137:00 PM",
+        "wednesday": "8:00 AM\u20137:00 PM",
+        "thursday": "8:00 AM\u20137:00 PM",
+        "friday": "8:00 AM\u20137:00 PM",
+        "saturday": "10:00 AM\u20136:00 PM",
+        "sunday": "Closed",
+        "notes": "Hours as published on the mailbox rental page. Sunday is listed as \u201cClosed*\u201d without an explanation of the asterisk on the page we checked. A second phone number, (212) 875-0948, also appears on that page."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL"
+      ],
+      "carriersNotes": "The mailbox rental FAQ says the store can accept packages from all major carriers, including USPS, UPS, FedEx, and DHL.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "The mailbox rental page lists monthly prices from $60.00 for a small personal box to $128.00 for a large business box, with a three-month minimum purchase. Confirm the current rate when you sign up.",
+      "sources": [
+        {
+          "label": "Mailbox rental page",
+          "url": "https://www.copyexperts.co/mailbox-rental"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Manhattan Mailboxes",
+      "area": "Manhattan \u00b7 302A West 12th Street",
+      "address": "302A West 12th Street, New York, NY 10014",
+      "phone": "(212) 206-6996",
+      "website": "https://www.manhattanmailboxes.com/",
+      "bookingUrl": "https://www.manhattanmailboxes.com/mailbox_services",
+      "hours": {
+        "monday": "9:00 AM\u20137:00 PM",
+        "tuesday": "9:00 AM\u20137:00 PM",
+        "wednesday": "9:00 AM\u20137:00 PM",
+        "thursday": "9:00 AM\u20137:00 PM",
+        "friday": "9:00 AM\u20137:00 PM",
+        "saturday": "10:00 AM\u20135:30 PM",
+        "sunday": "Closed",
+        "notes": "Staffed store hours from the homepage. The \u201cOther Services\u201d page says fax receiving for mailbox customers is 24/7; it does not say the mailbox lobby is open 24 hours."
+      },
+      "carriers": [
+        "USPS",
+        "FedEx",
+        "UPS",
+        "Messenger deliveries"
+      ],
+      "carriersNotes": "The mailbox services page says the store can accept any kind of delivery, including US Mail, FedEx, UPS, and messenger deliveries, and \u201cif it fits through the door we\u2019ll take it.\u201d Amazon and DHL are not named on that page.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "The site has a separate mailbox rates page; we did not copy prices here because this listing is sourced from the services and hours pages we checked.",
+      "sources": [
+        {
+          "label": "Homepage (hours and address)",
+          "url": "https://www.manhattanmailboxes.com/"
+        },
+        {
+          "label": "Mailbox services",
+          "url": "https://www.manhattanmailboxes.com/mailbox_services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store \u2014 82 Nassau St",
+      "area": "Manhattan \u00b7 Financial District",
+      "address": "82 Nassau St, New York, NY 10038",
+      "phone": "(212) 406-9010",
+      "website": "https://locations.theupsstore.com/ny/new-york/82-nassau-st",
+      "bookingUrl": "https://locations.theupsstore.com/ny/new-york/82-nassau-st/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM\u20137:30 PM",
+        "tuesday": "8:30 AM\u20137:30 PM",
+        "wednesday": "8:30 AM\u20137:30 PM",
+        "thursday": "8:30 AM\u20137:30 PM",
+        "friday": "8:30 AM\u20137:30 PM",
+        "saturday": "12:00 PM\u20133:00 PM",
+        "sunday": "11:00 AM\u20134:00 PM",
+        "notes": "Staffed store hours from the official location page\u2019s opening-hours data. This store\u2019s mailbox-services page also has store-specific copy that says \u201cA mailbox that works for you with 24 Hour Access\u201d and \u201c24-HOUR MAILBOX ACCESS.\u201d Confirm after-hours lobby access when you rent."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL"
+      ],
+      "carriersNotes": "The mailbox-services page says mailbox customers can receive mail and parcels from any carrier including USPS, FedEx, UPS, DHL and others.",
+      "flags": {
+        "access24": true,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page names USPS, FedEx, UPS, DHL and others, and lists the mailing address as 82 Nassau Street with a box or suite number provided at signup. The same mailbox-services template also lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store unless the store\u2019s own page says so. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ny/new-york/82-nassau-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ny/new-york/82-nassau-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store \u2014 64 Bleecker Street",
+      "area": "Manhattan \u00b7 Bleecker Street, between Lafayette Street and Broadway",
+      "address": "64 Bleecker Street, New York, NY 10012",
+      "phone": "(212) 625-0080",
+      "website": "https://locations.theupsstore.com/ny/new-york/64-bleecker-street",
+      "bookingUrl": "https://locations.theupsstore.com/ny/new-york/64-bleecker-street/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM\u20137:00 PM",
+        "tuesday": "8:30 AM\u20137:00 PM",
+        "wednesday": "8:30 AM\u20137:00 PM",
+        "thursday": "8:30 AM\u20137:00 PM",
+        "friday": "8:30 AM\u20137:00 PM",
+        "saturday": "11:00 AM\u20135:00 PM",
+        "sunday": "11:00 AM\u20134:00 PM",
+        "notes": "Staffed store hours from the official location page\u2019s opening-hours data."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The same mailbox-services template also lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store unless the store\u2019s own page says so. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ny/new-york/64-bleecker-street"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ny/new-york/64-bleecker-street/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store \u2014 64 Beaver St",
+      "area": "Manhattan \u00b7 Financial District, just south of Wall Street",
+      "address": "64 Beaver St, New York, NY 10004",
+      "phone": "(212) 514-7472",
+      "website": "https://locations.theupsstore.com/ny/new-york/64-beaver-st",
+      "bookingUrl": "https://locations.theupsstore.com/ny/new-york/64-beaver-st/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM\u20137:00 PM",
+        "tuesday": "8:00 AM\u20137:00 PM",
+        "wednesday": "8:00 AM\u20137:00 PM",
+        "thursday": "8:00 AM\u20137:00 PM",
+        "friday": "8:00 AM\u20137:00 PM",
+        "saturday": "10:00 AM\u20135:00 PM",
+        "sunday": "11:00 AM\u20134:00 PM",
+        "notes": "Staffed store hours from the official location page\u2019s opening-hours data. The location page notes a rear entrance of 5 Hanover Square."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The location page describes the entrance as the rear entrance of 5 Hanover Square, just south of Wall Street. The same mailbox-services template also lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store unless the store\u2019s own page says so. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ny/new-york/64-beaver-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ny/new-york/64-beaver-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store \u2014 387 2nd Ave",
+      "area": "Manhattan \u00b7 2nd Ave, between 22nd St and 23rd St",
+      "address": "387 2nd Ave, New York, NY 10010",
+      "phone": "(212) 375-8292",
+      "website": "https://locations.theupsstore.com/ny/new-york/387-2nd-ave",
+      "bookingUrl": "https://locations.theupsstore.com/ny/new-york/387-2nd-ave/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM\u20138:00 PM",
+        "tuesday": "8:00 AM\u20138:00 PM",
+        "wednesday": "8:00 AM\u20138:00 PM",
+        "thursday": "8:00 AM\u20138:00 PM",
+        "friday": "8:00 AM\u20138:00 PM",
+        "saturday": "10:00 AM\u20136:00 PM",
+        "sunday": "11:00 AM\u20135:00 PM",
+        "notes": "Staffed store hours from the official location page\u2019s opening-hours data."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The same mailbox-services template also lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store unless the store\u2019s own page says so. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ny/new-york/387-2nd-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ny/new-york/387-2nd-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store \u2014 105 E 34th St",
+      "area": "Manhattan \u00b7 105 E 34th St",
+      "address": "105 E 34th St, New York, NY 10016",
+      "phone": "(212) 725-0800",
+      "website": "https://locations.theupsstore.com/ny/new-york/105-e-34th-st",
+      "bookingUrl": "https://locations.theupsstore.com/ny/new-york/105-e-34th-st/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM\u20137:00 PM",
+        "tuesday": "8:30 AM\u20137:00 PM",
+        "wednesday": "8:30 AM\u20137:00 PM",
+        "thursday": "8:30 AM\u20137:00 PM",
+        "friday": "8:30 AM\u20137:00 PM",
+        "saturday": "10:00 AM\u20135:00 PM",
+        "sunday": "11:00 AM\u20134:00 PM",
+        "notes": "Staffed store hours from the official location page\u2019s opening-hours data."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The same mailbox-services template also lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store unless the store\u2019s own page says so. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ny/new-york/105-e-34th-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ny/new-york/105-e-34th-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store \u2014 105 W 86th St",
+      "area": "Manhattan \u00b7 105 W 86th St",
+      "address": "105 W 86th St, New York, NY 10024",
+      "phone": "(212) 202-0534",
+      "website": "https://locations.theupsstore.com/ny/new-york/105-w-86th-st",
+      "bookingUrl": "https://locations.theupsstore.com/ny/new-york/105-w-86th-st/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM\u20138:00 PM",
+        "tuesday": "8:00 AM\u20138:00 PM",
+        "wednesday": "8:00 AM\u20138:00 PM",
+        "thursday": "8:00 AM\u20138:00 PM",
+        "friday": "8:00 AM\u20138:00 PM",
+        "saturday": "10:00 AM\u20136:00 PM",
+        "sunday": "11:00 AM\u20135:00 PM",
+        "notes": "Staffed store hours from the official location page\u2019s opening-hours data."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The same mailbox-services template also lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store unless the store\u2019s own page says so. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ny/new-york/105-w-86th-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ny/new-york/105-w-86th-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store \u2014 209 W 29th St",
+      "area": "Manhattan \u00b7 209 W 29th St",
+      "address": "209 W 29th St, New York, NY 10001",
+      "phone": "(212) 290-8009",
+      "website": "https://locations.theupsstore.com/ny/new-york/209-w-29th-st",
+      "bookingUrl": "https://locations.theupsstore.com/ny/new-york/209-w-29th-st/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM\u20137:00 PM",
+        "tuesday": "8:30 AM\u20137:00 PM",
+        "wednesday": "8:30 AM\u20137:00 PM",
+        "thursday": "8:30 AM\u20137:00 PM",
+        "friday": "8:30 AM\u20137:00 PM",
+        "saturday": "10:00 AM\u20135:00 PM",
+        "sunday": "11:00 AM\u20134:00 PM",
+        "notes": "Staffed store hours from the official location page\u2019s opening-hours data."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The same mailbox-services template also lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store unless the store\u2019s own page says so. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ny/new-york/209-w-29th-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ny/new-york/209-w-29th-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store \u2014 30 University Place",
+      "area": "Manhattan \u00b7 30 University Place",
+      "address": "30 University Place, New York, NY 10003",
+      "phone": "(212) 477-3350",
+      "website": "https://locations.theupsstore.com/ny/new-york/30-university-place",
+      "bookingUrl": "https://locations.theupsstore.com/ny/new-york/30-university-place/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM\u20137:00 PM",
+        "tuesday": "8:30 AM\u20137:00 PM",
+        "wednesday": "8:30 AM\u20137:00 PM",
+        "thursday": "8:30 AM\u20137:00 PM",
+        "friday": "8:30 AM\u20137:00 PM",
+        "saturday": "11:00 AM\u20135:00 PM",
+        "sunday": "11:00 AM\u20134:00 PM",
+        "notes": "Staffed store hours from the official location page\u2019s opening-hours data."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The same mailbox-services template also lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store unless the store\u2019s own page says so. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ny/new-york/30-university-place"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ny/new-york/30-university-place/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store \u2014 4867 Broadway",
+      "area": "Manhattan \u00b7 Broadway, north of Dyckman St",
+      "address": "4867 Broadway, New York, NY 10034",
+      "phone": "(212) 304-0282",
+      "website": "https://locations.theupsstore.com/ny/new-york/4867-broadway",
+      "bookingUrl": "https://locations.theupsstore.com/ny/new-york/4867-broadway/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM\u20137:30 PM",
+        "tuesday": "8:30 AM\u20137:30 PM",
+        "wednesday": "8:30 AM\u20137:30 PM",
+        "thursday": "8:30 AM\u20137:30 PM",
+        "friday": "8:30 AM\u20137:30 PM",
+        "saturday": "10:00 AM\u20136:00 PM",
+        "sunday": "11:00 AM\u20134:00 PM",
+        "notes": "Staffed store hours from the official location page\u2019s opening-hours data."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page describes the store as being on Broadway north of Dyckman St. The same mailbox-services template also lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store unless the store\u2019s own page says so. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ny/new-york/4867-broadway"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ny/new-york/4867-broadway/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    }
+  ]
+}

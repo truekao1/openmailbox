@@ -1,0 +1,109 @@
+---
+layout: base.njk
+permalink: "/virtual-mailboxes/"
+eleventyComputed:
+  title: "Virtual mailbox comparison — Anytime Mailbox, iPostal1, PostScan Mail, and Traveling Mailbox · {{ site.name }}"
+  description: "A side-by-side look at Anytime Mailbox, iPostal1, PostScan Mail, and Traveling Mailbox. Features and prices are copied from each company’s official public pages and dated when last checked."
+  ogType: "article"
+  breadcrumbs:
+    - name: Home
+      url: /
+    - name: Virtual mailboxes
+      url: /virtual-mailboxes/
+  faqs:
+    - q: "What is a virtual mailbox?"
+      a: "A virtual mailbox is a real street address where a provider receives your mail and packages. You manage those items online — often by viewing envelope photos, requesting a content scan, forwarding, shredding, or scheduling a pickup — instead of visiting a PO Box during lobby hours."
+    - q: "Do I still need USPS Form 1583?"
+      a: "Yes, if the provider is receiving U.S. Mail for you as a commercial mail receiving agency. Each company describes its own identification and Form 1583 steps on its site."
+    - q: "Why do some prices say “as low as” or “starting at”?"
+      a: "Several providers price by address or location tier. We quote the figures on their official pricing or plan pages and note when the same site also shows higher prices or address add-ons. Always confirm the live plan card for the address you want."
+    - q: "Are the links on this page affiliate links?"
+      a: "Not yet. Until a program issues a tracked URL, the buttons go to each company’s public website. OpenMailbox may later earn a commission from an approved affiliate link, at no extra cost to you. See the affiliate disclosure."
+---
+<article class="prose wrap compare-page">
+  {% include "partials/breadcrumbs.njk" %}
+  <p class="eyebrow">Comparison</p>
+  <h1>Virtual mailbox comparison</h1>
+  <p>These four services give you a real street address and a way to manage mail online. Every price, allowance, and feature below is copied from an official public page and dated when we last checked it. If a figure was missing, inconsistent, or only partly visible, we say so instead of filling the gap.</p>
+  <p>Looking for a storefront box you can walk up to? Start with the <a href="/ny/new-york/">New York</a> or <a href="/ca/los-angeles/">Los Angeles</a> directories, or the <a href="/">city list</a>.</p>
+  <p class="disclosure">{{ site.disclosure }}</p>
+
+  <div class="table-scroll compare-wrap">
+    <table class="listing-table compare-table">
+      <thead>
+        <tr>
+          <th scope="col">Provider</th>
+          <th scope="col">Published starting price</th>
+          <th scope="col">What official plan cards include</th>
+          <th scope="col">Last checked</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for provider in virtualProviders %}
+        <tr>
+          <td>
+            <a class="listing-name" href="#{{ provider.id }}">{{ provider.name }}</a>
+          </td>
+          <td><p class="small">{{ provider.startingPrice }}</p></td>
+          <td>
+            <ul class="plan-chips">
+              {% for plan in provider.plans %}
+              <li><strong>{{ plan.name }}:</strong> {{ plan.price }}</li>
+              {% endfor %}
+            </ul>
+          </td>
+          <td>{{ provider.lastChecked | displayDate }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+  {% for provider in virtualProviders %}
+  {% set program = site.affiliates[provider.id] %}
+  <section id="{{ provider.id }}" class="provider-block">
+    <h2>{{ provider.name }}</h2>
+    <p>{{ provider.startingPrice }}</p>
+    <h3>Published plans</h3>
+    <ul>
+      {% for plan in provider.plans %}
+      <li><strong>{{ plan.name }}</strong> — {{ plan.price }}{% if plan.details %} {{ plan.details }}{% endif %}</li>
+      {% endfor %}
+    </ul>
+    <h3>Features listed on official pages</h3>
+    <ul>
+      {% for feature in provider.features %}
+      <li>{{ feature }}</li>
+      {% endfor %}
+    </ul>
+    <h3>Allowances and extra fees, as published</h3>
+    <p>{{ provider.allowances }}</p>
+    {% if provider.notes %}
+    <p>{{ provider.notes }}</p>
+    {% endif %}
+    <p class="small muted">Sources, last checked {{ provider.lastChecked | displayDate }}:
+      {% for source in provider.sources %}
+      <a href="{{ source.url }}" rel="noopener">{{ source.label }}</a>{% if not loop.last %}; {% endif %}
+      {% endfor %}
+    </p>
+    {% if program %}
+    <p>
+      <a class="button" href="{{ program | affiliateHref }}" {% if program | affiliateIsTracked %}rel="sponsored nofollow noopener"{% else %}rel="noopener"{% endif %} target="_blank">Visit {{ provider.name }}</a>
+      {% if not (program | affiliateIsTracked) %}
+      <span class="muted small">This is the public website, not a tracked affiliate link.</span>
+      {% endif %}
+    </p>
+    {% endif %}
+  </section>
+  {% endfor %}
+
+  <section class="faq" id="faq" aria-labelledby="faq-heading">
+    <h2 id="faq-heading">Frequently asked questions</h2>
+    {% for faq in faqs %}
+    <details>
+      <summary>{{ faq.q }}</summary>
+      <p>{{ faq.a }}</p>
+    </details>
+    {% endfor %}
+  </section>
+</article>

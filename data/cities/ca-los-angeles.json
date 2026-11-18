@@ -1,0 +1,525 @@
+{
+  "slug": "ca-los-angeles",
+  "city": "Los Angeles",
+  "citySlug": "los-angeles",
+  "state": "CA",
+  "stateName": "California",
+  "focus": "Los Angeles and nearby Westside communities",
+  "lastUpdated": "2026-11-18",
+  "intro": "This first Los Angeles page covers private mailbox stores in the city and nearby Westside communities \u2014 including one Beverly Hills address, clearly labeled \u2014 whose own public pages list an address, staffed hours, and the carriers they accept. It is not a complete metro inventory. 24-hour lobby access is flagged only when the store\u2019s page says so. The UPS Store pages mention 24-hour access only at participating locations, so that flag is off for those stores. Box availability can change; treat it as something to confirm. If you cannot get to a storefront, compare virtual mailbox services.",
+  "listings": [
+    {
+      "name": "Mail and More",
+      "area": "Los Angeles \u00b7 Westwood Blvd",
+      "address": "2355 Westwood Blvd, Los Angeles, CA 90064",
+      "phone": "(310) 470-6423",
+      "website": "https://www.mailmoreca.com/mailbox-rental/",
+      "bookingUrl": "https://www.mailmoreca.com/mailbox-rental/",
+      "hours": {
+        "monday": "9:00 AM\u20135:30 PM",
+        "tuesday": "9:00 AM\u20135:30 PM",
+        "wednesday": "9:00 AM\u20135:30 PM",
+        "thursday": "9:00 AM\u20135:30 PM",
+        "friday": "9:00 AM\u20135:30 PM",
+        "saturday": "10:00 AM\u20134:30 PM",
+        "sunday": "Not published",
+        "notes": "Staffed business hours from the mailbox rental page: Monday to Friday 9:00 AM\u20135:30 PM and Saturday 10:00 AM\u20134:30 PM. Sunday hours were not published. The same page says mailbox customers have 24-hour access to the mailbox. A text line, (855) 445-1759, is also listed."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "Other major carriers"
+      ],
+      "carriersNotes": "The mailbox rental page says the store offers mail and parcel receiving from all major carriers, and that unlike the Postal Office it handles deliveries from UPS, FedEx, and the other major carriers.",
+      "flags": {
+        "access24": true,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The official page claims 24-hour access to the mailbox. It does not spell out whether packages too large for a box can be picked up after staffed hours. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "The page says there are no set-up fees and to ask about multi-month discounts. It does not publish a standard monthly box rate on the page we checked.",
+      "sources": [
+        {
+          "label": "Mailbox rental page",
+          "url": "https://www.mailmoreca.com/mailbox-rental/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "US 24/7 Postal Center",
+      "area": "Los Angeles \u00b7 9854 National Blvd",
+      "address": "9854 National Blvd, Los Angeles, CA 90034",
+      "phone": "(310) 559-1393",
+      "website": "https://www.us247-postalcenter.com/Mailbox-Rental",
+      "bookingUrl": "https://www.us247-postalcenter.com/Mailbox-Rental",
+      "hours": {
+        "monday": "9:00 AM\u20135:30 PM",
+        "tuesday": "9:00 AM\u20135:30 PM",
+        "wednesday": "9:00 AM\u20135:30 PM",
+        "thursday": "9:00 AM\u20135:30 PM",
+        "friday": "9:00 AM\u20135:30 PM",
+        "saturday": "10:00 AM\u20133:00 PM",
+        "sunday": "Closed",
+        "notes": "Staffed store hours from the week of November 18, 2026, as shown on the mailbox rental page. The same page says mailbox customers have 24-hour access to a lit, secured lobby."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL",
+        "Couriers"
+      ],
+      "carriersNotes": "The mailbox rental page says the store accepts packages and mail from the Post Office, UPS, FedEx, DHL, and couriers.",
+      "flags": {
+        "access24": true,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Mailbox rental page",
+          "url": "https://www.us247-postalcenter.com/Mailbox-Rental"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Your Mailbox Direct LA",
+      "area": "Los Angeles \u00b7 7401 Crenshaw Blvd",
+      "address": "7401 Crenshaw Blvd., Los Angeles, CA 90043",
+      "phone": "(323) 863-1299",
+      "website": "https://www.yourmailboxdirect.com/Mailbox-Rental",
+      "bookingUrl": "https://www.yourmailboxdirect.com/Mailbox-Rental",
+      "hours": {
+        "monday": "9:00 AM\u20136:00 PM",
+        "tuesday": "9:00 AM\u20136:00 PM",
+        "wednesday": "9:00 AM\u20136:00 PM",
+        "thursday": "9:00 AM\u20136:00 PM",
+        "friday": "9:00 AM\u20136:00 PM",
+        "saturday": "9:00 AM\u20132:00 PM",
+        "sunday": "Closed",
+        "notes": "Staffed store hours from the week of November 18, 2026, as shown on the mailbox rental page. The same page says mailbox customers have 24-hour access to a lit, secured lobby."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL",
+        "Couriers"
+      ],
+      "carriersNotes": "The mailbox rental page says the store accepts packages and mail from the Post Office, UPS, FedEx, DHL, and couriers.",
+      "flags": {
+        "access24": true,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Mailbox rental page",
+          "url": "https://www.yourmailboxdirect.com/Mailbox-Rental"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Speedy Smart Mailbox & More Inc",
+      "area": "Los Angeles \u00b7 3371 Glendale Blvd",
+      "address": "3371 Glendale Blvd 130, Los Angeles, CA 90039",
+      "phone": "(323) 217-5404",
+      "website": "https://www.speedysmartmailbox.com/Products-Services/Mailbox-Rental",
+      "bookingUrl": "https://www.speedysmartmailbox.com/Products-Services/Mailbox-Rental",
+      "hours": {
+        "monday": "9:00 AM\u20136:00 PM",
+        "tuesday": "9:00 AM\u20136:00 PM",
+        "wednesday": "9:00 AM\u20136:00 PM",
+        "thursday": "9:00 AM\u20136:00 PM",
+        "friday": "9:00 AM\u20136:00 PM",
+        "saturday": "10:00 AM\u20134:00 PM",
+        "sunday": "Closed",
+        "notes": "Staffed store hours from the week of November 18, 2026, as shown on the mailbox rental page. The same page says mailbox customers have 24-hour access to a lit, secured lobby."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL",
+        "Couriers"
+      ],
+      "carriersNotes": "The mailbox rental page says the store accepts packages and mail from the Post Office, UPS, FedEx, DHL, and couriers.",
+      "flags": {
+        "access24": true,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Mailbox rental page",
+          "url": "https://www.speedysmartmailbox.com/Products-Services/Mailbox-Rental"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Brentwood Postal Center",
+      "area": "Los Angeles \u00b7 12021 Wilshire Blvd",
+      "address": "12021 Wilshire Blvd., Los Angeles, CA 90025",
+      "phone": "(310) 479-6446",
+      "website": "https://www.brentwoodpostalcenter.org/Products-Services/Mailbox-Rental",
+      "bookingUrl": "https://www.brentwoodpostalcenter.org/Products-Services/Mailbox-Rental",
+      "hours": {
+        "monday": "10:00 AM\u20135:00 PM",
+        "tuesday": "10:00 AM\u20135:00 PM",
+        "wednesday": "10:00 AM\u20135:00 PM",
+        "thursday": "10:00 AM\u20135:00 PM",
+        "friday": "10:00 AM\u20135:00 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "notes": "Staffed store hours from the week of November 18, 2026, as shown on the mailbox rental page (Monday\u2013Friday 10:00 AM\u20135:00 PM; Saturday and Sunday closed). The same page says mailbox customers have 24/7 access to mail and packages and that the lobby is lit and secured 24/7."
+      },
+      "carriers": [
+        "Every courier"
+      ],
+      "carriersNotes": "The mailbox rental page says the store offers free 24/7 package receiving and accepts packages and mail from every courier.",
+      "flags": {
+        "access24": true,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Mailbox rental page",
+          "url": "https://www.brentwoodpostalcenter.org/Products-Services/Mailbox-Rental"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Mail Boxes Times",
+      "area": "Beverly Hills \u00b7 9461 Charleville Blvd",
+      "address": "9461 Charleville Blvd, Beverly Hills, CA 90212",
+      "phone": "(310) 276-5076",
+      "website": "https://www.mailboxestimes.com/mailbox-rental",
+      "bookingUrl": "https://www.mailboxestimes.com/mailbox-rental",
+      "hours": {
+        "monday": "9:00 AM\u20136:00 PM",
+        "tuesday": "9:00 AM\u20136:00 PM",
+        "wednesday": "9:00 AM\u20136:00 PM",
+        "thursday": "9:00 AM\u20136:00 PM",
+        "friday": "9:00 AM\u20136:00 PM",
+        "saturday": "10:00 AM\u20134:00 PM",
+        "sunday": "Closed",
+        "notes": "Staffed store hours from the mailbox rental page: Monday\u2013Friday 9:00 AM\u20136:00 PM, Saturday 10:00 AM\u20134:00 PM, Sunday closed. The same page says mailbox customers have 24-hour, 7-day access to the facility."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The mailbox rental page says the store receives packages from all carriers, and its FAQ answers \u201cCan I get packages from any carrier?\u201d with yes.",
+      "flags": {
+        "access24": true,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "This listing is in Beverly Hills, included here because it is a nearby Westside option for Los Angeles searchers. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "The mailbox rental page publishes personal, business, medium, and corporate rates for 3, 6, and 12 months, plus a $20 security fee and a $15 one-time setup fee. Confirm the current rate when you rent.",
+      "sources": [
+        {
+          "label": "Mailbox rental page",
+          "url": "https://www.mailboxestimes.com/mailbox-rental"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store \u2014 3126 S Sepulveda Blvd",
+      "area": "Los Angeles \u00b7 3126 S Sepulveda Blvd",
+      "address": "3126 S Sepulveda Blvd, Los Angeles, CA 90034",
+      "phone": "(424) 273-1970",
+      "website": "https://locations.theupsstore.com/ca/los-angeles/3126-s-sepulveda-blvd",
+      "bookingUrl": "https://locations.theupsstore.com/ca/los-angeles/3126-s-sepulveda-blvd/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM\u20137:00 PM",
+        "tuesday": "8:30 AM\u20137:00 PM",
+        "wednesday": "8:30 AM\u20137:00 PM",
+        "thursday": "8:30 AM\u20137:00 PM",
+        "friday": "8:30 AM\u20137:00 PM",
+        "saturday": "9:00 AM\u20135:00 PM",
+        "sunday": "11:00 AM\u20134:00 PM",
+        "notes": "Staffed store hours from the official location page\u2019s opening-hours data."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The same mailbox-services template also lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store unless the store\u2019s own page says so. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/los-angeles/3126-s-sepulveda-blvd"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/los-angeles/3126-s-sepulveda-blvd/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store \u2014 3336 S La Cienega Blvd",
+      "area": "Los Angeles \u00b7 3336 S La Cienega Blvd",
+      "address": "3336 S La Cienega Blvd, Los Angeles, CA 90016",
+      "phone": "(323) 879-9569",
+      "website": "https://locations.theupsstore.com/ca/los-angeles/3336-s-la-cienega-blvd",
+      "bookingUrl": "https://locations.theupsstore.com/ca/los-angeles/3336-s-la-cienega-blvd/mailbox-services",
+      "hours": {
+        "monday": "9:00 AM\u20137:00 PM",
+        "tuesday": "9:00 AM\u20137:00 PM",
+        "wednesday": "9:00 AM\u20137:00 PM",
+        "thursday": "9:00 AM\u20137:00 PM",
+        "friday": "9:00 AM\u20137:00 PM",
+        "saturday": "9:00 AM\u20135:00 PM",
+        "sunday": "10:00 AM\u20133:00 PM",
+        "notes": "Staffed store hours from the official location page\u2019s opening-hours data."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The same mailbox-services template also lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store unless the store\u2019s own page says so. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/los-angeles/3336-s-la-cienega-blvd"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/los-angeles/3336-s-la-cienega-blvd/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store \u2014 4859 West Slauson",
+      "area": "Los Angeles \u00b7 4859 West Slauson, Unit A",
+      "address": "4859 West Slauson Unit A, Los Angeles, CA 90056",
+      "phone": "(323) 291-4800",
+      "website": "https://locations.theupsstore.com/ca/los-angeles/4859-west-slauson",
+      "bookingUrl": "https://locations.theupsstore.com/ca/los-angeles/4859-west-slauson/mailbox-services",
+      "hours": {
+        "monday": "9:00 AM\u20137:00 PM",
+        "tuesday": "9:00 AM\u20137:00 PM",
+        "wednesday": "9:00 AM\u20137:00 PM",
+        "thursday": "9:00 AM\u20137:00 PM",
+        "friday": "9:00 AM\u20137:00 PM",
+        "saturday": "9:00 AM\u20135:00 PM",
+        "sunday": "10:00 AM\u20133:00 PM",
+        "notes": "Staffed store hours from the official location page\u2019s opening-hours data."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The same mailbox-services template also lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store unless the store\u2019s own page says so. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/los-angeles/4859-west-slauson"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/los-angeles/4859-west-slauson/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store \u2014 232 E 2nd St",
+      "area": "Los Angeles \u00b7 232 E 2nd St, Unit A",
+      "address": "232 E 2nd St Unit A, Los Angeles, CA 90012",
+      "phone": "(213) 395-0466",
+      "website": "https://locations.theupsstore.com/ca/los-angeles/232-e-2nd-st",
+      "bookingUrl": "https://locations.theupsstore.com/ca/los-angeles/232-e-2nd-st/mailbox-services",
+      "hours": {
+        "monday": "9:00 AM\u20137:00 PM",
+        "tuesday": "9:00 AM\u20137:00 PM",
+        "wednesday": "9:00 AM\u20137:00 PM",
+        "thursday": "9:00 AM\u20137:00 PM",
+        "friday": "9:00 AM\u20137:00 PM",
+        "saturday": "9:00 AM\u20135:00 PM",
+        "sunday": "11:00 AM\u20134:00 PM",
+        "notes": "Staffed store hours from the official location page\u2019s opening-hours data."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The same mailbox-services template also lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store unless the store\u2019s own page says so. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/los-angeles/232-e-2nd-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/los-angeles/232-e-2nd-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store \u2014 2210 W Sunset Blvd",
+      "area": "Los Angeles \u00b7 2210 W Sunset Blvd",
+      "address": "2210 W Sunset Blvd, Los Angeles, CA 90026",
+      "phone": "(213) 232-9190",
+      "website": "https://locations.theupsstore.com/ca/los-angeles/2210-w-sunset-blvd",
+      "bookingUrl": "https://locations.theupsstore.com/ca/los-angeles/2210-w-sunset-blvd/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM\u20137:00 PM",
+        "tuesday": "8:30 AM\u20137:00 PM",
+        "wednesday": "8:30 AM\u20137:00 PM",
+        "thursday": "8:30 AM\u20137:00 PM",
+        "friday": "8:30 AM\u20137:00 PM",
+        "saturday": "10:30 AM\u20134:30 PM",
+        "sunday": "10:30 AM\u20133:30 PM",
+        "notes": "Staffed store hours from the official location page\u2019s opening-hours data."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The same mailbox-services template also lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store unless the store\u2019s own page says so. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/los-angeles/2210-w-sunset-blvd"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/los-angeles/2210-w-sunset-blvd/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store \u2014 1905 N Wilcox Ave",
+      "area": "Los Angeles \u00b7 1905 N Wilcox Ave",
+      "address": "1905 N Wilcox Ave, Los Angeles, CA 90068",
+      "phone": "(323) 845-0767",
+      "website": "https://locations.theupsstore.com/ca/los-angeles/1905-n-wilcox-ave",
+      "bookingUrl": "https://locations.theupsstore.com/ca/los-angeles/1905-n-wilcox-ave/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM\u20136:30 PM",
+        "tuesday": "8:30 AM\u20136:30 PM",
+        "wednesday": "8:30 AM\u20136:30 PM",
+        "thursday": "8:30 AM\u20136:30 PM",
+        "friday": "8:30 AM\u20136:30 PM",
+        "saturday": "8:30 AM\u20134:30 PM",
+        "sunday": "10:00 AM\u20133:00 PM",
+        "notes": "Staffed store hours from the official location page\u2019s opening-hours data."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The same mailbox-services template also lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store unless the store\u2019s own page says so. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/los-angeles/1905-n-wilcox-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/los-angeles/1905-n-wilcox-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    }
+  ]
+}

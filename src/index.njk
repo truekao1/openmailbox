@@ -1,0 +1,40 @@
+---
+layout: base.njk
+permalink: "/"
+eleventyComputed:
+  title: "{{ site.name }} — private mailboxes with 24-hour access, all-carrier packages, and virtual mail scanning"
+  description: "{{ site.description }}"
+  breadcrumbs:
+    - name: Home
+      url: /
+---
+<section class="page-hero wrap">
+  {% include "partials/breadcrumbs.njk" %}
+  <p class="eyebrow">A public-source directory</p>
+  <h1>{{ site.tagline }}</h1>
+  <p class="lede">{{ site.description }} We only list hours, carriers, and services that a business publishes, and we date every check. If we cannot verify it, it does not go on the page.</p>
+</section>
+
+<section class="wrap" id="cities">
+  <div class="section-head">
+    <h2>Cities</h2>
+    <p class="muted">Each city is one data file, so a new page can ship as soon as the listings are verified.</p>
+  </div>
+  <ul class="city-grid">
+    {% for city in cities %}
+    <li>
+      <a class="city-card" href="{{ city | cityPath }}">
+        <h3>{{ city.city }}, {{ city.state }}</h3>
+        <p>{% if city.focus %}{{ city.focus }} focus · {% endif %}{{ city.listings | length }} listings</p>
+        <p class="small muted">Updated {{ city.lastUpdated | displayDate }}</p>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="wrap tonight">
+  <h2>Why this directory exists</h2>
+  <p>People looking for a mailbox often land on a USPS PO Box that is waitlisted, closed after hours, or unable to take a UPS, FedEx, or Amazon package. This site is for the other options: private mailbox stores that publish 24-hour lobby access or all-carrier receiving, and virtual mailbox services that scan or forward your mail.</p>
+  <p><a href="/virtual-mailboxes/">Compare virtual mailbox services</a> · <a href="/about/">How we research listings</a></p>
+</section>
