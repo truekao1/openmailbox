@@ -1,0 +1,852 @@
+{
+  "slug": "il-chicago",
+  "city": "Chicago",
+  "citySlug": "chicago",
+  "state": "IL",
+  "stateName": "Illinois",
+  "focus": "Chicago (Loop, Near North, North Side, and West Loop)",
+  "lastUpdated": "2026-11-18",
+  "intro": "This first Chicago page covers private mailbox stores in the city — mostly the Loop, River North, the Near North Side, Lincoln Park, Lakeview, and the West Loop, plus a few independent stores on the North and Northwest Sides — whose own public pages list an address, staffed hours, and package acceptance. It is not a complete metro inventory. 24-hour lobby access is flagged only when the store’s own page says so. The UPS Store pages mention 24-hour access only at participating locations, so that flag is off for those stores. Box availability can change; treat it as something to confirm. If you cannot get to a storefront, compare virtual mailbox services.",
+  "listings": [
+    {
+      "name": "MY MAIL CENTER",
+      "area": "Chicago · 332 S Michigan Ave STE 121",
+      "address": "332 S Michigan Ave STE 121, Chicago, IL 60604",
+      "phone": "(312) 922-1788",
+      "website": "https://www.mymailcenters.com/Products-Services/Mailbox-Rental",
+      "bookingUrl": "https://www.mymailcenters.com/Products-Services/Mailbox-Rental",
+      "hours": {
+        "monday": "9:00 AM–6:00 PM",
+        "tuesday": "9:00 AM–6:00 PM",
+        "wednesday": "9:00 AM–6:00 PM",
+        "thursday": "9:00 AM–6:00 PM",
+        "friday": "9:00 AM–6:00 PM",
+        "saturday": "10:00 AM–2:00 PM",
+        "sunday": "Closed",
+        "notes": "Staffed store hours from the week of November 18, 2026, as shown on the mailbox rental page. The same page says mailbox customers have 24-hour access to a lit, secured mailbox area."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL",
+        "Couriers"
+      ],
+      "carriersNotes": "The mailbox rental page says the store accepts packages and mail from the Post Office, UPS, FedEx, DHL, and couriers.",
+      "flags": {
+        "access24": true,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox rental page claims 24-hour access to the mailbox area. It does not say whether packages too large for a box can be picked up after staffed hours. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Mailbox rental page",
+          "url": "https://www.mymailcenters.com/Products-Services/Mailbox-Rental"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Shipping & Beyond",
+      "area": "Chicago · 1440 W Taylor St",
+      "address": "1440 W Taylor St, Chicago, IL 60607",
+      "phone": "(312) 226-0111",
+      "website": "https://www.shippingandbeyond.com/Mailbox-Rentals/Mailbox-Rental",
+      "bookingUrl": "https://www.shippingandbeyond.com/Mailbox-Rentals/Mailbox-Rental",
+      "hours": {
+        "monday": "9:00 AM–6:00 PM",
+        "tuesday": "9:00 AM–6:00 PM",
+        "wednesday": "9:00 AM–6:00 PM",
+        "thursday": "9:00 AM–6:00 PM",
+        "friday": "9:00 AM–6:00 PM",
+        "saturday": "10:00 AM–4:00 PM",
+        "sunday": "Closed",
+        "notes": "Staffed store hours from the week of November 18, 2026, as shown on the mailbox rental page. The same page says mailbox customers have 24-hour access to a lit, secured mailbox area."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL",
+        "Couriers"
+      ],
+      "carriersNotes": "The mailbox rental page says the store accepts packages and mail from the Post Office, UPS, FedEx, DHL, and couriers.",
+      "flags": {
+        "access24": true,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox rental page claims 24-hour access to the mailbox area. It does not say whether packages too large for a box can be picked up after staffed hours. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Mailbox rental page",
+          "url": "https://www.shippingandbeyond.com/Mailbox-Rentals/Mailbox-Rental"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "My Mail Center Roscoe Village",
+      "area": "Chicago · Roscoe Village (2155 W Belmont)",
+      "address": "2155 West Belmont, Chicago, IL 60618",
+      "phone": "(773) 477-5600",
+      "website": "https://www.mymailcenterrv.com/Products-Services/Mailbox-Rental",
+      "bookingUrl": "https://www.mymailcenterrv.com/Products-Services/Mailbox-Rental",
+      "hours": {
+        "monday": "9:00 AM–6:00 PM",
+        "tuesday": "9:00 AM–6:00 PM",
+        "wednesday": "9:00 AM–6:00 PM",
+        "thursday": "9:00 AM–6:00 PM",
+        "friday": "9:00 AM–6:00 PM",
+        "saturday": "10:00 AM–2:00 PM",
+        "sunday": "Closed",
+        "notes": "Staffed store hours from the week of November 18, 2026, as shown on the mailbox rental page. The same page says mailbox customers have 24-hour access to a lit, secured mailbox area."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL",
+        "Couriers"
+      ],
+      "carriersNotes": "The mailbox rental page says the store accepts packages and mail from the Post Office, UPS, FedEx, DHL, and couriers.",
+      "flags": {
+        "access24": true,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox rental page claims 24-hour access to the mailbox area. It does not say whether packages too large for a box can be picked up after staffed hours. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Mailbox rental page",
+          "url": "https://www.mymailcenterrv.com/Products-Services/Mailbox-Rental"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "4 Montrose Express",
+      "area": "Chicago · 4000 W Montrose Ave",
+      "address": "4000 W Montrose Ave, Chicago, IL 60641",
+      "phone": "(773) 725-7000",
+      "website": "https://www.4montroseexpress.com/Products-Services/Mailbox-Rental",
+      "bookingUrl": "https://www.4montroseexpress.com/Products-Services/Mailbox-Rental",
+      "hours": {
+        "monday": "8:00 AM–8:00 PM",
+        "tuesday": "8:00 AM–8:00 PM",
+        "wednesday": "8:00 AM–8:00 PM",
+        "thursday": "8:00 AM–8:00 PM",
+        "friday": "8:00 AM–8:00 PM",
+        "saturday": "9:00 AM–8:00 PM",
+        "sunday": "10:00 AM–4:00 PM",
+        "notes": "Staffed store hours from the week of November 18, 2026, as shown on the mailbox rental page. The same page says mailbox customers have 24-hour access to a lit, secured mailbox area."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL",
+        "Couriers"
+      ],
+      "carriersNotes": "The mailbox rental page says the store accepts packages and mail from the Post Office, UPS, FedEx, DHL, and couriers.",
+      "flags": {
+        "access24": true,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox rental page claims 24-hour access to the mailbox area. It does not say whether packages too large for a box can be picked up after staffed hours. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Mailbox rental page",
+          "url": "https://www.4montroseexpress.com/Products-Services/Mailbox-Rental"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store — 17 E Monroe St",
+      "area": "Chicago · 17 E Monroe St",
+      "address": "17 E Monroe St, Chicago, IL 60603",
+      "phone": "(312) 917-1705",
+      "website": "https://locations.theupsstore.com/il/chicago/17-e-monroe-st",
+      "bookingUrl": "https://locations.theupsstore.com/il/chicago/17-e-monroe-st/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:30 PM",
+        "tuesday": "8:00 AM–6:30 PM",
+        "wednesday": "8:00 AM–6:30 PM",
+        "thursday": "8:00 AM–6:30 PM",
+        "friday": "8:00 AM–6:30 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "Location note from the official page: In The Palmer House Hilton At The Wabash St. Entrance. The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/il/chicago/17-e-monroe-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/il/chicago/17-e-monroe-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store — 192 N Wells St",
+      "area": "Chicago · 192 N Wells St",
+      "address": "192 N Wells St, Chicago, IL 60606",
+      "phone": "(312) 977-0877",
+      "website": "https://locations.theupsstore.com/il/chicago/192-n-wells-st",
+      "bookingUrl": "https://locations.theupsstore.com/il/chicago/192-n-wells-st/mailbox-services",
+      "hours": {
+        "monday": "10:00 AM–6:00 PM",
+        "tuesday": "10:00 AM–6:00 PM",
+        "wednesday": "10:00 AM–6:00 PM",
+        "thursday": "10:00 AM–6:00 PM",
+        "friday": "10:00 AM–6:00 PM",
+        "saturday": "8:00 AM–6:00 PM",
+        "sunday": "8:00 AM–6:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "Location note from the official page: Entrance Door On 192 N Wells Street. The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/il/chicago/192-n-wells-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/il/chicago/192-n-wells-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store — 27 N Wacker Dr",
+      "area": "Chicago · 27 N Wacker Dr",
+      "address": "27 N Wacker Dr, Chicago, IL 60606",
+      "phone": "(312) 372-2727",
+      "website": "https://locations.theupsstore.com/il/chicago/27-n-wacker-dr",
+      "bookingUrl": "https://locations.theupsstore.com/il/chicago/27-n-wacker-dr/mailbox-services",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "Location note from the official page: Downtown Financial District Between Madison And Washington. The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/il/chicago/27-n-wacker-dr"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/il/chicago/27-n-wacker-dr/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store — 323 E Wacker Dr",
+      "area": "Chicago · 323 E Wacker Dr",
+      "address": "323 E Wacker Dr, Chicago, IL 60601",
+      "phone": "(312) 268-8290",
+      "website": "https://locations.theupsstore.com/il/chicago/323-e-wacker-dr",
+      "bookingUrl": "https://locations.theupsstore.com/il/chicago/323-e-wacker-dr/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "9:00 AM–3:00 PM",
+        "sunday": "9:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "Location note from the official page: Swissotel Chicago - Pedway Level. The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/il/chicago/323-e-wacker-dr"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/il/chicago/323-e-wacker-dr/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store — 207 E Ohio St",
+      "area": "Chicago · 207 E Ohio St",
+      "address": "207 E Ohio St, Chicago, IL 60611",
+      "phone": "(312) 644-6245",
+      "website": "https://locations.theupsstore.com/il/chicago/207-e-ohio-st",
+      "bookingUrl": "https://locations.theupsstore.com/il/chicago/207-e-ohio-st/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM–6:30 PM",
+        "tuesday": "8:30 AM–6:30 PM",
+        "wednesday": "8:30 AM–6:30 PM",
+        "thursday": "8:30 AM–6:30 PM",
+        "friday": "8:30 AM–6:30 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "Location note from the official page: 1 1/2 Blocks East Of Michigan Ave Between Fairbanks & St. Clair. The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/il/chicago/207-e-ohio-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/il/chicago/207-e-ohio-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store — 301 W Grand Ave",
+      "area": "Chicago · 301 W Grand Ave",
+      "address": "301 W Grand Ave, Chicago, IL 60654",
+      "phone": "(312) 828-0505",
+      "website": "https://locations.theupsstore.com/il/chicago/301-w-grand-ave",
+      "bookingUrl": "https://locations.theupsstore.com/il/chicago/301-w-grand-ave/mailbox-services",
+      "hours": {
+        "monday": "7:00 AM–9:00 PM",
+        "tuesday": "7:00 AM–9:00 PM",
+        "wednesday": "7:00 AM–9:00 PM",
+        "thursday": "7:00 AM–9:00 PM",
+        "friday": "7:00 AM–9:00 PM",
+        "saturday": "9:30 AM–5:30 PM",
+        "sunday": "10:30 AM–4:30 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "Location note from the official page: Underneath the Brown Line - Across the Street from Binny's. The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/il/chicago/301-w-grand-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/il/chicago/301-w-grand-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store — 47 W Division St",
+      "area": "Chicago · 47 W Division St",
+      "address": "47 W Division St, Chicago, IL 60610",
+      "phone": "(312) 943-6260",
+      "website": "https://locations.theupsstore.com/il/chicago/47-w-division-st",
+      "bookingUrl": "https://locations.theupsstore.com/il/chicago/47-w-division-st/mailbox-services",
+      "hours": {
+        "monday": "9:00 AM–7:30 PM",
+        "tuesday": "9:00 AM–7:30 PM",
+        "wednesday": "9:00 AM–7:30 PM",
+        "thursday": "9:00 AM–7:30 PM",
+        "friday": "9:00 AM–7:30 PM",
+        "saturday": "10:00 AM–5:00 PM",
+        "sunday": "12:00 PM–5:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "Location note from the official page: Located just West of Division & Dearborn, Next To Starbucks and Wingstop. The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/il/chicago/47-w-division-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/il/chicago/47-w-division-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store — 1235 N Clybourn Ave",
+      "area": "Chicago · 1235 N Clybourn Ave",
+      "address": "1235 N Clybourn Ave, Chicago, IL 60610",
+      "phone": "(312) 335-0052",
+      "website": "https://locations.theupsstore.com/il/chicago/1235-n-clybourn-ave",
+      "bookingUrl": "https://locations.theupsstore.com/il/chicago/1235-n-clybourn-ave/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–7:00 PM",
+        "tuesday": "8:00 AM–7:00 PM",
+        "wednesday": "8:00 AM–7:00 PM",
+        "thursday": "8:00 AM–7:00 PM",
+        "friday": "8:00 AM–7:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/il/chicago/1235-n-clybourn-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/il/chicago/1235-n-clybourn-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store — 2506 N Clark St",
+      "area": "Chicago · 2506 N Clark St",
+      "address": "2506 N Clark St, Chicago, IL 60614",
+      "phone": "(773) 935-7755",
+      "website": "https://locations.theupsstore.com/il/chicago/2506-n-clark-st",
+      "bookingUrl": "https://locations.theupsstore.com/il/chicago/2506-n-clark-st/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–7:00 PM",
+        "tuesday": "8:00 AM–7:00 PM",
+        "wednesday": "8:00 AM–7:00 PM",
+        "thursday": "8:00 AM–7:00 PM",
+        "friday": "8:00 AM–7:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "Location note from the official page: Clark And Deming. The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/il/chicago/2506-n-clark-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/il/chicago/2506-n-clark-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store — 3023 N Clark St",
+      "area": "Chicago · 3023 N Clark St",
+      "address": "3023 N Clark St, Chicago, IL 60657",
+      "phone": "(773) 281-8988",
+      "website": "https://locations.theupsstore.com/il/chicago/3023-n-clark-st",
+      "bookingUrl": "https://locations.theupsstore.com/il/chicago/3023-n-clark-st/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM–6:30 PM",
+        "tuesday": "8:30 AM–6:30 PM",
+        "wednesday": "8:30 AM–6:30 PM",
+        "thursday": "8:30 AM–6:30 PM",
+        "friday": "8:30 AM–6:30 PM",
+        "saturday": "10:00 AM–5:00 PM",
+        "sunday": "10:00 AM–5:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "Location note from the official page: Corner Of Clark And Wellington Shopping Center. The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/il/chicago/3023-n-clark-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/il/chicago/3023-n-clark-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store — 3712 N Broadway",
+      "area": "Chicago · 3712 N Broadway",
+      "address": "3712 N Broadway, Chicago, IL 60613",
+      "phone": "(773) 975-7100",
+      "website": "https://locations.theupsstore.com/il/chicago/3712-n-broadway",
+      "bookingUrl": "https://locations.theupsstore.com/il/chicago/3712-n-broadway/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–7:00 PM",
+        "tuesday": "8:00 AM–7:00 PM",
+        "wednesday": "8:00 AM–7:00 PM",
+        "thursday": "8:00 AM–7:00 PM",
+        "friday": "8:00 AM–7:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "Location note from the official page: Between Waveland & Grace St. Shopping Center With Parking Lot. The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/il/chicago/3712-n-broadway"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/il/chicago/3712-n-broadway/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store — 1341 W Fullerton Ave",
+      "area": "Chicago · 1341 W Fullerton Ave",
+      "address": "1341 W Fullerton Ave, Chicago, IL 60614",
+      "phone": "(773) 477-7670",
+      "website": "https://locations.theupsstore.com/il/chicago/1341-w-fullerton-ave",
+      "bookingUrl": "https://locations.theupsstore.com/il/chicago/1341-w-fullerton-ave/mailbox-services",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "10:00 AM–5:00 PM",
+        "sunday": "10:00 AM–5:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "Location note from the official page: Between Southport And Racine Across From Lake Shore Athletic Club. The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/il/chicago/1341-w-fullerton-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/il/chicago/1341-w-fullerton-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store — 917 W Washington Blvd",
+      "area": "Chicago · 917 W Washington Blvd",
+      "address": "917 W Washington Blvd, Chicago, IL 60607",
+      "phone": "(312) 850-4623",
+      "website": "https://locations.theupsstore.com/il/chicago/917-w-washington-blvd",
+      "bookingUrl": "https://locations.theupsstore.com/il/chicago/917-w-washington-blvd/mailbox-services",
+      "hours": {
+        "monday": "9:00 AM–7:30 PM",
+        "tuesday": "9:00 AM–7:30 PM",
+        "wednesday": "9:00 AM–7:30 PM",
+        "thursday": "9:00 AM–7:30 PM",
+        "friday": "9:00 AM–7:30 PM",
+        "saturday": "10:00 AM–5:00 PM",
+        "sunday": "12:00 PM–5:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/il/chicago/917-w-washington-blvd"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/il/chicago/917-w-washington-blvd/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store — 308 S Jefferson St",
+      "area": "Chicago · 308 S Jefferson St",
+      "address": "308 S Jefferson St, Chicago, IL 60661",
+      "phone": "(312) 207-8899",
+      "website": "https://locations.theupsstore.com/il/chicago/308-s-jefferson-st",
+      "bookingUrl": "https://locations.theupsstore.com/il/chicago/308-s-jefferson-st/mailbox-services",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "Location note from the official page: Located on Jefferson between Jackson and Van Buren. The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/il/chicago/308-s-jefferson-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/il/chicago/308-s-jefferson-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store — 1245 S Michigan Ave",
+      "area": "Chicago · 1245 S Michigan Ave",
+      "address": "1245 S Michigan Ave, Chicago, IL 60605",
+      "phone": "(312) 431-1850",
+      "website": "https://locations.theupsstore.com/il/chicago/1245-s-michigan-ave",
+      "bookingUrl": "https://locations.theupsstore.com/il/chicago/1245-s-michigan-ave/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM–7:00 PM",
+        "tuesday": "8:30 AM–7:00 PM",
+        "wednesday": "8:30 AM–7:00 PM",
+        "thursday": "8:30 AM–7:00 PM",
+        "friday": "8:30 AM–7:00 PM",
+        "saturday": "9:30 AM–3:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "Location note from the official page: Roosevelt & Michigan Ave Near Buckingham Fountain. The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/il/chicago/1245-s-michigan-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/il/chicago/1245-s-michigan-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The UPS Store — 47 W Polk St",
+      "area": "Chicago · 47 W Polk St",
+      "address": "47 W Polk St, Chicago, IL 60605",
+      "phone": "(312) 427-7839",
+      "website": "https://locations.theupsstore.com/il/chicago/47-w-polk-st",
+      "bookingUrl": "https://locations.theupsstore.com/il/chicago/47-w-polk-st/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:30 PM",
+        "tuesday": "8:00 AM–6:30 PM",
+        "wednesday": "8:00 AM–6:30 PM",
+        "thursday": "8:00 AM–6:30 PM",
+        "friday": "8:00 AM–6:30 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "Location note from the official page: Printer's Row In Dearborn Station. The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/il/chicago/47-w-polk-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/il/chicago/47-w-polk-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    }
+  ]
+}
