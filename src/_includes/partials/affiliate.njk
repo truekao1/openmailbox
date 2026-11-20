@@ -1,18 +1,16 @@
 <aside class="affiliate-box" id="virtual-mailbox-options">
   {% include "partials/featured-virtual.njk" %}
-  {% set featured = site.affiliates[site.featuredVirtual] if site.featuredVirtual else none %}
-  {% set featuredTracked = featured and (featured | affiliateIsTracked) %}
-  {% if not featuredTracked %}
+  {% if not site.featuredVirtualPrograms or site.featuredVirtualPrograms.length == 0 %}
   <p class="eyebrow">Advertisement · Affiliate disclosure</p>
   <h2>Need a mailbox you can open from anywhere?</h2>
   <p>If you cannot get to a storefront, or the local PO Box is waitlisted, a <strong>virtual mailbox</strong> gives you a real street address and lets you view, scan, forward, or shred mail online. We compare Anytime Mailbox, iPostal1, PostScan Mail, and Traveling Mailbox on our <a href="/virtual-mailboxes/">virtual mailboxes page</a>, using only prices and features those companies publish.</p>
   <p class="disclosure">{{ site.disclosure }}</p>
   {% else %}
-  <p>We also compare Anytime Mailbox, PostScan Mail, and Traveling Mailbox, using only prices and features those companies publish, on the <a href="/virtual-mailboxes/">virtual mailboxes page</a>.</p>
+  <p>We also compare other virtual mailbox services, using only prices and features those companies publish, on the <a href="/virtual-mailboxes/">virtual mailboxes page</a>.</p>
   {% endif %}
   <ul class="affiliate-links">
     {% for key, program in site.affiliates %}
-    {% if not (featuredTracked and program.id == featured.id) %}
+    {% if program.id not in site.featuredVirtualIds %}
     <li>
       <a class="button{% if program | affiliateIsTracked %}{% else %} button-secondary{% endif %}" href="{{ program | affiliateHref }}" {% if program | affiliateIsTracked %}rel="sponsored nofollow noopener"{% else %}rel="noopener"{% endif %} target="_blank">{{ program.name }}</a>
       {% if not (program | affiliateIsTracked) %}

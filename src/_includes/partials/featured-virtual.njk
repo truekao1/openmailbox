@@ -1,11 +1,16 @@
-{% set featured = site.affiliates[site.featuredVirtual] if site.featuredVirtual else none %}
-{% if featured and (featured | affiliateIsTracked) %}
-<div class="featured-virtual">
-  <p class="eyebrow">Featured virtual mailbox · Advertisement</p>
-  <h2>{{ featured.featuredTitle or featured.name }}</h2>
-  <p>{{ featured.featuredBody }}</p>
+{% if site.featuredVirtualPrograms and site.featuredVirtualPrograms.length %}
+<div class="featured-virtual-list">
+  <p class="eyebrow">Featured virtual mailbox{% if site.featuredVirtualPrograms.length > 1 %}es{% endif %} · Advertisement</p>
+  {% for featured in site.featuredVirtualPrograms %}
+  <div class="featured-virtual">
+    <h2>{{ featured.featuredTitle or featured.name }}</h2>
+    <p>{{ featured.featuredBody }}</p>
+    <p class="featured-actions">
+      <a class="button" href="{{ featured | affiliateHref }}" rel="sponsored nofollow noopener" target="_blank">Visit {{ featured.name }}</a>
+    </p>
+  </div>
+  {% endfor %}
   <p class="featured-actions">
-    <a class="button" href="{{ featured | affiliateHref }}" rel="sponsored nofollow noopener" target="_blank">Visit {{ featured.name }}</a>
     <a href="/virtual-mailboxes/">Compare virtual mailbox services</a>
   </p>
   <p class="disclosure">{{ site.disclosureShort or site.disclosure }} See the <a href="/affiliate-disclosure/">affiliate disclosure</a>.</p>

@@ -303,13 +303,18 @@ h2 {
 
 .featured-virtual h2 { margin-top: 0.35rem; }
 .featured-virtual p { max-width: 46rem; }
+.featured-virtual + .featured-virtual {
+  margin-top: 1.15rem;
+  padding-top: 1.15rem;
+  border-top: 1px solid var(--line);
+}
 .featured-actions {
   display: flex;
   flex-wrap: wrap;
   gap: 0.75rem 1.2rem;
   align-items: center;
 }
-.affiliate-box .featured-virtual {
+.affiliate-box .featured-virtual-list {
   margin: 0 0 1.15rem;
   padding: 0 0 1.15rem;
   border-bottom: 1px solid var(--line);
