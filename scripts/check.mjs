@@ -237,6 +237,22 @@ if (fs.existsSync(distDir) && built.status === 0) {
   if (!comparePage.includes("Anytime Mailbox") || !comparePage.includes("PostScan Mail") || !comparePage.includes("iPostal1") || !comparePage.includes("Traveling Mailbox")) {
     fail("virtual mailboxes page is missing one of the four comparison providers");
   }
+  const trackedIpostal = "https://ipostal1.com/?ref=8020";
+  const chicagoPage = fs.readFileSync(path.join(distDir, "il/chicago/index.html"), "utf8");
+  const dallasPage = fs.existsSync(path.join(distDir, "tx/dallas/index.html"))
+    ? fs.readFileSync(path.join(distDir, "tx/dallas/index.html"), "utf8")
+    : "";
+  for (const [label, html] of [
+    ["home page", home],
+    ["New York city page", cityPage],
+    ["Chicago city page", chicagoPage],
+    ["virtual mailboxes page", comparePage],
+    ...(dallasPage ? [["Dallas city page", dallasPage]] : []),
+  ]) {
+    if (!html.includes(trackedIpostal)) fail(`${label} missing iPostal1 referral link ${trackedIpostal}`);
+    if (!html.includes('rel="sponsored nofollow')) fail(`${label} missing rel="sponsored nofollow" on an affiliate link`);
+    if (!html.includes("Some links are affiliate links")) fail(`${label} missing sitewide affiliate disclosure line`);
+  }
   if (prefix && (home.includes(`${prefix}/${prefix.replace(/^\//, "")}`) || cityPage.includes(`${prefix}/${prefix.replace(/^\//, "")}`))) {
     fail("built HTML doubled the path prefix");
   }

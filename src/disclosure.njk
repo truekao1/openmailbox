@@ -23,7 +23,7 @@ eleventyComputed:
     <li>
       <strong>{{ program.name }}</strong>
       {% if program | affiliateIsTracked %}
-      — If you click through the marked link and complete a qualifying signup, OpenMailbox may receive a commission.
+      — If you click through the marked <a href="{{ program | affiliateHref }}" rel="sponsored nofollow noopener" target="_blank">{{ program.name }} link</a> and complete a qualifying signup, OpenMailbox may receive a commission.
       {% else %}
       — The button currently goes to that company’s <a href="{{ program.publicUrl }}" rel="noopener">public website</a>. It is a placeholder until an affiliate link is approved through <a href="{{ program.programUrl }}" rel="noopener">the official program page</a>. We will not present a placeholder as a tracked affiliate URL.
       {% endif %}

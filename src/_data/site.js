@@ -7,9 +7,11 @@
  *   https://truekao1.github.io/openmailbox
  *
  * Affiliate `url` values stay empty until a program issues a tracked
- * link. Templates must then fall back to `publicUrl` as a plain
+ * link. Templates then fall back to `publicUrl` as a plain
  * (non-affiliate) link. Do not present an empty or public URL as a
- * tracked affiliate link.
+ * tracked affiliate link. `featuredVirtual` is the affiliate id shown
+ * in the shared city and homepage callout once that program has a
+ * tracked URL, so new nightly city pages inherit it automatically.
  */
 const url = normalizeSiteUrl("https://truekao1.github.io/openmailbox");
 
@@ -41,7 +43,10 @@ export default {
   emailContact: "azb31pt9@mail.grokbot.com",
   emailsArePlaceholders: false,
   disclosure:
-    "OpenMailbox may earn a commission if you use an approved affiliate link, at no extra cost to you. Until a program approves a tracked URL, buttons go to that company’s public website and are not affiliate links.",
+    "Some links are affiliate links; we may earn a commission at no cost to you. Until a program issues a tracked URL, that button goes to the company’s public website and is not an affiliate link.",
+  disclosureShort:
+    "Some links are affiliate links; we may earn a commission at no cost to you.",
+  featuredVirtual: "ipostal1",
   affiliates: {
     anytimeMailbox: {
       id: "anytimeMailbox",
@@ -53,9 +58,12 @@ export default {
     ipostal1: {
       id: "ipostal1",
       name: "iPostal1",
-      url: "",
+      url: "https://ipostal1.com/?ref=8020",
       publicUrl: "https://ipostal1.com/",
       programUrl: "https://ipostal1.com/affiliate-signup.php",
+      featuredTitle: "A mailbox you can open online",
+      featuredBody:
+        "iPostal1 gives you a real street address and a digital mailbox you can check from anywhere — useful when a local store is closed or a PO Box is waitlisted. Official personal plans start at $9.99 a month for 30 mail items (as published, last checked November 18, 2026). Some addresses cost more, and scans, forwarding, or extra items can add fees. Those plans have no contract.",
     },
     postscanMail: {
       id: "postscanMail",
