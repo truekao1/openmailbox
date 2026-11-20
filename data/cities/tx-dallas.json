@@ -1,0 +1,810 @@
+{
+  "slug": "tx-dallas",
+  "city": "Dallas",
+  "citySlug": "dallas",
+  "state": "TX",
+  "stateName": "Texas",
+  "focus": "Dallas (Uptown, Oak Lawn, Lakewood, East Dallas, Park Cities area, North and Far North Dallas, Downtown, and Oak Cliff)",
+  "lastUpdated": "2026-11-19",
+  "intro": "This first Dallas page covers private mailbox stores inside the city of Dallas whose own public pages list an address, staffed hours, and package acceptance — independent pack-and-ship stores in Uptown, Lakewood, Lake Highlands, East Dallas, the Park Cities area, and Far North Dallas, plus ten UPS Store locations from Oak Cliff to Far North Dallas. It is not a complete metro inventory; Fort Worth and the suburbs are not covered yet. 24-hour lobby access is flagged only when the store’s own page says so. The UPS Store pages mention 24-hour access only at participating locations, so that flag is off for those stores. Box availability can change; treat it as something to confirm. If you cannot get to a storefront, compare virtual mailbox services.",
+  "listings": [
+    {
+      "name": "Ship Express",
+      "area": "Dallas · Mockingbird Ln (near Love Field / Park Cities)",
+      "address": "3026 Mockingbird Ln, Dallas, TX 75205",
+      "phone": "(214) 692-9773",
+      "website": "https://www.ship-express.com/Products-Services/Mailbox-Rental",
+      "bookingUrl": "https://www.ship-express.com/Products-Services/Mailbox-Rental",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "10:00 AM–5:00 PM",
+        "sunday": "Closed",
+        "notes": "Staffed store hours for the week of November 19, 2026, as shown on the mailbox rental page. The same page says mailbox customers have 24-hour access to a lit, secured mailbox area."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL",
+        "Couriers"
+      ],
+      "carriersNotes": "The mailbox rental page says the store accepts packages and mail from the Post Office, UPS, FedEx, DHL, and couriers.",
+      "flags": {
+        "access24": true,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox rental page says mailbox customers have 24-hour access to a lit, secured mailbox area. It does not say whether packages too large for a box can be picked up after staffed hours. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Mailbox rental page",
+          "url": "https://www.ship-express.com/Products-Services/Mailbox-Rental"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "My Office",
+      "area": "Dallas · E Northwest Hwy (Lake Highlands)",
+      "address": "10228 E Northwest Hwy, Dallas, TX 75238",
+      "phone": "214-221-0011",
+      "website": "https://www.myofficelh.com/Home-Business/Mailbox-Rental",
+      "bookingUrl": "https://www.myofficelh.com/Home-Business/Mailbox-Rental",
+      "hours": {
+        "monday": "9:00 AM–6:00 PM",
+        "tuesday": "9:00 AM–6:00 PM",
+        "wednesday": "9:00 AM–6:00 PM",
+        "thursday": "9:00 AM–6:00 PM",
+        "friday": "9:00 AM–6:00 PM",
+        "saturday": "10:00 AM–2:00 PM",
+        "sunday": "Closed",
+        "notes": "Staffed store hours for the week of November 19, 2026, as shown on the mailbox rental page. The same page says mailbox customers have 24-hour access to a lit, secured mailbox area."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL",
+        "Couriers"
+      ],
+      "carriersNotes": "The mailbox rental page says the store accepts packages and mail from the Post Office, UPS, FedEx, DHL, and couriers.",
+      "flags": {
+        "access24": true,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox rental page says mailbox customers have 24-hour access to a lit, secured mailbox area. It does not say whether packages too large for a box can be picked up after staffed hours. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "As listed on 2026-11-19: Personal box $16 (1 month), $48 (3 months), $90 (6 months), $168 (1 year); Small Business $21 / $63 / $117 / $228; Large Business $26 / $78 / $147 / $288.",
+      "sources": [
+        {
+          "label": "Mailbox rental page",
+          "url": "https://www.myofficelh.com/Home-Business/Mailbox-Rental"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Mr. Parcel of Dallas",
+      "area": "Dallas · Preston Rd (Far North Dallas)",
+      "address": "18484 Preston Rd Ste 102, Dallas, TX 75252",
+      "phone": "972.985.7427",
+      "website": "https://www.mrparceldallastx.com/Products-Services/Mailbox-Rental",
+      "bookingUrl": "https://www.mrparceldallastx.com/Products-Services/Mailbox-Rental",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "10:00 AM–2:00 PM",
+        "sunday": "Closed",
+        "notes": "Staffed store hours for the week of November 19, 2026, as shown on the mailbox rental page. The same page says mailbox customers have 24-hour access to a lit, secured mailbox area."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL",
+        "Couriers"
+      ],
+      "carriersNotes": "The mailbox rental page says the store accepts packages and mail from the Post Office, UPS, FedEx, DHL, and couriers.",
+      "flags": {
+        "access24": true,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox rental page says mailbox customers have 24-hour access to a lit, secured mailbox area. It does not say whether packages too large for a box can be picked up after staffed hours. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Mailbox rental page",
+          "url": "https://www.mrparceldallastx.com/Products-Services/Mailbox-Rental"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "White Dog Ship & Print",
+      "area": "Dallas · Garland Rd (near White Rock Lake)",
+      "address": "9041 Garland Rd, Dallas, TX 75218",
+      "phone": "469-523-3979",
+      "website": "https://www.whitedogsp.com/Home-Business/Mailbox-Rental",
+      "bookingUrl": "https://www.whitedogsp.com/Home-Business/Mailbox-Rental",
+      "hours": {
+        "monday": "9:00 AM–6:00 PM",
+        "tuesday": "9:00 AM–6:00 PM",
+        "wednesday": "9:00 AM–6:00 PM",
+        "thursday": "9:00 AM–6:00 PM",
+        "friday": "9:00 AM–6:00 PM",
+        "saturday": "9:00 AM–1:00 PM",
+        "sunday": "Closed",
+        "notes": "Staffed store hours for the week of November 19, 2026, as shown on the mailbox rental page. The same page says mailbox customers have 24-hour access to a lit, secured mailbox area."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL",
+        "Couriers"
+      ],
+      "carriersNotes": "The mailbox rental page says the store accepts packages and mail from the Post Office, UPS, FedEx, DHL, and couriers.",
+      "flags": {
+        "access24": true,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox rental page says mailbox customers have 24-hour access to a lit, secured mailbox area. It does not say whether packages too large for a box can be picked up after staffed hours. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Mailbox rental page",
+          "url": "https://www.whitedogsp.com/Home-Business/Mailbox-Rental"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Snider Plaza Postal",
+      "area": "Dallas · Snider Plaza (University Park area)",
+      "address": "3419 Westminster Ave, Dallas, TX 75205",
+      "phone": "469.513.2843",
+      "website": "https://www.sniderplazapostal.com/Products-Services/Mailbox-Rental",
+      "bookingUrl": "https://www.sniderplazapostal.com/Products-Services/Mailbox-Rental",
+      "hours": {
+        "monday": "9:30 AM–5:00 PM",
+        "tuesday": "9:30 AM–5:00 PM",
+        "wednesday": "9:30 AM–2:00 PM (week of Nov 19; may be holiday hours)",
+        "thursday": "9:30 AM–5:00 PM",
+        "friday": "9:30 AM–5:00 PM",
+        "saturday": "10:00 AM–4:00 PM",
+        "sunday": "Closed",
+        "notes": "Staffed store hours for the week of November 19, 2026, as shown on the mailbox rental page. The same page says mailbox customers have 24-hour access to a lit, secured mailbox area. Wednesday, November 25 showed shorter hours (9:30 AM–2:00 PM), likely for the Thanksgiving week; regular Wednesday hours may differ."
+      },
+      "carriers": [
+        "USPS",
+        "UPS",
+        "FedEx",
+        "DHL",
+        "Couriers"
+      ],
+      "carriersNotes": "The mailbox rental page says the store accepts packages and mail from the Post Office, UPS, FedEx, DHL, and couriers.",
+      "flags": {
+        "access24": true,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox rental page says mailbox customers have 24-hour access to a lit, secured mailbox area. It does not say whether packages too large for a box can be picked up after staffed hours. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Mailbox rental page",
+          "url": "https://www.sniderplazapostal.com/Products-Services/Mailbox-Rental"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Eagle Postal Center Lakewood",
+      "area": "Dallas · Lakewood (Mockingbird and Abrams, Tom Thumb Shopping Center)",
+      "address": "6333 E Mockingbird Lane, Suite 147, Dallas, TX 75214",
+      "phone": "214-841-0556",
+      "website": "https://eaglepostal.com/mailboxes/",
+      "bookingUrl": "https://eaglepostal.com/mailboxes/",
+      "hours": {
+        "monday": "8:30 AM–7:00 PM",
+        "tuesday": "8:30 AM–7:00 PM",
+        "wednesday": "8:30 AM–7:00 PM",
+        "thursday": "8:30 AM–7:00 PM",
+        "friday": "8:30 AM–7:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "Not published",
+        "notes": "Staffed hours from the Eagle Postal Centers mailboxes page (M–F and Saturday listed). Sunday hours are not published."
+      },
+      "carriers": [
+        "Amazon",
+        "DHL",
+        "FedEx",
+        "UPS",
+        "USPS"
+      ],
+      "carriersNotes": "The mailboxes page says renters can receive mail and packages from any courier, including Amazon, DHL, FedEx, UPS, and USPS.",
+      "flags": {
+        "access24": true,
+        "allCarriers": true,
+        "mailScanning": true,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The company’s mailboxes page says traditional mailbox rentals include secure 24/7 access with a private door code; that statement covers its three Dallas stores rather than naming this one. It also offers virtual mailboxes that scan mail and packages as they arrive. Box availability is not published as live inventory; confirm with the store.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Eagle Postal Centers mailboxes page",
+          "url": "https://eaglepostal.com/mailboxes/"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Eagle Postal Center Uptown Dallas",
+      "area": "Dallas · Uptown (Allen and McKinney)",
+      "address": "2807 Allen St, Dallas, TX 75204",
+      "phone": "214-965-9292",
+      "website": "https://eaglepostal.com/mailboxes/",
+      "bookingUrl": "https://eaglepostal.com/mailboxes/",
+      "hours": {
+        "monday": "8:30 AM–6:00 PM",
+        "tuesday": "8:30 AM–6:00 PM",
+        "wednesday": "8:30 AM–6:00 PM",
+        "thursday": "8:30 AM–6:00 PM",
+        "friday": "8:30 AM–6:00 PM",
+        "saturday": "10:00 AM–4:00 PM",
+        "sunday": "Not published",
+        "notes": "Staffed hours from the Eagle Postal Centers mailboxes page (M–F and Saturday listed). Sunday hours are not published."
+      },
+      "carriers": [
+        "Amazon",
+        "DHL",
+        "FedEx",
+        "UPS",
+        "USPS"
+      ],
+      "carriersNotes": "The mailboxes page says renters can receive mail and packages from any courier, including Amazon, DHL, FedEx, UPS, and USPS.",
+      "flags": {
+        "access24": true,
+        "allCarriers": true,
+        "mailScanning": true,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The company’s mailboxes page says traditional mailbox rentals include secure 24/7 access with a private door code; that statement covers its three Dallas stores rather than naming this one. It also offers virtual mailboxes that scan mail and packages as they arrive. Box availability is not published as live inventory; confirm with the store.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Eagle Postal Centers mailboxes page",
+          "url": "https://eaglepostal.com/mailboxes/"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Eagle Postal Center West Village",
+      "area": "Dallas · West Village (McKinney and Blackburn)",
+      "address": "3839 McKinney Ave, Suite 155, Dallas, TX 75204",
+      "phone": "214-599-9191",
+      "website": "https://eaglepostal.com/mailboxes/",
+      "bookingUrl": "https://eaglepostal.com/mailboxes/",
+      "hours": {
+        "monday": "8:30 AM–6:00 PM",
+        "tuesday": "8:30 AM–6:00 PM",
+        "wednesday": "8:30 AM–6:00 PM",
+        "thursday": "8:30 AM–6:00 PM",
+        "friday": "8:30 AM–6:00 PM",
+        "saturday": "10:00 AM–4:00 PM",
+        "sunday": "Not published",
+        "notes": "Staffed hours from the Eagle Postal Centers mailboxes page (M–F and Saturday listed). Sunday hours are not published."
+      },
+      "carriers": [
+        "Amazon",
+        "DHL",
+        "FedEx",
+        "UPS",
+        "USPS"
+      ],
+      "carriersNotes": "The mailboxes page says renters can receive mail and packages from any courier, including Amazon, DHL, FedEx, UPS, and USPS.",
+      "flags": {
+        "access24": true,
+        "allCarriers": true,
+        "mailScanning": true,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The company’s mailboxes page says traditional mailbox rentals include secure 24/7 access with a private door code; that statement covers its three Dallas stores rather than naming this one. It also offers virtual mailboxes that scan mail and packages as they arrive. Box availability is not published as live inventory; confirm with the store.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Eagle Postal Centers mailboxes page",
+          "url": "https://eaglepostal.com/mailboxes/"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Park Cities Postal",
+      "area": "Dallas · Snider Plaza / Hillcrest Ave (Park Cities)",
+      "address": "6601 Hillcrest Ave, Suite E, Dallas, TX 75205",
+      "phone": null,
+      "website": "https://parkcitiespostal.com/pages/rent-a-mailbox",
+      "bookingUrl": "https://parkcitiespostal.com/pages/rent-a-mailbox",
+      "hours": {
+        "monday": "10:00 AM–6:00 PM",
+        "tuesday": "10:00 AM–6:00 PM",
+        "wednesday": "10:00 AM–6:00 PM",
+        "thursday": "10:00 AM–6:00 PM",
+        "friday": "10:00 AM–6:00 PM",
+        "saturday": "12:00 PM–3:00 PM",
+        "sunday": "Not published",
+        "notes": "Store hours from the rent-a-mailbox page: Monday–Friday 10 AM–6 PM; Saturday 12 PM–3 PM. Sunday hours are not published."
+      },
+      "carriers": [
+        "FedEx",
+        "UPS",
+        "USPS",
+        "DHL",
+        "Amazon"
+      ],
+      "carriersNotes": "The rent-a-mailbox page says FedEx, UPS, USPS, DHL, and Amazon all deliver to its boxes.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": true,
+        "virtual": false
+      },
+      "visitNotes": "The page says “Available now — limited boxes open.” Treat that as a claim to confirm, not live inventory. 24-hour access is not mentioned. The page says you can activate a box in store with two IDs, and a notary is on site by appointment. No phone number was shown on the page we checked.",
+      "feeNotes": "As listed on 2026-11-19: small box from $22/month, or $18/month billed annually; one-time $25 setup and $10 key deposit.",
+      "sources": [
+        {
+          "label": "Rent-a-mailbox page",
+          "url": "https://parkcitiespostal.com/pages/rent-a-mailbox"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "The UPS Store — 3824 Cedar Springs Rd",
+      "area": "Dallas · Oak Lawn",
+      "address": "3824 Cedar Springs Rd, Dallas, TX 75219",
+      "phone": "(214) 520-0005",
+      "website": "https://locations.theupsstore.com/tx/dallas/3824-cedar-springs-rd",
+      "bookingUrl": "https://locations.theupsstore.com/tx/dallas/3824-cedar-springs-rd/mailbox-services",
+      "hours": {
+        "monday": "7:00 AM–8:00 PM",
+        "tuesday": "7:00 AM–8:00 PM",
+        "wednesday": "7:00 AM–8:00 PM",
+        "thursday": "7:00 AM–8:00 PM",
+        "friday": "7:00 AM–8:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "9:00 AM–5:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/tx/dallas/3824-cedar-springs-rd"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/tx/dallas/3824-cedar-springs-rd/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "The UPS Store — 4848 Lemmon Ave",
+      "area": "Dallas · Oak Lawn / Love Field area",
+      "address": "4848 Lemmon Ave, Ste 100, Dallas, TX 75219",
+      "phone": "(214) 780-0877",
+      "website": "https://locations.theupsstore.com/tx/dallas/4848-lemmon-ave",
+      "bookingUrl": "https://locations.theupsstore.com/tx/dallas/4848-lemmon-ave/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM–8:00 PM",
+        "tuesday": "8:30 AM–8:00 PM",
+        "wednesday": "8:30 AM–8:00 PM",
+        "thursday": "8:30 AM–8:00 PM",
+        "friday": "8:30 AM–8:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/tx/dallas/4848-lemmon-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/tx/dallas/4848-lemmon-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "The UPS Store — 14999 Preston Rd",
+      "area": "Dallas · Far North Dallas",
+      "address": "14999 Preston Rd, Ste 112, Dallas, TX 75254",
+      "phone": "(972) 991-9114",
+      "website": "https://locations.theupsstore.com/tx/dallas/14999-preston-rd",
+      "bookingUrl": "https://locations.theupsstore.com/tx/dallas/14999-preston-rd/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–8:00 PM",
+        "tuesday": "8:00 AM–8:00 PM",
+        "wednesday": "8:00 AM–8:00 PM",
+        "thursday": "8:00 AM–8:00 PM",
+        "friday": "8:00 AM–8:00 PM",
+        "saturday": "10:00 AM–5:00 PM",
+        "sunday": "12:00 PM–5:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/tx/dallas/14999-preston-rd"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/tx/dallas/14999-preston-rd/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "The UPS Store — 11500 Harry Hines Blvd",
+      "area": "Dallas · Northwest Dallas",
+      "address": "11500 Harry Hines Blvd, Suite 107, Dallas, TX 75229",
+      "phone": "(214) 954-7677",
+      "website": "https://locations.theupsstore.com/tx/dallas/11500-harry-hines-blvd",
+      "bookingUrl": "https://locations.theupsstore.com/tx/dallas/11500-harry-hines-blvd/mailbox-services",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "10:00 AM–7:00 PM",
+        "sunday": "12:00 PM–5:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/tx/dallas/11500-harry-hines-blvd"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/tx/dallas/11500-harry-hines-blvd/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "The UPS Store — 5706 E Mockingbird Ln",
+      "area": "Dallas · Lower Greenville / Mockingbird Station area",
+      "address": "5706 E Mockingbird Ln, Dallas, TX 75206",
+      "phone": "(214) 824-5100",
+      "website": "https://locations.theupsstore.com/tx/dallas/5706-e-mockingbird-ln",
+      "bookingUrl": "https://locations.theupsstore.com/tx/dallas/5706-e-mockingbird-ln/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–7:00 PM",
+        "tuesday": "8:00 AM–7:00 PM",
+        "wednesday": "8:00 AM–7:00 PM",
+        "thursday": "8:00 AM–7:00 PM",
+        "friday": "8:00 AM–7:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–5:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/tx/dallas/5706-e-mockingbird-ln"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/tx/dallas/5706-e-mockingbird-ln/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "The UPS Store — 1914 Skillman Street",
+      "area": "Dallas · Lakewood / Lower Greenville area",
+      "address": "1914 Skillman Street, Suite 110, Dallas, TX 75206",
+      "phone": "(469) 334-0518",
+      "website": "https://locations.theupsstore.com/tx/dallas/1914-skillman-street",
+      "bookingUrl": "https://locations.theupsstore.com/tx/dallas/1914-skillman-street/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–7:00 PM",
+        "tuesday": "8:00 AM–7:00 PM",
+        "wednesday": "8:00 AM–7:00 PM",
+        "thursday": "8:00 AM–7:00 PM",
+        "friday": "8:00 AM–7:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/tx/dallas/1914-skillman-street"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/tx/dallas/1914-skillman-street/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "The UPS Store — 2633 McKinney Ave",
+      "area": "Dallas · Uptown",
+      "address": "2633 McKinney Ave, Ste 130, Dallas, TX 75204",
+      "phone": "(214) 965-9226",
+      "website": "https://locations.theupsstore.com/tx/dallas/2633-mckinney-ave",
+      "bookingUrl": "https://locations.theupsstore.com/tx/dallas/2633-mckinney-ave/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–7:00 PM",
+        "tuesday": "8:00 AM–7:00 PM",
+        "wednesday": "8:00 AM–7:00 PM",
+        "thursday": "8:00 AM–7:00 PM",
+        "friday": "8:00 AM–7:00 PM",
+        "saturday": "10:00 AM–5:00 PM",
+        "sunday": "Closed",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/tx/dallas/2633-mckinney-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/tx/dallas/2633-mckinney-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "The UPS Store — 555 S Lamar St",
+      "area": "Dallas · Downtown (Cedars area)",
+      "address": "555 S Lamar St, Dallas, TX 75202",
+      "phone": "(214) 652-4256",
+      "website": "https://locations.theupsstore.com/tx/dallas/555-s-lamar-st",
+      "bookingUrl": "https://locations.theupsstore.com/tx/dallas/555-s-lamar-st/mailbox-services",
+      "hours": {
+        "monday": "7:00 AM–6:00 PM",
+        "tuesday": "7:00 AM–6:00 PM",
+        "wednesday": "7:00 AM–6:00 PM",
+        "thursday": "7:00 AM–6:00 PM",
+        "friday": "7:00 AM–6:00 PM",
+        "saturday": "9:00 AM–4:00 PM",
+        "sunday": "9:00 AM–4:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/tx/dallas/555-s-lamar-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/tx/dallas/555-s-lamar-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "The UPS Store — 9540 Garland Rd",
+      "area": "Dallas · White Rock / East Dallas",
+      "address": "9540 Garland Rd, Ste 381, Dallas, TX 75218",
+      "phone": "(214) 321-7100",
+      "website": "https://locations.theupsstore.com/tx/dallas/9540-garland-rd",
+      "bookingUrl": "https://locations.theupsstore.com/tx/dallas/9540-garland-rd/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM–7:00 PM",
+        "tuesday": "8:30 AM–7:00 PM",
+        "wednesday": "8:30 AM–7:00 PM",
+        "thursday": "8:30 AM–7:00 PM",
+        "friday": "8:30 AM–7:00 PM",
+        "saturday": "10:00 AM–4:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/tx/dallas/9540-garland-rd"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/tx/dallas/9540-garland-rd/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "The UPS Store — 1222 N Bishop Ave",
+      "area": "Dallas · Bishop Arts / Oak Cliff",
+      "address": "1222 N Bishop Ave, Ste 200, Dallas, TX 75208",
+      "phone": "(469) 727-0033",
+      "website": "https://locations.theupsstore.com/tx/dallas/1222-n-bishop-ave",
+      "bookingUrl": "https://locations.theupsstore.com/tx/dallas/1222-n-bishop-ave/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:30 PM",
+        "tuesday": "8:00 AM–6:30 PM",
+        "wednesday": "8:00 AM–6:30 PM",
+        "thursday": "8:00 AM–6:30 PM",
+        "friday": "8:00 AM–6:30 PM",
+        "saturday": "10:00 AM–5:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/tx/dallas/1222-n-bishop-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/tx/dallas/1222-n-bishop-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    }
+  ]
+}
