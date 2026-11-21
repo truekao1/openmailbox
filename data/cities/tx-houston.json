@@ -1,0 +1,768 @@
+{
+ "slug": "tx-houston",
+ "city": "Houston",
+ "citySlug": "houston",
+ "state": "TX",
+ "stateName": "Texas",
+ "focus": "Houston inside and just outside the Loop (Downtown, Midtown, Montrose, Upper Kirby, Rice Village, West University, Medical Center, Uptown/Galleria, Westchase, Memorial City, Spring Branch, Oak Forest), plus Clear Lake and Northeast Houston",
+ "lastUpdated": "2026-11-20",
+ "intro": "This first Houston page covers private mailbox stores inside the city of Houston whose own public pages list an address, staffed hours, and package acceptance — three independent pack-and-ship stores in West University and west and southwest Houston, plus fifteen UPS Store locations from Downtown to Clear Lake, all open on Sundays. It is not a complete metro inventory; Katy, Sugar Land, The Woodlands, and other suburbs are not covered yet. 24-hour lobby access is flagged only when the store’s own page says so. The UPS Store pages mention 24-hour access only at participating locations, so that flag is off for those stores. Box availability can change; treat it as something to confirm. If you cannot get to a storefront, compare virtual mailbox services.",
+ "listings": [
+  {
+   "name": "West U Boxes Pack N Ship",
+   "area": "Houston · Weslayan Street (West University area)",
+   "address": "5318 Weslayan St, Houston, TX 77005",
+   "phone": "713-666-0786",
+   "website": "https://www.packnship.net/Products-Services/Mailbox-Rental",
+   "bookingUrl": "https://www.packnship.net/Products-Services/Mailbox-Rental",
+   "hours": {
+    "monday": "9:00 AM–6:00 PM",
+    "tuesday": "9:00 AM–6:00 PM",
+    "wednesday": "9:00 AM–6:00 PM",
+    "thursday": "9:00 AM–6:00 PM",
+    "friday": "9:00 AM–6:00 PM",
+    "saturday": "10:00 AM–2:00 PM",
+    "sunday": "10:00 AM–2:00 PM",
+    "notes": "Staffed store hours for the week of November 20, 2026, as shown on the mailbox rental page. The same page says mailbox customers have 24-hour access to a brightly lit, secure mailbox area."
+   },
+   "carriers": [
+    "USPS",
+    "UPS",
+    "FedEx",
+    "DHL",
+    "Couriers"
+   ],
+   "carriersNotes": "The mailbox rental page says the store accepts packages and mail from the Post Office, UPS, FedEx, DHL, and couriers.",
+   "flags": {
+    "access24": true,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox rental page says mailbox customers have 24-hour access to a brightly lit, secure mailbox area. It does not say whether packages too large for a box can be picked up after staffed hours. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Mailbox rental page",
+     "url": "https://www.packnship.net/Products-Services/Mailbox-Rental"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "SHIP713",
+   "area": "Houston · Fondren Road (Southwest Houston)",
+   "address": "3301 Fondren Rd, Ste B, Houston, TX 77063",
+   "phone": "713.927.5727",
+   "website": "https://www.ship713.com/Products-Services/Mailbox-Rental",
+   "bookingUrl": "https://www.ship713.com/Products-Services/Mailbox-Rental",
+   "hours": {
+    "monday": "9:00 AM–6:00 PM",
+    "tuesday": "9:00 AM–6:00 PM",
+    "wednesday": "9:00 AM–6:00 PM",
+    "thursday": "9:00 AM–6:00 PM",
+    "friday": "9:00 AM–6:00 PM",
+    "saturday": "10:00 AM–2:00 PM",
+    "sunday": "Closed",
+    "notes": "Staffed store hours for the week of November 20, 2026, as shown on the mailbox rental page. The same page says mailbox customers have 24-hour access to a brightly lit, secure mailbox area."
+   },
+   "carriers": [
+    "USPS",
+    "UPS",
+    "FedEx",
+    "DHL",
+    "Couriers"
+   ],
+   "carriersNotes": "The mailbox rental page says the store accepts packages and mail from the Post Office, UPS, FedEx, DHL, and couriers.",
+   "flags": {
+    "access24": true,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox rental page says mailbox customers have 24-hour access to a brightly lit, secure mailbox area. It does not say whether packages too large for a box can be picked up after staffed hours. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Mailbox rental page",
+     "url": "https://www.ship713.com/Products-Services/Mailbox-Rental"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The Postal Spot",
+   "area": "Houston · Briarhurst Drive (west of the Galleria)",
+   "address": "2616 Briarhurst Dr, Houston, TX 77057",
+   "phone": "281-974-1799",
+   "website": "https://www.thepostalspot.com/Products-Services/Mailbox-Rental",
+   "bookingUrl": "https://www.thepostalspot.com/Products-Services/Mailbox-Rental",
+   "hours": {
+    "monday": "8:00 AM–6:00 PM",
+    "tuesday": "8:00 AM–6:00 PM",
+    "wednesday": "8:00 AM–6:00 PM",
+    "thursday": "8:00 AM–6:00 PM",
+    "friday": "8:00 AM–6:00 PM",
+    "saturday": "10:00 AM–2:00 PM",
+    "sunday": "Closed",
+    "notes": "Staffed store hours for the week of November 20, 2026, as shown on the mailbox rental page."
+   },
+   "carriers": [
+    "USPS",
+    "UPS",
+    "FedEx",
+    "DHL",
+    "Couriers"
+   ],
+   "carriersNotes": "The mailbox rental page says the store accepts packages and mail from the Post Office, UPS, FedEx, DHL, and couriers.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox rental page does not mention 24-hour access. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "As listed on 2026-11-20: the mailbox rental page title says mailbox rental starts at $15 per month.",
+   "sources": [
+    {
+     "label": "Mailbox rental page",
+     "url": "https://www.thepostalspot.com/Products-Services/Mailbox-Rental"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store — 945 McKinney",
+   "area": "Houston · Downtown",
+   "address": "945 McKinney, Houston, TX 77002",
+   "phone": "(832) 204-3767",
+   "website": "https://locations.theupsstore.com/tx/houston/945-mckinney",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/945-mckinney/mailbox-services",
+   "hours": {
+    "monday": "8:00 AM–7:00 PM",
+    "tuesday": "8:00 AM–7:00 PM",
+    "wednesday": "8:00 AM–7:00 PM",
+    "thursday": "8:00 AM–7:00 PM",
+    "friday": "8:00 AM–7:00 PM",
+    "saturday": "10:00 AM–3:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/tx/houston/945-mckinney"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/tx/houston/945-mckinney/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store — 2450 Louisiana",
+   "area": "Houston · Midtown",
+   "address": "2450 Louisiana, Houston, TX 77006",
+   "phone": "(713) 524-2335",
+   "website": "https://locations.theupsstore.com/tx/houston/2450-louisiana",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/2450-louisiana/mailbox-services",
+   "hours": {
+    "monday": "8:00 AM–7:00 PM",
+    "tuesday": "8:00 AM–7:00 PM",
+    "wednesday": "8:00 AM–7:00 PM",
+    "thursday": "8:00 AM–7:00 PM",
+    "friday": "8:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/tx/houston/2450-louisiana"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/tx/houston/2450-louisiana/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store — 1302 Waugh Drive",
+   "area": "Houston · Waugh Drive (Montrose / Fourth Ward area)",
+   "address": "1302 Waugh Drive, Houston, TX 77019",
+   "phone": "(713) 942-7775",
+   "website": "https://locations.theupsstore.com/tx/houston/1302-waugh-drive",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/1302-waugh-drive/mailbox-services",
+   "hours": {
+    "monday": "8:00 AM–7:00 PM",
+    "tuesday": "8:00 AM–7:00 PM",
+    "wednesday": "8:00 AM–7:00 PM",
+    "thursday": "8:00 AM–7:00 PM",
+    "friday": "8:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/tx/houston/1302-waugh-drive"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/tx/houston/1302-waugh-drive/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store — 3262 Westheimer Road",
+   "area": "Houston · Westheimer Road (Upper Kirby / River Oaks area)",
+   "address": "3262 Westheimer Road, Houston, TX 77098",
+   "phone": "(713) 520-0030",
+   "website": "https://locations.theupsstore.com/tx/houston/3262-westheimer-road",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/3262-westheimer-road/mailbox-services",
+   "hours": {
+    "monday": "9:00 AM–7:00 PM",
+    "tuesday": "9:00 AM–7:00 PM",
+    "wednesday": "9:00 AM–7:00 PM",
+    "thursday": "9:00 AM–7:00 PM",
+    "friday": "9:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "11:00 AM–4:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/tx/houston/3262-westheimer-road"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/tx/houston/3262-westheimer-road/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store — 2429 Bissonnet St",
+   "area": "Houston · Bissonnet Street (Rice Village / West University area)",
+   "address": "2429 Bissonnet St, Houston, TX 77005",
+   "phone": "(713) 529-4132",
+   "website": "https://locations.theupsstore.com/tx/houston/2429-bissonnet-st",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/2429-bissonnet-st/mailbox-services",
+   "hours": {
+    "monday": "8:00 AM–7:00 PM",
+    "tuesday": "8:00 AM–7:00 PM",
+    "wednesday": "8:00 AM–7:00 PM",
+    "thursday": "8:00 AM–7:00 PM",
+    "friday": "8:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/tx/houston/2429-bissonnet-st"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/tx/houston/2429-bissonnet-st/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store — 6711 Stella Link Rd",
+   "area": "Houston · Stella Link Road (Braeswood area)",
+   "address": "6711 Stella Link Rd, Houston, TX 77005",
+   "phone": "(713) 636-3363",
+   "website": "https://locations.theupsstore.com/tx/houston/6711-stella-link-rd",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/6711-stella-link-rd/mailbox-services",
+   "hours": {
+    "monday": "9:00 AM–7:00 PM",
+    "tuesday": "9:00 AM–7:00 PM",
+    "wednesday": "9:00 AM–7:00 PM",
+    "thursday": "9:00 AM–7:00 PM",
+    "friday": "9:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/tx/houston/6711-stella-link-rd"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/tx/houston/6711-stella-link-rd/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store — 1333 Old Spanish Trail",
+   "area": "Houston · Old Spanish Trail (near the Texas Medical Center)",
+   "address": "1333 Old Spanish Trail, Houston, TX 77054",
+   "phone": "(832) 369-2090",
+   "website": "https://locations.theupsstore.com/tx/houston/1333-old-spanish-trail",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/1333-old-spanish-trail/mailbox-services",
+   "hours": {
+    "monday": "8:00 AM–7:00 PM",
+    "tuesday": "8:00 AM–7:00 PM",
+    "wednesday": "8:00 AM–7:00 PM",
+    "thursday": "8:00 AM–7:00 PM",
+    "friday": "8:00 AM–7:00 PM",
+    "saturday": "9:00 AM–4:00 PM",
+    "sunday": "11:00 AM–4:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/tx/houston/1333-old-spanish-trail"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/tx/houston/1333-old-spanish-trail/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store — 5090 Richmond Ave",
+   "area": "Houston · Richmond Avenue (Uptown / Galleria area)",
+   "address": "5090 Richmond Ave, Houston, TX 77056",
+   "phone": "(713) 626-2920",
+   "website": "https://locations.theupsstore.com/tx/houston/5090-richmond-ave",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/5090-richmond-ave/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "10:00 AM–4:00 PM",
+    "sunday": "11:00 AM–4:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/tx/houston/5090-richmond-ave"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/tx/houston/5090-richmond-ave/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store — 1415 S Voss",
+   "area": "Houston · South Voss Road (Briargrove / Tanglewood area)",
+   "address": "1415 S Voss, Houston, TX 77057",
+   "phone": "(713) 952-5332",
+   "website": "https://locations.theupsstore.com/tx/houston/1415-s-voss",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/1415-s-voss/mailbox-services",
+   "hours": {
+    "monday": "8:00 AM–7:00 PM",
+    "tuesday": "8:00 AM–7:00 PM",
+    "wednesday": "8:00 AM–7:00 PM",
+    "thursday": "8:00 AM–7:00 PM",
+    "friday": "8:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/tx/houston/1415-s-voss"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/tx/houston/1415-s-voss/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store — 11152 Westheimer Rd",
+   "area": "Houston · Westheimer Road (Westchase area)",
+   "address": "11152 Westheimer Rd, Houston, TX 77042",
+   "phone": "(713) 781-6245",
+   "website": "https://locations.theupsstore.com/tx/houston/11152-westheimer-rd",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/11152-westheimer-rd/mailbox-services",
+   "hours": {
+    "monday": "8:00 AM–7:00 PM",
+    "tuesday": "8:00 AM–7:00 PM",
+    "wednesday": "8:00 AM–7:00 PM",
+    "thursday": "8:00 AM–7:00 PM",
+    "friday": "8:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/tx/houston/11152-westheimer-rd"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/tx/houston/11152-westheimer-rd/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store — 12335 Kingsride Lane",
+   "area": "Houston · Kingsride Lane (Memorial City area)",
+   "address": "12335 Kingsride Lane, Houston, TX 77024",
+   "phone": "(713) 465-3922",
+   "website": "https://locations.theupsstore.com/tx/houston/12335-kingsride-lane",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/12335-kingsride-lane/mailbox-services",
+   "hours": {
+    "monday": "8:00 AM–7:00 PM",
+    "tuesday": "8:00 AM–7:00 PM",
+    "wednesday": "8:00 AM–7:00 PM",
+    "thursday": "8:00 AM–7:00 PM",
+    "friday": "8:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/tx/houston/12335-kingsride-lane"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/tx/houston/12335-kingsride-lane/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store — 4145 Gessner Rd",
+   "area": "Houston · Gessner Road (Spring Branch)",
+   "address": "4145 Gessner Rd, Houston, TX 77080",
+   "phone": "(713) 485-6699",
+   "website": "https://locations.theupsstore.com/tx/houston/4145-gessner-rd",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/4145-gessner-rd/mailbox-services",
+   "hours": {
+    "monday": "9:00 AM–7:00 PM",
+    "tuesday": "9:00 AM–7:00 PM",
+    "wednesday": "9:00 AM–7:00 PM",
+    "thursday": "9:00 AM–7:00 PM",
+    "friday": "9:00 AM–7:00 PM",
+    "saturday": "10:00 AM–5:00 PM",
+    "sunday": "10:00 AM–4:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/tx/houston/4145-gessner-rd"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/tx/houston/4145-gessner-rd/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store — 5380 W 34th St",
+   "area": "Houston · West 34th Street (Oak Forest / Northwest Houston)",
+   "address": "5380 W 34th St, Houston, TX 77092",
+   "phone": "(713) 688-7007",
+   "website": "https://locations.theupsstore.com/tx/houston/5380-w-34th-st",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/5380-w-34th-st/mailbox-services",
+   "hours": {
+    "monday": "9:00 AM–7:00 PM",
+    "tuesday": "9:00 AM–7:00 PM",
+    "wednesday": "9:00 AM–7:00 PM",
+    "thursday": "9:00 AM–7:00 PM",
+    "friday": "9:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "11:00 AM–4:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/tx/houston/5380-w-34th-st"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/tx/houston/5380-w-34th-st/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store — 2323 Clear Lake City Blvd",
+   "area": "Houston · Clear Lake City Boulevard (Clear Lake)",
+   "address": "2323 Clear Lake City Blvd, Houston, TX 77062",
+   "phone": "(281) 486-8542",
+   "website": "https://locations.theupsstore.com/tx/houston/2323-clear-lake-city-blvd",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/2323-clear-lake-city-blvd/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "9:30 AM–3:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/tx/houston/2323-clear-lake-city-blvd"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/tx/houston/2323-clear-lake-city-blvd/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store — 14237 E Sam Houston Pkwy N",
+   "area": "Houston · East Sam Houston Parkway North (Northeast Houston)",
+   "address": "14237 E Sam Houston Pkwy N, Houston, TX 77044",
+   "phone": "(832) 781-4757",
+   "website": "https://locations.theupsstore.com/tx/houston/14237-e-sam-houston-pkwy-n",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/14237-e-sam-houston-pkwy-n/mailbox-services",
+   "hours": {
+    "monday": "8:00 AM–7:00 PM",
+    "tuesday": "8:00 AM–7:00 PM",
+    "wednesday": "8:00 AM–7:00 PM",
+    "thursday": "8:00 AM–7:00 PM",
+    "friday": "8:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "10:00 AM–4:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/tx/houston/14237-e-sam-houston-pkwy-n"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/tx/houston/14237-e-sam-houston-pkwy-n/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  }
+ ]
+}
