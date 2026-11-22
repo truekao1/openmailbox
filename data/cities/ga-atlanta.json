@@ -1,0 +1,851 @@
+{
+ "slug": "ga-atlanta",
+ "city": "Atlanta",
+ "citySlug": "atlanta",
+ "state": "GA",
+ "stateName": "Georgia",
+ "focus": "City of Atlanta (Downtown, Midtown, Home Park, Morningside, Inman Park, Edgewood, Glenwood Park, Summerhill, East Atlanta, West Midtown, Riverside, Buckhead, Chastain, and Southwest Atlanta)",
+ "lastUpdated": "2026-11-21",
+ "intro": "This first Atlanta page covers private mailbox stores inside the city whose own public pages list an address, staffed hours, and package acceptance \u2014 four independent pack-and-ship stores (Downtown, Inman Park, East Atlanta, and Southwest Atlanta) plus sixteen UPS Store locations from Downtown and Midtown up to Buckhead and Chastain, most of them open on Sundays. It is not a complete metro inventory; Sandy Springs, Decatur, Dunwoody, Marietta, and other suburbs are not covered yet. 24-hour lobby access is flagged only when the store\u2019s own page says so. The UPS Store pages mention 24-hour access only at participating locations, so that flag is off for those stores. Box availability can change; treat it as something to confirm. If you cannot get to a storefront, compare virtual mailbox services.",
+ "listings": [
+  {
+   "name": "Qwik Pack & Ship",
+   "area": "Atlanta \u00b7 Fairburn Road SW (Southwest Atlanta)",
+   "address": "2373 Fairburn Rd SW, Atlanta, GA 30331",
+   "phone": "404-855-5777",
+   "website": "https://www.mypackharbor.com/Mailbox-Rental/Mailbox-Rental-On-Site",
+   "bookingUrl": "https://www.mypackharbor.com/Mailbox-Rental/Mailbox-Rental-On-Site",
+   "hours": {
+    "monday": "9:00 AM\u20136:00 PM",
+    "tuesday": "9:00 AM\u20136:00 PM",
+    "wednesday": "9:00 AM\u20136:00 PM",
+    "thursday": "9:00 AM\u20136:00 PM",
+    "friday": "9:00 AM\u20136:00 PM",
+    "saturday": "10:00 AM\u20132:00 PM",
+    "sunday": "Closed",
+    "notes": "Staffed store hours as shown on the mailbox rental page for November 21\u201327, 2026. The same page says mailbox customers have 24-hour access to a brightly lit, secure mailbox area."
+   },
+   "carriers": [
+    "USPS",
+    "UPS",
+    "FedEx",
+    "DHL",
+    "Couriers"
+   ],
+   "carriersNotes": "The mailbox rental page says the store accepts packages and mail from the Post Office, UPS, FedEx, DHL, and couriers.",
+   "flags": {
+    "access24": true,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox rental page says mailbox customers have 24-hour access to a brightly lit, secure mailbox area. It does not say whether packages too large for a box can be picked up after staffed hours. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Mailbox rental page",
+     "url": "https://www.mypackharbor.com/Mailbox-Rental/Mailbox-Rental-On-Site"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "Red Trinity Ship & Go",
+   "area": "Atlanta \u00b7 Flat Shoals Road SE (East Atlanta)",
+   "address": "1580 Flat Shoals Road SE, Suite C & D, Atlanta, GA 30316",
+   "phone": "(470) 346-2104",
+   "website": "https://www.shipngo1580.net/Products-Services/Mailbox-Rental",
+   "bookingUrl": "https://www.shipngo1580.net/Products-Services/Mailbox-Rental",
+   "hours": {
+    "monday": "10:00 AM\u20136:30 PM",
+    "tuesday": "10:00 AM\u20136:30 PM",
+    "wednesday": "10:00 AM\u20136:30 PM",
+    "thursday": "10:00 AM\u20136:30 PM",
+    "friday": "10:00 AM\u20136:30 PM",
+    "saturday": "10:00 AM\u20134:00 PM",
+    "sunday": "Closed",
+    "notes": "Regular staffed hours as shown on the mailbox rental page in November 2026. The page shows Thanksgiving week changes: closed Thursday, November 26, and 12:00\u20135:00 PM Friday, November 27. The same page says mailbox customers have 24-hour access to a brightly lit, secure mailbox area."
+   },
+   "carriers": [
+    "USPS",
+    "UPS",
+    "FedEx",
+    "DHL",
+    "Couriers"
+   ],
+   "carriersNotes": "The mailbox rental page says the store accepts packages and mail from the Post Office, UPS, FedEx, DHL, and couriers.",
+   "flags": {
+    "access24": true,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox rental page says mailbox customers have 24-hour access to a brightly lit, secure mailbox area. It does not say whether packages too large for a box can be picked up after staffed hours. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Mailbox rental page",
+     "url": "https://www.shipngo1580.net/Products-Services/Mailbox-Rental"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "Intown Business Center",
+   "area": "Atlanta \u00b7 North Highland Avenue NE (Inman Park / Poncey-Highland)",
+   "address": "245 N Highland Ave NE, Ste 230, Atlanta, GA 30307",
+   "phone": "404-551-3281",
+   "website": "https://www.intownbusinesscenter.com/Home-Business/Mailbox-Rental",
+   "bookingUrl": "https://www.intownbusinesscenter.com/Home-Business/Mailbox-Rental",
+   "hours": {
+    "monday": "9:00 AM\u20135:30 PM",
+    "tuesday": "9:00 AM\u20135:30 PM",
+    "wednesday": "9:00 AM\u20132:00 PM (Thanksgiving week)",
+    "thursday": "Closed (Thanksgiving)",
+    "friday": "10:00 AM\u20132:00 PM (Thanksgiving week)",
+    "saturday": "10:00 AM\u20132:00 PM",
+    "sunday": "Closed",
+    "notes": "Hours shown on the mailbox rental page for November 21\u201327, 2026, which is Thanksgiving week: Monday and Tuesday 9:00 AM\u20135:30 PM, Wednesday 9:00 AM\u20132:00 PM, closed Thursday, Friday 10:00 AM\u20132:00 PM, Saturday 10:00 AM\u20132:00 PM, Sunday closed. Regular Wednesday\u2013Friday hours were not shown, so confirm before visiting. The same page says mailbox customers have 24-hour access to a brightly lit, secure mailbox area."
+   },
+   "carriers": [
+    "USPS",
+    "UPS",
+    "FedEx",
+    "DHL",
+    "Couriers"
+   ],
+   "carriersNotes": "The mailbox rental page says the store accepts packages and mail from the Post Office, UPS, FedEx, DHL, and couriers.",
+   "flags": {
+    "access24": true,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox rental page says mailbox customers have 24-hour access to a brightly lit, secure mailbox area. It does not say whether packages too large for a box can be picked up after staffed hours. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Mailbox rental page",
+     "url": "https://www.intownbusinesscenter.com/Home-Business/Mailbox-Rental"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "Atlanta Pak Mail",
+   "area": "Atlanta \u00b7 Peachtree Street NE (Downtown)",
+   "address": "300 Peachtree St NE, Ste CS2, Atlanta, GA 30308",
+   "phone": "(404) 228-1314",
+   "website": "https://www.pakmail.com/mailbox-rental/Pak-Mail-Atlanta",
+   "bookingUrl": "https://www.pakmail.com/mailbox-rental/Pak-Mail-Atlanta",
+   "hours": {
+    "monday": "9:00 AM\u20137:00 PM",
+    "tuesday": "9:00 AM\u20137:00 PM",
+    "wednesday": "9:00 AM\u20137:00 PM",
+    "thursday": "9:00 AM\u20137:00 PM",
+    "friday": "9:00 AM\u20137:00 PM",
+    "saturday": "10:00 AM\u20134:00 PM",
+    "sunday": "Closed",
+    "notes": "Staffed store hours from the official Pak Mail mailbox rental page."
+   },
+   "carriers": [
+    "FedEx",
+    "UPS",
+    "USPS",
+    "DHL"
+   ],
+   "carriersNotes": "The mailbox rental page says Pak Mail accepts packages from all major carriers, including FedEx, UPS, USPS, and DHL.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The page offers text or email notification when packages arrive and will hold mail and packages for pickup. It does not mention 24-hour mailbox access. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official mailbox rental page",
+     "url": "https://www.pakmail.com/mailbox-rental/Pak-Mail-Atlanta"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store \u2014 925B Peachtree St NE",
+   "area": "Atlanta \u00b7 Peachtree Street (Midtown)",
+   "address": "925B Peachtree St NE, Atlanta, GA 30309",
+   "phone": "(404) 685-8280",
+   "website": "https://locations.theupsstore.com/ga/atlanta/925b-peachtree-st-ne",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/925b-peachtree-st-ne/mailbox-services",
+   "hours": {
+    "monday": "9:30 AM\u20137:30 PM",
+    "tuesday": "9:30 AM\u20137:30 PM",
+    "wednesday": "9:30 AM\u20137:30 PM",
+    "thursday": "9:30 AM\u20137:30 PM",
+    "friday": "9:30 AM\u20137:30 PM",
+    "saturday": "9:30 AM\u20135:30 PM",
+    "sunday": "12:00 PM\u20135:00 PM",
+    "notes": "Staffed store hours from the official location page\u2019s opening-hours data. Holiday hours (including Thanksgiving) can differ; the page lists holiday closures."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/ga/atlanta/925b-peachtree-st-ne"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/925b-peachtree-st-ne/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store \u2014 207 13th St NE A-1",
+   "area": "Atlanta \u00b7 13th Street NE (Midtown)",
+   "address": "207 13th St NE A-1, Atlanta, GA 30309",
+   "phone": "(404) 301-8090",
+   "website": "https://locations.theupsstore.com/ga/atlanta/207-13th-st-ne-a-1",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/207-13th-st-ne-a-1/mailbox-services",
+   "hours": {
+    "monday": "9:00 AM\u20139:00 PM",
+    "tuesday": "9:00 AM\u20139:00 PM",
+    "wednesday": "9:00 AM\u20139:00 PM",
+    "thursday": "9:00 AM\u20139:00 PM",
+    "friday": "9:00 AM\u20139:00 PM",
+    "saturday": "9:00 AM\u20139:00 PM",
+    "sunday": "12:00 PM\u20138:00 PM",
+    "notes": "Staffed store hours from the official location page\u2019s opening-hours data. Holiday hours (including Thanksgiving) can differ; the page lists holiday closures."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/ga/atlanta/207-13th-st-ne-a-1"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/207-13th-st-ne-a-1/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store \u2014 541 Tenth St NW",
+   "area": "Atlanta \u00b7 Tenth Street NW (Home Park / Georgia Tech area)",
+   "address": "541 Tenth St NW, Atlanta, GA 30318",
+   "phone": "(404) 733-6797",
+   "website": "https://locations.theupsstore.com/ga/atlanta/541-tenth-st-nw",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/541-tenth-st-nw/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM\u20137:00 PM",
+    "tuesday": "8:30 AM\u20137:00 PM",
+    "wednesday": "8:30 AM\u20137:00 PM",
+    "thursday": "8:30 AM\u20137:00 PM",
+    "friday": "8:30 AM\u20137:00 PM",
+    "saturday": "9:00 AM\u20132:00 PM",
+    "sunday": "9:00 AM\u20132:00 PM",
+    "notes": "Staffed store hours from the official location page\u2019s opening-hours data. Holiday hours (including Thanksgiving) can differ; the page lists holiday closures."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/ga/atlanta/541-tenth-st-nw"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/541-tenth-st-nw/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store \u2014 931 Monroe Dr",
+   "area": "Atlanta \u00b7 Monroe Drive (Midtown / Piedmont Park area)",
+   "address": "931 Monroe Dr, Ste 102, Atlanta, GA 30308",
+   "phone": "(404) 873-3433",
+   "website": "https://locations.theupsstore.com/ga/atlanta/931-monroe-dr",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/931-monroe-dr/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM\u20137:00 PM",
+    "tuesday": "8:30 AM\u20137:00 PM",
+    "wednesday": "8:30 AM\u20137:00 PM",
+    "thursday": "8:30 AM\u20137:00 PM",
+    "friday": "8:30 AM\u20137:00 PM",
+    "saturday": "10:00 AM\u20133:30 PM",
+    "sunday": "10:00 AM\u20133:00 PM",
+    "notes": "Staffed store hours from the official location page\u2019s opening-hours data. Holiday hours (including Thanksgiving) can differ; the page lists holiday closures."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/ga/atlanta/931-monroe-dr"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/931-monroe-dr/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store \u2014 1579 Monroe Dr",
+   "area": "Atlanta \u00b7 Monroe Drive at Piedmont Road (Morningside / Ansley area)",
+   "address": "1579 Monroe Dr, Ste F, Atlanta, GA 30324",
+   "phone": "(404) 872-0621",
+   "website": "https://locations.theupsstore.com/ga/atlanta/1579-monroe-dr",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/1579-monroe-dr/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM\u20136:30 PM",
+    "tuesday": "8:30 AM\u20136:30 PM",
+    "wednesday": "8:30 AM\u20136:30 PM",
+    "thursday": "8:30 AM\u20136:30 PM",
+    "friday": "8:30 AM\u20136:30 PM",
+    "saturday": "9:00 AM\u20135:00 PM",
+    "sunday": "10:00 AM\u20133:00 PM",
+    "notes": "Staffed store hours from the official location page\u2019s opening-hours data. Holiday hours (including Thanksgiving) can differ; the page lists holiday closures."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/ga/atlanta/1579-monroe-dr"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/1579-monroe-dr/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store \u2014 1270 Caroline St",
+   "area": "Atlanta \u00b7 Caroline Street (Edgewood)",
+   "address": "1270 Caroline St, Ste D120, Atlanta, GA 30307",
+   "phone": "(404) 523-1700",
+   "website": "https://locations.theupsstore.com/ga/atlanta/1270-caroline-st",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/1270-caroline-st/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM\u20136:30 PM",
+    "tuesday": "8:30 AM\u20136:30 PM",
+    "wednesday": "8:30 AM\u20136:30 PM",
+    "thursday": "8:30 AM\u20136:30 PM",
+    "friday": "8:30 AM\u20136:30 PM",
+    "saturday": "9:00 AM\u20135:00 PM",
+    "sunday": "10:00 AM\u20133:00 PM",
+    "notes": "Staffed store hours from the official location page\u2019s opening-hours data. Holiday hours (including Thanksgiving) can differ; the page lists holiday closures."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/ga/atlanta/1270-caroline-st"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/1270-caroline-st/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store \u2014 830 Glenwood Ave SE",
+   "area": "Atlanta \u00b7 Glenwood Avenue SE (Glenwood Park)",
+   "address": "830 Glenwood Ave SE, Ste 510, Atlanta, GA 30316",
+   "phone": "(404) 963-5444",
+   "website": "https://locations.theupsstore.com/ga/atlanta/830-glenwood-ave-se",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/830-glenwood-ave-se/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM\u20136:30 PM",
+    "tuesday": "8:30 AM\u20136:30 PM",
+    "wednesday": "8:30 AM\u20136:30 PM",
+    "thursday": "8:30 AM\u20136:30 PM",
+    "friday": "8:30 AM\u20136:30 PM",
+    "saturday": "9:00 AM\u20135:00 PM",
+    "sunday": "10:00 AM\u20133:00 PM",
+    "notes": "Staffed store hours from the official location page\u2019s opening-hours data. Holiday hours (including Thanksgiving) can differ; the page lists holiday closures."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/ga/atlanta/830-glenwood-ave-se"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/830-glenwood-ave-se/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store \u2014 572 Hank Aaron Dr SE",
+   "area": "Atlanta \u00b7 Hank Aaron Drive SE (Summerhill)",
+   "address": "572 Hank Aaron Dr SE, Suite 4100, Atlanta, GA 30312",
+   "phone": "(404) 205-5755",
+   "website": "https://locations.theupsstore.com/ga/atlanta/572-hank-aaron-dr-se",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/572-hank-aaron-dr-se/mailbox-services",
+   "hours": {
+    "monday": "8:00 AM\u20137:00 PM",
+    "tuesday": "8:00 AM\u20137:00 PM",
+    "wednesday": "8:00 AM\u20137:00 PM",
+    "thursday": "8:00 AM\u20137:00 PM",
+    "friday": "8:00 AM\u20137:00 PM",
+    "saturday": "9:00 AM\u20135:00 PM",
+    "sunday": "11:00 AM\u20134:00 PM",
+    "notes": "Staffed store hours from the official location page\u2019s opening-hours data. Holiday hours (including Thanksgiving) can differ; the page lists holiday closures."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/ga/atlanta/572-hank-aaron-dr-se"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/572-hank-aaron-dr-se/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store \u2014 2020 Howell Mill Rd NW",
+   "area": "Atlanta \u00b7 Howell Mill Road NW (West Midtown)",
+   "address": "2020 Howell Mill Rd NW, Atlanta, GA 30318",
+   "phone": "(404) 352-3222",
+   "website": "https://locations.theupsstore.com/ga/atlanta/2020-howell-mill-rd-nw",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/2020-howell-mill-rd-nw/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM\u20137:00 PM",
+    "tuesday": "8:30 AM\u20137:00 PM",
+    "wednesday": "8:30 AM\u20137:00 PM",
+    "thursday": "8:30 AM\u20137:00 PM",
+    "friday": "8:30 AM\u20137:00 PM",
+    "saturday": "9:00 AM\u20133:00 PM",
+    "sunday": "10:00 AM\u20133:00 PM",
+    "notes": "Staffed store hours from the official location page\u2019s opening-hours data. Holiday hours (including Thanksgiving) can differ; the page lists holiday closures."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/ga/atlanta/2020-howell-mill-rd-nw"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/2020-howell-mill-rd-nw/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store \u2014 2275 Marietta Blvd NW",
+   "area": "Atlanta \u00b7 Marietta Boulevard NW (Riverside / Upper Westside)",
+   "address": "2275 Marietta Blvd NW, Ste 270, Atlanta, GA 30318",
+   "phone": "(404) 855-5382",
+   "website": "https://locations.theupsstore.com/ga/atlanta/2275-marietta-blvd-nw",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/2275-marietta-blvd-nw/mailbox-services",
+   "hours": {
+    "monday": "9:00 AM\u20137:30 PM",
+    "tuesday": "9:00 AM\u20137:30 PM",
+    "wednesday": "9:00 AM\u20137:30 PM",
+    "thursday": "9:00 AM\u20137:30 PM",
+    "friday": "9:00 AM\u20137:30 PM",
+    "saturday": "10:00 AM\u20135:00 PM",
+    "sunday": "12:00 PM\u20135:00 PM",
+    "notes": "Staffed store hours from the official location page\u2019s opening-hours data. Holiday hours (including Thanksgiving) can differ; the page lists holiday closures."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/ga/atlanta/2275-marietta-blvd-nw"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/2275-marietta-blvd-nw/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store \u2014 2221 Peachtree Rd NE",
+   "area": "Atlanta \u00b7 Peachtree Road NE (Brookwood Hills / South Buckhead)",
+   "address": "2221 Peachtree Rd NE, Ste D, Atlanta, GA 30309",
+   "phone": "(404) 963-7133",
+   "website": "https://locations.theupsstore.com/ga/atlanta/2221-peachtree-rd-ne",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/2221-peachtree-rd-ne/mailbox-services",
+   "hours": {
+    "monday": "9:00 AM\u20137:00 PM",
+    "tuesday": "9:00 AM\u20137:00 PM",
+    "wednesday": "9:00 AM\u20137:00 PM",
+    "thursday": "9:00 AM\u20137:00 PM",
+    "friday": "9:00 AM\u20137:00 PM",
+    "saturday": "9:00 AM\u20135:00 PM",
+    "sunday": "11:00 AM\u20134:00 PM",
+    "notes": "Staffed store hours from the official location page\u2019s opening-hours data. Holiday hours (including Thanksgiving) can differ; the page lists holiday closures."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/ga/atlanta/2221-peachtree-rd-ne"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/2221-peachtree-rd-ne/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store \u2014 2625 Piedmont Rd",
+   "area": "Atlanta \u00b7 Piedmont Road (Lindbergh / Buckhead)",
+   "address": "2625 Piedmont Rd, Ste 56, Atlanta, GA 30324",
+   "phone": "(404) 261-6339",
+   "website": "https://locations.theupsstore.com/ga/atlanta/2625-piedmont-rd",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/2625-piedmont-rd/mailbox-services",
+   "hours": {
+    "monday": "8:00 AM\u20136:00 PM",
+    "tuesday": "8:00 AM\u20136:00 PM",
+    "wednesday": "8:00 AM\u20136:00 PM",
+    "thursday": "8:00 AM\u20136:00 PM",
+    "friday": "8:00 AM\u20136:00 PM",
+    "saturday": "8:00 AM\u20134:00 PM",
+    "sunday": "10:00 AM\u20133:00 PM",
+    "notes": "Staffed store hours from the official location page\u2019s opening-hours data. Holiday hours (including Thanksgiving) can differ; the page lists holiday closures."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/ga/atlanta/2625-piedmont-rd"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/2625-piedmont-rd/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store \u2014 2870 Peachtree Rd",
+   "area": "Atlanta \u00b7 Peachtree Road (Buckhead)",
+   "address": "2870 Peachtree Rd, Atlanta, GA 30305",
+   "phone": "(404) 814-1771",
+   "website": "https://locations.theupsstore.com/ga/atlanta/2870-peachtree-rd",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/2870-peachtree-rd/mailbox-services",
+   "hours": {
+    "monday": "8:00 AM\u20136:30 PM",
+    "tuesday": "8:00 AM\u20136:30 PM",
+    "wednesday": "8:00 AM\u20136:30 PM",
+    "thursday": "8:00 AM\u20136:30 PM",
+    "friday": "8:00 AM\u20136:30 PM",
+    "saturday": "10:00 AM\u20133:30 PM",
+    "sunday": "10:00 AM\u20133:00 PM",
+    "notes": "Staffed store hours from the official location page\u2019s opening-hours data. Holiday hours (including Thanksgiving) can differ; the page lists holiday closures."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/ga/atlanta/2870-peachtree-rd"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/2870-peachtree-rd/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store \u2014 1266 W Paces Ferry Rd",
+   "area": "Atlanta \u00b7 West Paces Ferry Road (Buckhead)",
+   "address": "1266 W Paces Ferry Rd, Atlanta, GA 30327",
+   "phone": "(404) 841-9550",
+   "website": "https://locations.theupsstore.com/ga/atlanta/1266-w-paces-ferry-rd",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/1266-w-paces-ferry-rd/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM\u20137:00 PM",
+    "tuesday": "8:30 AM\u20137:00 PM",
+    "wednesday": "8:30 AM\u20137:00 PM",
+    "thursday": "8:30 AM\u20137:00 PM",
+    "friday": "8:30 AM\u20137:00 PM",
+    "saturday": "9:30 AM\u20134:00 PM",
+    "sunday": "Closed",
+    "notes": "Staffed store hours from the official location page\u2019s opening-hours data. Holiday hours (including Thanksgiving) can differ; the page lists holiday closures."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/ga/atlanta/1266-w-paces-ferry-rd"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/1266-w-paces-ferry-rd/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store \u2014 4279 Roswell Rd NE",
+   "area": "Atlanta \u00b7 Roswell Road NE (Chastain Square)",
+   "address": "4279 Roswell Rd NE, Ste 208, Atlanta, GA 30342",
+   "phone": "(404) 256-3948",
+   "website": "https://locations.theupsstore.com/ga/atlanta/4279-roswell-rd-ne",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/4279-roswell-rd-ne/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM\u20137:00 PM",
+    "tuesday": "8:30 AM\u20137:00 PM",
+    "wednesday": "8:30 AM\u20137:00 PM",
+    "thursday": "8:30 AM\u20137:00 PM",
+    "friday": "8:30 AM\u20137:00 PM",
+    "saturday": "9:30 AM\u20135:00 PM",
+    "sunday": "Closed",
+    "notes": "Staffed store hours from the official location page\u2019s opening-hours data. Holiday hours (including Thanksgiving) can differ; the page lists holiday closures."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/ga/atlanta/4279-roswell-rd-ne"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/4279-roswell-rd-ne/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store \u2014 3695 Cascade Rd",
+   "area": "Atlanta \u00b7 Cascade Road (Southwest Atlanta)",
+   "address": "3695 Cascade Rd, Suite 300, Atlanta, GA 30331",
+   "phone": "(404) 975-3901",
+   "website": "https://locations.theupsstore.com/ga/atlanta/3695-cascade-rd",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/3695-cascade-rd/mailbox-services",
+   "hours": {
+    "monday": "9:00 AM\u20137:00 PM",
+    "tuesday": "9:00 AM\u20137:00 PM",
+    "wednesday": "9:00 AM\u20137:00 PM",
+    "thursday": "9:00 AM\u20137:00 PM",
+    "friday": "9:00 AM\u20137:00 PM",
+    "saturday": "10:00 AM\u20135:00 PM",
+    "sunday": "10:00 AM\u20134:00 PM",
+    "notes": "Staffed store hours from the official location page\u2019s opening-hours data. Holiday hours (including Thanksgiving) can differ; the page lists holiday closures."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists \u201c24-hour access (at participating locations),\u201d which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/ga/atlanta/3695-cascade-rd"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/3695-cascade-rd/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  }
+ ]
+}
