@@ -1,0 +1,852 @@
+{
+ "slug": "dc-washington",
+ "city": "Washington",
+ "citySlug": "washington",
+ "state": "DC",
+ "stateName": "District of Columbia",
+ "focus": "District of Columbia (Downtown, Foggy Bottom, Georgetown, Adams Morgan, Shaw, Columbia Heights, NoMa, H Street NE, Capitol Hill, Navy Yard, The Wharf, Fort Lincoln, Cleveland Park, Tenleytown, Palisades, Chevy Chase DC, Takoma, and Brightwood Park)",
+ "lastUpdated": "2026-11-22",
+ "intro": "This first Washington, DC page covers private mailbox stores inside the District whose own public pages list an address, staffed hours, and package acceptance — two independent pack-and-ship stores (H Street NE and Georgia Avenue NW) whose mailbox pages say boxholders get 24-hour access, plus eighteen UPS Store locations from The Wharf and Capitol Hill up to Georgetown, Tenleytown, and Takoma, most of them open on Sundays. It is not a complete metro inventory; Arlington, Alexandria, Bethesda, Silver Spring, and other Maryland and Virginia suburbs are not covered yet. 24-hour lobby access is flagged only when the store’s own page says so. The UPS Store pages mention 24-hour access only at participating locations, so that flag is off for those stores. Box availability can change; treat it as something to confirm. If you cannot get to a storefront, compare virtual mailbox services.",
+ "listings": [
+  {
+   "name": "Gold Spot Pack and Ship",
+   "area": "Washington · H Street NE (Near Northeast / Atlas District)",
+   "address": "712 H St NE, Washington, DC 20002",
+   "phone": "202-544-0303",
+   "website": "https://www.packandshipservices.com/Products-Services/Mailbox-Rental",
+   "bookingUrl": "https://www.packandshipservices.com/Products-Services/Mailbox-Rental",
+   "hours": {
+    "monday": "10:00 AM–6:00 PM",
+    "tuesday": "10:00 AM–6:00 PM",
+    "wednesday": "10:00 AM–6:00 PM",
+    "thursday": "10:00 AM–6:00 PM",
+    "friday": "10:00 AM–6:00 PM",
+    "saturday": "10:00 AM–3:00 PM",
+    "sunday": "Closed",
+    "notes": "Staffed store hours as shown on the mailbox rental page for November 22–28, 2026. The same page says mailbox customers have 24-hour access to a brightly lit, secure mailbox area."
+   },
+   "carriers": [
+    "USPS",
+    "UPS",
+    "FedEx",
+    "DHL",
+    "Couriers"
+   ],
+   "carriersNotes": "The mailbox rental page says the store accepts packages and mail from the Post Office, UPS, FedEx, DHL, and couriers.",
+   "flags": {
+    "access24": true,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox rental page says mailbox customers have 24-hour access to a brightly lit, secure mailbox area, and offers call-ahead mail check, email or text notification, and mail forwarding. It does not say whether packages too large for a box can be picked up after staffed hours. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Mailbox rental page",
+     "url": "https://www.packandshipservices.com/Products-Services/Mailbox-Rental"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "Mail, Ship & Print",
+   "area": "Washington · Georgia Avenue NW (Brightwood Park / Takoma area)",
+   "address": "6218 Georgia Ave NW, Ste 1, Washington, DC 20011",
+   "phone": "(202) 851-4910",
+   "website": "https://www.mailshipprint.com/MAIL/Standard-Private-Mailboxes",
+   "bookingUrl": "https://www.mailshipprint.com/MAIL/Standard-Private-Mailboxes",
+   "hours": {
+    "monday": "10:00 AM–6:00 PM",
+    "tuesday": "10:00 AM–6:00 PM",
+    "wednesday": "10:00 AM–6:00 PM",
+    "thursday": "10:00 AM–6:00 PM",
+    "friday": "10:00 AM–6:00 PM",
+    "saturday": "10:30 AM–4:00 PM",
+    "sunday": "Closed",
+    "notes": "Staffed store hours as shown on the mailbox rental page for November 22–28, 2026. The same page says mailbox customers have 24-hour access to a brightly lit, secure mailbox area."
+   },
+   "carriers": [
+    "USPS",
+    "UPS",
+    "FedEx",
+    "DHL",
+    "Couriers"
+   ],
+   "carriersNotes": "The mailbox rental page says the store accepts packages and mail from the Post Office, UPS, FedEx, DHL, and couriers.",
+   "flags": {
+    "access24": true,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox rental page says mailbox customers have 24-hour access to a brightly lit, secure mailbox area, and offers call-ahead mail check, email or text notification, and mail forwarding. It does not say whether packages too large for a box can be picked up after staffed hours. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Standard private mailboxes page",
+     "url": "https://www.mailshipprint.com/MAIL/Standard-Private-Mailboxes"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store — 996 Maine Ave SW",
+   "area": "Washington · The Wharf (Southwest Waterfront)",
+   "address": "996 Maine Ave SW, Washington, DC 20024",
+   "phone": "(202) 506-4111",
+   "website": "https://locations.theupsstore.com/dc/washington/996-maine-ave-sw",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/996-maine-ave-sw/mailbox-services",
+   "hours": {
+    "monday": "9:00 AM–7:00 PM",
+    "tuesday": "9:00 AM–7:00 PM",
+    "wednesday": "9:00 AM–7:00 PM",
+    "thursday": "9:00 AM–7:00 PM",
+    "friday": "9:00 AM–7:00 PM",
+    "saturday": "10:00 AM–6:00 PM",
+    "sunday": "Closed",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/dc/washington/996-maine-ave-sw"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/dc/washington/996-maine-ave-sw/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store — 1030 15th St NW",
+   "area": "Washington · Downtown (McPherson Square)",
+   "address": "1030 15th St NW, Washington, DC 20005",
+   "phone": "(202) 785-3604",
+   "website": "https://locations.theupsstore.com/dc/washington/1030-15th-st-nw",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/1030-15th-st-nw/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "9:30 AM–5:00 PM",
+    "sunday": "Closed",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/dc/washington/1030-15th-st-nw"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/dc/washington/1030-15th-st-nw/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store — 1220 L Street NW",
+   "area": "Washington · Downtown (L Street NW)",
+   "address": "1220 L Street NW, Washington, DC 20005",
+   "phone": "(202) 371-0065",
+   "website": "https://locations.theupsstore.com/dc/washington/1220-l-street-nw",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/1220-l-street-nw/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "10:00 AM–5:00 PM",
+    "sunday": "11:00 AM–4:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/dc/washington/1220-l-street-nw"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/dc/washington/1220-l-street-nw/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store — 825 21st St NW",
+   "area": "Washington · Foggy Bottom",
+   "address": "825 21st St NW, Washington, DC 20006",
+   "phone": "(202) 457-8166",
+   "website": "https://locations.theupsstore.com/dc/washington/825-21st-st-nw",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/825-21st-st-nw/mailbox-services",
+   "hours": {
+    "monday": "8:00 AM–6:00 PM",
+    "tuesday": "8:00 AM–6:00 PM",
+    "wednesday": "8:00 AM–6:00 PM",
+    "thursday": "8:00 AM–6:00 PM",
+    "friday": "8:00 AM–6:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/dc/washington/825-21st-st-nw"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/dc/washington/825-21st-st-nw/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store — 3220 N St NW",
+   "area": "Washington · Georgetown",
+   "address": "3220 N St NW, Washington, DC 20007",
+   "phone": "(202) 342-0707",
+   "website": "https://locations.theupsstore.com/dc/washington/3220-n-st-nw",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/3220-n-st-nw/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–6:30 PM",
+    "tuesday": "8:30 AM–6:30 PM",
+    "wednesday": "8:30 AM–6:30 PM",
+    "thursday": "8:30 AM–6:30 PM",
+    "friday": "8:30 AM–6:30 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/dc/washington/3220-n-st-nw"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/dc/washington/3220-n-st-nw/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store — 2202 18th St NW",
+   "area": "Washington · Adams Morgan",
+   "address": "2202 18th St NW, Washington, DC 20009",
+   "phone": "(202) 588-9100",
+   "website": "https://locations.theupsstore.com/dc/washington/2202-18th-st-nw",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/2202-18th-st-nw/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–6:30 PM",
+    "tuesday": "8:30 AM–6:30 PM",
+    "wednesday": "8:30 AM–6:30 PM",
+    "thursday": "8:30 AM–6:30 PM",
+    "friday": "8:30 AM–6:30 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/dc/washington/2202-18th-st-nw"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/dc/washington/2202-18th-st-nw/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store — 1835 7th Street NW",
+   "area": "Washington · Shaw",
+   "address": "1835 7th Street NW, Washington, DC 20001",
+   "phone": "(202) 804-4338",
+   "website": "https://locations.theupsstore.com/dc/washington/1835-7th-street-nw",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/1835-7th-street-nw/mailbox-services",
+   "hours": {
+    "monday": "9:00 AM–7:00 PM",
+    "tuesday": "9:00 AM–7:00 PM",
+    "wednesday": "9:00 AM–7:00 PM",
+    "thursday": "9:00 AM–7:00 PM",
+    "friday": "9:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "Closed",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/dc/washington/1835-7th-street-nw"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/dc/washington/1835-7th-street-nw/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store — 1380 Monroe St NW",
+   "area": "Washington · Columbia Heights",
+   "address": "1380 Monroe St NW, Washington, DC 20010",
+   "phone": "(202) 234-4877",
+   "website": "https://locations.theupsstore.com/dc/washington/1380-monroe-st-nw",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/1380-monroe-st-nw/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "9:00 AM–6:00 PM",
+    "sunday": "10:00 AM–4:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/dc/washington/1380-monroe-st-nw"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/dc/washington/1380-monroe-st-nw/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store — 420 Florida Ave Northeast",
+   "area": "Washington · NoMa / Union Market",
+   "address": "420 Florida Ave Northeast, Washington, DC 20002",
+   "phone": "(202) 355-0915",
+   "website": "https://locations.theupsstore.com/dc/washington/420-florida-ave-northeast",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/420-florida-ave-northeast/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "10:00 AM–4:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/dc/washington/420-florida-ave-northeast"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/dc/washington/420-florida-ave-northeast/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store — 921 H St NE",
+   "area": "Washington · H Street NE (Atlas District)",
+   "address": "921 H St NE, Washington, DC 20002",
+   "phone": "(202) 507-8964",
+   "website": "https://locations.theupsstore.com/dc/washington/921-h-st-ne",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/921-h-st-ne/mailbox-services",
+   "hours": {
+    "monday": "9:00 AM–7:00 PM",
+    "tuesday": "9:00 AM–7:00 PM",
+    "wednesday": "9:00 AM–7:00 PM",
+    "thursday": "9:00 AM–7:00 PM",
+    "friday": "9:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "11:00 AM–4:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/dc/washington/921-h-st-ne"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/dc/washington/921-h-st-ne/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store — 611 Pennsylvania Ave SE",
+   "area": "Washington · Capitol Hill",
+   "address": "611 Pennsylvania Ave SE, Washington, DC 20003",
+   "phone": "(202) 543-0850",
+   "website": "https://locations.theupsstore.com/dc/washington/611-pennsylvania-ave-se",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/611-pennsylvania-ave-se/mailbox-services",
+   "hours": {
+    "monday": "9:00 AM–7:00 PM",
+    "tuesday": "9:00 AM–7:00 PM",
+    "wednesday": "9:00 AM–7:00 PM",
+    "thursday": "9:00 AM–7:00 PM",
+    "friday": "9:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/dc/washington/611-pennsylvania-ave-se"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/dc/washington/611-pennsylvania-ave-se/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store — 1100 New Jersey Ave",
+   "area": "Washington · Navy Yard",
+   "address": "1100 New Jersey Ave, Washington, DC 20003",
+   "phone": "(202) 808-2968",
+   "website": "https://locations.theupsstore.com/dc/washington/1100-new-jersey-ave",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/1100-new-jersey-ave/mailbox-services",
+   "hours": {
+    "monday": "9:00 AM–7:00 PM",
+    "tuesday": "9:00 AM–7:00 PM",
+    "wednesday": "9:00 AM–7:00 PM",
+    "thursday": "9:00 AM–7:00 PM",
+    "friday": "9:00 AM–7:00 PM",
+    "saturday": "10:00 AM–5:00 PM",
+    "sunday": "12:00 PM–5:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/dc/washington/1100-new-jersey-ave"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/dc/washington/1100-new-jersey-ave/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store — 2490 Market St NE",
+   "area": "Washington · Fort Lincoln",
+   "address": "2490 Market St NE, Washington, DC 20018",
+   "phone": "(202) 937-4333",
+   "website": "https://locations.theupsstore.com/dc/washington/2490-market-st-ne",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/2490-market-st-ne/mailbox-services",
+   "hours": {
+    "monday": "9:00 AM–7:00 PM",
+    "tuesday": "9:00 AM–7:00 PM",
+    "wednesday": "9:00 AM–7:00 PM",
+    "thursday": "9:00 AM–7:00 PM",
+    "friday": "9:00 AM–7:00 PM",
+    "saturday": "8:00 AM–4:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/dc/washington/2490-market-st-ne"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/dc/washington/2490-market-st-ne/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store — 3503 Connecticut Ave NW",
+   "area": "Washington · Cleveland Park",
+   "address": "3503 Connecticut Ave NW, Washington, DC 20008",
+   "phone": "(202) 244-7299",
+   "website": "https://locations.theupsstore.com/dc/washington/3503-connecticut-ave-nw",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/3503-connecticut-ave-nw/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "10:00 AM–5:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/dc/washington/3503-connecticut-ave-nw"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/dc/washington/3503-connecticut-ave-nw/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store — 4200 Wisconsin Ave NW",
+   "area": "Washington · Tenleytown",
+   "address": "4200 Wisconsin Ave NW, Washington, DC 20016",
+   "phone": "(202) 363-8044",
+   "website": "https://locations.theupsstore.com/dc/washington/4200-wisconsin-ave-nw",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/4200-wisconsin-ave-nw/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "10:00 AM–5:00 PM",
+    "sunday": "11:00 AM–5:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/dc/washington/4200-wisconsin-ave-nw"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/dc/washington/4200-wisconsin-ave-nw/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store — 5185 Macarthur Blvd NW",
+   "area": "Washington · Palisades",
+   "address": "5185 Macarthur Blvd NW, Washington, DC 20016",
+   "phone": "(202) 966-4434",
+   "website": "https://locations.theupsstore.com/dc/washington/5185-macarthur-blvd-nw",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/5185-macarthur-blvd-nw/mailbox-services",
+   "hours": {
+    "monday": "9:00 AM–7:00 PM",
+    "tuesday": "9:00 AM–7:00 PM",
+    "wednesday": "9:00 AM–7:00 PM",
+    "thursday": "9:00 AM–7:00 PM",
+    "friday": "9:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/dc/washington/5185-macarthur-blvd-nw"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/dc/washington/5185-macarthur-blvd-nw/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store — 5614 Connecticut Ave NW",
+   "area": "Washington · Chevy Chase DC",
+   "address": "5614 Connecticut Ave NW, Washington, DC 20015",
+   "phone": "(202) 244-6655",
+   "website": "https://locations.theupsstore.com/dc/washington/5614-connecticut-ave-nw",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/5614-connecticut-ave-nw/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–6:30 PM",
+    "tuesday": "8:30 AM–6:30 PM",
+    "wednesday": "8:30 AM–6:30 PM",
+    "thursday": "8:30 AM–6:30 PM",
+    "friday": "8:30 AM–6:30 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/dc/washington/5614-connecticut-ave-nw"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/dc/washington/5614-connecticut-ave-nw/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store — 6955 Willow St NW",
+   "area": "Washington · Takoma",
+   "address": "6955 Willow St NW, Washington, DC 20012",
+   "phone": "(202) 853-3861",
+   "website": "https://locations.theupsstore.com/dc/washington/6955-willow-st-nw",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/6955-willow-st-nw/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "10:00 AM–4:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/dc/washington/6955-willow-st-nw"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/dc/washington/6955-willow-st-nw/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  }
+ ]
+}
