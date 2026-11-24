@@ -1,0 +1,684 @@
+{
+  "slug": "pa-philadelphia",
+  "city": "Philadelphia",
+  "citySlug": "philadelphia",
+  "state": "PA",
+  "stateName": "Pennsylvania",
+  "focus": "City of Philadelphia (Center City, Rittenhouse, Logan Square, Midtown Village, Old City, Queen Village, Northern Liberties, Fairmount, University City, South Philadelphia, Wynnefield, Roxborough, Chestnut Hill, Kensington, and Northeast Philadelphia)",
+  "lastUpdated": "2026-11-23",
+  "intro": "This first Philadelphia page covers 16 UPS Store locations inside the city whose official location and mailbox-services pages list a street address, staffed hours, and package acceptance from all carriers — from Center City, Old City, and University City out to Chestnut Hill, Roxborough, and Northeast Philadelphia. 15 of them publish Sunday hours. It is not a complete inventory: independent pack-and-ship stores and suburbs such as Cherry Hill, Upper Darby, King of Prussia, and Bensalem are not covered yet. The UPS Store pages mention 24-hour access only at participating locations, so that flag is off for every store here. Box availability can change; treat it as something to confirm. If you cannot get to a storefront, compare virtual mailbox services.",
+  "listings": [
+    {
+      "name": "The UPS Store — 10871 Bustleton Ave",
+      "area": "Northeast Philadelphia · Somerton (Bustleton Ave)",
+      "address": "10871 Bustleton Ave, Philadelphia, PA 19116",
+      "phone": "(215) 698-1296",
+      "website": "https://locations.theupsstore.com/pa/philadelphia/10871-bustleton-ave",
+      "bookingUrl": "https://locations.theupsstore.com/pa/philadelphia/10871-bustleton-ave/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:30 PM",
+        "tuesday": "8:00 AM–6:30 PM",
+        "wednesday": "8:00 AM–6:30 PM",
+        "thursday": "8:00 AM–6:30 PM",
+        "friday": "8:00 AM–6:30 PM",
+        "saturday": "9:00 AM–3:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/10871-bustleton-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/10871-bustleton-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-23"
+    },
+    {
+      "name": "The UPS Store — 120 S 21st St",
+      "area": "Center City · Rittenhouse (S 21st St)",
+      "address": "120 S 21st St, Philadelphia, PA 19103",
+      "phone": "(267) 319-1894",
+      "website": "https://locations.theupsstore.com/pa/philadelphia/120-s-21st-st",
+      "bookingUrl": "https://locations.theupsstore.com/pa/philadelphia/120-s-21st-st/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–7:00 PM",
+        "tuesday": "8:00 AM–7:00 PM",
+        "wednesday": "8:00 AM–7:00 PM",
+        "thursday": "8:00 AM–7:00 PM",
+        "friday": "8:00 AM–7:00 PM",
+        "saturday": "10:00 AM–4:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/120-s-21st-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/120-s-21st-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-23"
+    },
+    {
+      "name": "The UPS Store — 1201 N 3rd St",
+      "area": "Northern Liberties · 3rd & Girard",
+      "address": "1201 N 3rd St, Philadelphia, PA 19122",
+      "phone": "(215) 845-5978",
+      "website": "https://locations.theupsstore.com/pa/philadelphia/1201-n-3rd-st",
+      "bookingUrl": "https://locations.theupsstore.com/pa/philadelphia/1201-n-3rd-st/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/1201-n-3rd-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/1201-n-3rd-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-23"
+    },
+    {
+      "name": "The UPS Store — 1229 Chestnut St",
+      "area": "Center City · Chestnut St (Midtown Village)",
+      "address": "1229 Chestnut St, Philadelphia, PA 19107",
+      "phone": "(215) 568-4555",
+      "website": "https://locations.theupsstore.com/pa/philadelphia/1229-chestnut-st",
+      "bookingUrl": "https://locations.theupsstore.com/pa/philadelphia/1229-chestnut-st/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:30 PM",
+        "tuesday": "8:00 AM–6:30 PM",
+        "wednesday": "8:00 AM–6:30 PM",
+        "thursday": "8:00 AM–6:30 PM",
+        "friday": "8:00 AM–6:30 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/1229-chestnut-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/1229-chestnut-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-23"
+    },
+    {
+      "name": "The UPS Store — 1300 S Broad Street",
+      "area": "South Philadelphia · S Broad St",
+      "address": "1300 S Broad Street, Philadelphia, PA 19146",
+      "phone": "(215) 575-5134",
+      "website": "https://locations.theupsstore.com/pa/philadelphia/1300-s-broad-street",
+      "bookingUrl": "https://locations.theupsstore.com/pa/philadelphia/1300-s-broad-street/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–7:00 PM",
+        "tuesday": "8:00 AM–7:00 PM",
+        "wednesday": "8:00 AM–7:00 PM",
+        "thursday": "8:00 AM–7:00 PM",
+        "friday": "8:00 AM–7:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/1300-s-broad-street"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/1300-s-broad-street/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-23"
+    },
+    {
+      "name": "The UPS Store — 1735 Market St Ste 125",
+      "area": "Center City · Market St (Logan Square)",
+      "address": "1735 Market St Ste 125, Philadelphia, PA 19103",
+      "phone": "(215) 567-6006",
+      "website": "https://locations.theupsstore.com/pa/philadelphia/1735-market-st",
+      "bookingUrl": "https://locations.theupsstore.com/pa/philadelphia/1735-market-st/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–7:00 PM",
+        "tuesday": "8:00 AM–7:00 PM",
+        "wednesday": "8:00 AM–7:00 PM",
+        "thursday": "8:00 AM–7:00 PM",
+        "friday": "8:00 AM–7:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/1735-market-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/1735-market-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-23"
+    },
+    {
+      "name": "The UPS Store — 1801 Fairmount Ave",
+      "area": "Fairmount / Spring Garden",
+      "address": "1801 Fairmount Ave, Philadelphia, PA 19130",
+      "phone": "(215) 278-2185",
+      "website": "https://locations.theupsstore.com/pa/philadelphia/1801-fairmount-ave",
+      "bookingUrl": "https://locations.theupsstore.com/pa/philadelphia/1801-fairmount-ave/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–7:00 PM",
+        "tuesday": "8:00 AM–7:00 PM",
+        "wednesday": "8:00 AM–7:00 PM",
+        "thursday": "8:00 AM–7:00 PM",
+        "friday": "8:00 AM–7:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/1801-fairmount-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/1801-fairmount-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-23"
+    },
+    {
+      "name": "The UPS Store — 2417 Welsh Rd",
+      "area": "Northeast Philadelphia · Welsh Rd",
+      "address": "2417 Welsh Rd, Philadelphia, PA 19114",
+      "phone": "(215) 464-1877",
+      "website": "https://locations.theupsstore.com/pa/philadelphia/2417-welsh-rd",
+      "bookingUrl": "https://locations.theupsstore.com/pa/philadelphia/2417-welsh-rd/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:30 PM",
+        "tuesday": "8:00 AM–6:30 PM",
+        "wednesday": "8:00 AM–6:30 PM",
+        "thursday": "8:00 AM–6:30 PM",
+        "friday": "8:00 AM–6:30 PM",
+        "saturday": "9:00 AM–3:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/2417-welsh-rd"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/2417-welsh-rd/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-23"
+    },
+    {
+      "name": "The UPS Store — 2449 N 54th Street",
+      "area": "West Philadelphia · Wynnefield (N 54th St)",
+      "address": "2449 N 54th Street, Philadelphia, PA 19131",
+      "phone": "(267) 292-2495",
+      "website": "https://locations.theupsstore.com/pa/philadelphia/2449-n-54th-street",
+      "bookingUrl": "https://locations.theupsstore.com/pa/philadelphia/2449-n-54th-street/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–7:00 PM",
+        "tuesday": "8:00 AM–7:00 PM",
+        "wednesday": "8:00 AM–7:00 PM",
+        "thursday": "8:00 AM–7:00 PM",
+        "friday": "8:00 AM–7:00 PM",
+        "saturday": "10:00 AM–4:00 PM",
+        "sunday": "10:00 AM–4:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/2449-n-54th-street"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/2449-n-54th-street/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-23"
+    },
+    {
+      "name": "The UPS Store — 3720 Spruce St",
+      "area": "University City · Spruce St",
+      "address": "3720 Spruce St, Philadelphia, PA 19104",
+      "phone": "(215) 222-2840",
+      "website": "https://locations.theupsstore.com/pa/philadelphia/3720-spruce-st",
+      "bookingUrl": "https://locations.theupsstore.com/pa/philadelphia/3720-spruce-st/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–7:00 PM",
+        "tuesday": "8:00 AM–7:00 PM",
+        "wednesday": "8:00 AM–7:00 PM",
+        "thursday": "8:00 AM–7:00 PM",
+        "friday": "8:00 AM–7:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/3720-spruce-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/3720-spruce-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-23"
+    },
+    {
+      "name": "The UPS Store — 3908 Kensington Ave",
+      "area": "Kensington Ave (Frankford)",
+      "address": "3908 Kensington Ave, Philadelphia, PA 19124",
+      "phone": "(215) 324-7040",
+      "website": "https://locations.theupsstore.com/pa/philadelphia/3908-kensington-ave",
+      "bookingUrl": "https://locations.theupsstore.com/pa/philadelphia/3908-kensington-ave/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM–6:30 PM",
+        "tuesday": "8:30 AM–6:30 PM",
+        "wednesday": "8:30 AM–6:30 PM",
+        "thursday": "8:30 AM–6:30 PM",
+        "friday": "8:30 AM–6:30 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/3908-kensington-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/3908-kensington-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-23"
+    },
+    {
+      "name": "The UPS Store — 51 N 3rd St",
+      "area": "Old City · N 3rd St",
+      "address": "51 N 3rd St, Philadelphia, PA 19106",
+      "phone": "(215) 629-4992",
+      "website": "https://locations.theupsstore.com/pa/philadelphia/51-n-3rd-st",
+      "bookingUrl": "https://locations.theupsstore.com/pa/philadelphia/51-n-3rd-st/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:30 PM",
+        "tuesday": "8:00 AM–6:30 PM",
+        "wednesday": "8:00 AM–6:30 PM",
+        "thursday": "8:00 AM–6:30 PM",
+        "friday": "8:00 AM–6:30 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/51-n-3rd-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/51-n-3rd-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-23"
+    },
+    {
+      "name": "The UPS Store — 6024 Ridge Ave",
+      "area": "Roxborough · Ridge Ave",
+      "address": "6024 Ridge Ave, Philadelphia, PA 19128",
+      "phone": "(267) 900-5600",
+      "website": "https://locations.theupsstore.com/pa/philadelphia/6024-ridge-ave",
+      "bookingUrl": "https://locations.theupsstore.com/pa/philadelphia/6024-ridge-ave/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM–7:00 PM",
+        "tuesday": "8:30 AM–7:00 PM",
+        "wednesday": "8:30 AM–7:00 PM",
+        "thursday": "8:30 AM–7:00 PM",
+        "friday": "8:30 AM–7:00 PM",
+        "saturday": "9:00 AM–4:00 PM",
+        "sunday": "Closed",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/6024-ridge-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/6024-ridge-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-23"
+    },
+    {
+      "name": "The UPS Store — 614 South 4th St",
+      "area": "Queen Village / Society Hill · South 4th St",
+      "address": "614 South 4th St, Philadelphia, PA 19147",
+      "phone": "(215) 733-9200",
+      "website": "https://locations.theupsstore.com/pa/philadelphia/614-south-4th-st",
+      "bookingUrl": "https://locations.theupsstore.com/pa/philadelphia/614-south-4th-st/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:30 PM",
+        "tuesday": "8:00 AM–6:30 PM",
+        "wednesday": "8:00 AM–6:30 PM",
+        "thursday": "8:00 AM–6:30 PM",
+        "friday": "8:00 AM–6:30 PM",
+        "saturday": "10:00 AM–4:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/614-south-4th-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/614-south-4th-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-23"
+    },
+    {
+      "name": "The UPS Store — 6575 Roosevelt Blvd Suite 11",
+      "area": "Northeast Philadelphia · Roosevelt Blvd (Roosevelt Plaza)",
+      "address": "6575 Roosevelt Blvd Suite 11, Philadelphia, PA 19149",
+      "phone": "(215) 565-0310",
+      "website": "https://locations.theupsstore.com/pa/philadelphia/6575-roosevelt-blvd",
+      "bookingUrl": "https://locations.theupsstore.com/pa/philadelphia/6575-roosevelt-blvd/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM–6:30 PM",
+        "tuesday": "8:30 AM–6:30 PM",
+        "wednesday": "8:30 AM–6:30 PM",
+        "thursday": "8:30 AM–6:30 PM",
+        "friday": "8:30 AM–6:30 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/6575-roosevelt-blvd"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/6575-roosevelt-blvd/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-23"
+    },
+    {
+      "name": "The UPS Store — 7715 Crittenden St",
+      "area": "Chestnut Hill · Market Square",
+      "address": "7715 Crittenden St, Philadelphia, PA 19118",
+      "phone": "(215) 242-2800",
+      "website": "https://locations.theupsstore.com/pa/philadelphia/7715-crittenden-st",
+      "bookingUrl": "https://locations.theupsstore.com/pa/philadelphia/7715-crittenden-st/mailbox-services",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/7715-crittenden-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/pa/philadelphia/7715-crittenden-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-23"
+    }
+  ]
+}
