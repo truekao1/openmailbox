@@ -1,0 +1,852 @@
+{
+ "slug": "fl-miami",
+ "city": "Miami",
+ "citySlug": "miami",
+ "state": "FL",
+ "stateName": "Florida",
+ "focus": "Miami and Miami-addressed areas of Miami-Dade County (Brickell, Downtown, Edgewater, Upper East Side, Health District, Coconut Grove, Coral Way, West Flagler, the airport area, Dadeland, Bird Road, Westchester, Kendall, Sweetwater, West Kendall, the Hammocks, and the Palmetto Bay and Doral areas)",
+ "lastUpdated": "2026-11-24",
+ "intro": "This first Miami page covers 20 UPS Store locations with Miami street addresses whose official location and mailbox-services pages list staffed hours and package acceptance from all carriers — from Brickell, Downtown, Edgewater, and the Upper East Side to Coconut Grove, Coral Way, Westchester, Kendall, and the Hammocks. 16 of them publish Sunday hours. Two stores, Brickell (936 SW 1st Ave) and Downtown (153 E Flagler St), say on their own pages that mailbox holders get an access card to collect mail any time of day; the other stores mention 24-hour access only at participating locations, so that flag is off for them. Several stores are in unincorporated Miami-Dade areas that use a Miami mailing address. It is not a complete inventory: independent pack-and-ship stores, Miami Beach, Coral Gables, Hialeah, and Doral proper are not covered yet. Box availability can change; treat it as something to confirm. If you cannot get to a storefront, compare virtual mailbox services.",
+ "listings": [
+  {
+   "name": "The UPS Store — 936 SW 1st Ave",
+   "area": "Brickell · SW 1st Ave (across from Brickell Metrorail)",
+   "address": "936 SW 1st Ave, Miami, FL 33130",
+   "phone": "(305) 858-1221",
+   "website": "https://locations.theupsstore.com/fl/miami/936-sw-1st-ave",
+   "bookingUrl": "https://locations.theupsstore.com/fl/miami/936-sw-1st-ave/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "10:00 AM–3:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": true,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page for this store says mailbox customers get an access card to pick up mail any time of the day, and that large packages and overflow mail are held for pickup during regular business hours. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/fl/miami/936-sw-1st-ave"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/fl/miami/936-sw-1st-ave/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "The UPS Store — 153 E Flagler St",
+   "area": "Downtown Miami · E Flagler St (Alfred I. duPont Building)",
+   "address": "153 E Flagler St, Miami, FL 33131",
+   "phone": "(305) 372-9877",
+   "website": "https://locations.theupsstore.com/fl/miami/153-e-flagler-st",
+   "bookingUrl": "https://locations.theupsstore.com/fl/miami/153-e-flagler-st/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "10:00 AM–3:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": true,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page for this store says mailbox customers get an access card to pick up mail any time of the day, and that large packages and overflow mail are held for pickup during regular business hours. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "Personal mailbox prices as listed on 2026-11-24 on the store’s mailbox-services page: Small $129.00 for 3 months, $216.00 for 6 months, $336.00 for 12 months; Medium $150.00 / $258.00 / $420.00; Large $174.00 / $306.00 / $480.00. Business mailbox pricing is listed separately on the same page. Confirm current prices and any key or setup fees with the store.",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/fl/miami/153-e-flagler-st"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/fl/miami/153-e-flagler-st/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "The UPS Store — 2045 Biscayne Blvd",
+   "area": "Edgewater / Midtown · Biscayne Blvd",
+   "address": "2045 Biscayne Blvd, Miami, FL 33137",
+   "phone": "(786) 360-4466",
+   "website": "https://locations.theupsstore.com/fl/miami/2045-biscayne-blvd",
+   "bookingUrl": "https://locations.theupsstore.com/fl/miami/2045-biscayne-blvd/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "10:00 AM–3:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "Personal mailbox prices as listed on 2026-11-24 on the store’s mailbox-services page: Small $129.00 for 3 months, $216.00 for 6 months, $336.00 for 12 months; Medium $150.00 / $258.00 / $420.00; Large $174.00 / $306.00 / $480.00. Business mailbox pricing is listed separately on the same page. Confirm current prices and any key or setup fees with the store.",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/fl/miami/2045-biscayne-blvd"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/fl/miami/2045-biscayne-blvd/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "The UPS Store — 6815 Biscayne Blvd Ste 103",
+   "area": "Upper East Side · Biscayne Blvd at 69th St",
+   "address": "6815 Biscayne Blvd, Ste 103, Miami, FL 33138",
+   "phone": "(305) 759-8877",
+   "website": "https://locations.theupsstore.com/fl/miami/6815-biscayne-blvd",
+   "bookingUrl": "https://locations.theupsstore.com/fl/miami/6815-biscayne-blvd/mailbox-services",
+   "hours": {
+    "monday": "8:00 AM–7:30 PM",
+    "tuesday": "8:00 AM–7:30 PM",
+    "wednesday": "8:00 AM–7:30 PM",
+    "thursday": "8:00 AM–7:30 PM",
+    "friday": "8:00 AM–7:30 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/fl/miami/6815-biscayne-blvd"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/fl/miami/6815-biscayne-blvd/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "The UPS Store — 11850 Biscayne Blvd",
+   "area": "North Miami area · Biscayne Blvd (33181)",
+   "address": "11850 Biscayne Blvd, Miami, FL 33181",
+   "phone": "(305) 939-4540",
+   "website": "https://locations.theupsstore.com/fl/miami/11850-biscayne-blvd",
+   "bookingUrl": "https://locations.theupsstore.com/fl/miami/11850-biscayne-blvd/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "10:00 AM–4:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/fl/miami/11850-biscayne-blvd"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/fl/miami/11850-biscayne-blvd/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "The UPS Store — 1951 NW 7th Ave Ste 160",
+   "area": "Health District · NW 7th Ave at 20th St",
+   "address": "1951 NW 7th Ave, Ste 160, Miami, FL 33136",
+   "phone": "(305) 779-2330",
+   "website": "https://locations.theupsstore.com/fl/miami/1951-nw-7th-ave",
+   "bookingUrl": "https://locations.theupsstore.com/fl/miami/1951-nw-7th-ave/mailbox-services",
+   "hours": {
+    "monday": "8:00 AM–7:00 PM",
+    "tuesday": "8:00 AM–7:00 PM",
+    "wednesday": "8:00 AM–7:00 PM",
+    "thursday": "8:00 AM–7:00 PM",
+    "friday": "8:00 AM–7:00 PM",
+    "saturday": "10:00 AM–3:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/fl/miami/1951-nw-7th-ave"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/fl/miami/1951-nw-7th-ave/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "The UPS Store — 3692 Grand Ave",
+   "area": "Coconut Grove · Grand Ave at Douglas Rd",
+   "address": "3692 Grand Ave, Miami, FL 33133",
+   "phone": "(305) 445-6665",
+   "website": "https://locations.theupsstore.com/fl/miami/3692-grand-ave",
+   "bookingUrl": "https://locations.theupsstore.com/fl/miami/3692-grand-ave/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "9:00 AM–5:30 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/fl/miami/3692-grand-ave"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/fl/miami/3692-grand-ave/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "The UPS Store — 2520 SW 22nd St Ste 2",
+   "area": "Coral Way · SW 22nd St at 27th Ave",
+   "address": "2520 SW 22nd St, Ste 2, Miami, FL 33145",
+   "phone": "(305) 285-1818",
+   "website": "https://locations.theupsstore.com/fl/miami/2520-sw-22nd-st",
+   "bookingUrl": "https://locations.theupsstore.com/fl/miami/2520-sw-22nd-st/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "9:00 AM–3:00 PM",
+    "sunday": "Closed",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/fl/miami/2520-sw-22nd-st"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/fl/miami/2520-sw-22nd-st/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "The UPS Store — 3725 W Flagler St",
+   "area": "Flagami / West Flagler · W Flagler St",
+   "address": "3725 W Flagler St, Miami, FL 33134",
+   "phone": "(786) 452-9661",
+   "website": "https://locations.theupsstore.com/fl/miami/3725-w-flagler-st",
+   "bookingUrl": "https://locations.theupsstore.com/fl/miami/3725-w-flagler-st/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "9:30 AM–4:00 PM",
+    "sunday": "Closed",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/fl/miami/3725-w-flagler-st"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/fl/miami/3725-w-flagler-st/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "The UPS Store — 8355 W Flagler St",
+   "area": "Fontainebleau · W Flagler St",
+   "address": "8355 W Flagler St, Miami, FL 33144",
+   "phone": "(786) 516-2816",
+   "website": "https://locations.theupsstore.com/fl/miami/8355-w-flagler-st",
+   "bookingUrl": "https://locations.theupsstore.com/fl/miami/8355-w-flagler-st/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "9:30 AM–5:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/fl/miami/8355-w-flagler-st"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/fl/miami/8355-w-flagler-st/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "The UPS Store — 5727 NW 7th St",
+   "area": "Near Miami International Airport · Air Park Plaza",
+   "address": "5727 NW 7th St, Miami, FL 33126",
+   "phone": "(305) 264-3939",
+   "website": "https://locations.theupsstore.com/fl/miami/5727-nw-7th-st",
+   "bookingUrl": "https://locations.theupsstore.com/fl/miami/5727-nw-7th-st/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "9:00 AM–3:00 PM",
+    "sunday": "10:00 AM–4:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/fl/miami/5727-nw-7th-st"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/fl/miami/5727-nw-7th-st/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "The UPS Store — 6619 S Dixie Hwy",
+   "area": "Dadeland North · US-1 at SW 67th Ave",
+   "address": "6619 S Dixie Hwy, Miami, FL 33143",
+   "phone": "(305) 669-8290",
+   "website": "https://locations.theupsstore.com/fl/miami/6619-s-dixie-hwy",
+   "bookingUrl": "https://locations.theupsstore.com/fl/miami/6619-s-dixie-hwy/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "11:00 AM–4:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/fl/miami/6619-s-dixie-hwy"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/fl/miami/6619-s-dixie-hwy/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "The UPS Store — 6800 SW 40th St",
+   "area": "Bird Road · SW 40th St at Ludlam",
+   "address": "6800 SW 40th St, Miami, FL 33155",
+   "phone": "(305) 667-2379",
+   "website": "https://locations.theupsstore.com/fl/miami/6800-sw-40th-st",
+   "bookingUrl": "https://locations.theupsstore.com/fl/miami/6800-sw-40th-st/mailbox-services",
+   "hours": {
+    "monday": "8:00 AM–8:00 PM",
+    "tuesday": "8:00 AM–8:00 PM",
+    "wednesday": "8:00 AM–8:00 PM",
+    "thursday": "8:00 AM–8:00 PM",
+    "friday": "8:00 AM–8:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "11:00 AM–4:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/fl/miami/6800-sw-40th-st"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/fl/miami/6800-sw-40th-st/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "The UPS Store — 8567 SW 24 Street",
+   "area": "Westchester · SW 24th St (Westchester Shopping Center)",
+   "address": "8567 SW 24 Street, Miami, FL 33155",
+   "phone": "(305) 261-9091",
+   "website": "https://locations.theupsstore.com/fl/miami/8567-sw-24-street",
+   "bookingUrl": "https://locations.theupsstore.com/fl/miami/8567-sw-24-street/mailbox-services",
+   "hours": {
+    "monday": "8:00 AM–7:00 PM",
+    "tuesday": "8:00 AM–7:00 PM",
+    "wednesday": "8:00 AM–7:00 PM",
+    "thursday": "8:00 AM–7:00 PM",
+    "friday": "8:00 AM–7:00 PM",
+    "saturday": "9:00 AM–4:00 PM",
+    "sunday": "11:00 AM–4:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/fl/miami/8567-sw-24-street"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/fl/miami/8567-sw-24-street/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "The UPS Store — 8724 SW 72nd St",
+   "area": "Kendall · Sunset Dr at Galloway",
+   "address": "8724 SW 72nd St, Miami, FL 33173",
+   "phone": "(305) 595-0414",
+   "website": "https://locations.theupsstore.com/fl/miami/8724-sw-72nd-st",
+   "bookingUrl": "https://locations.theupsstore.com/fl/miami/8724-sw-72nd-st/mailbox-services",
+   "hours": {
+    "monday": "8:00 AM–7:00 PM",
+    "tuesday": "8:00 AM–7:00 PM",
+    "wednesday": "8:00 AM–7:00 PM",
+    "thursday": "8:00 AM–7:00 PM",
+    "friday": "8:00 AM–7:00 PM",
+    "saturday": "9:00 AM–4:00 PM",
+    "sunday": "11:00 AM–4:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/fl/miami/8724-sw-72nd-st"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/fl/miami/8724-sw-72nd-st/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "The UPS Store — 1421 SW 107th Ave",
+   "area": "Sweetwater / FIU · SW 107th Ave",
+   "address": "1421 SW 107th Ave, Miami, FL 33174",
+   "phone": "(305) 225-1570",
+   "website": "https://locations.theupsstore.com/fl/miami/1421-sw-107th-ave",
+   "bookingUrl": "https://locations.theupsstore.com/fl/miami/1421-sw-107th-ave/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "10:00 AM–4:00 PM",
+    "sunday": "Closed",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/fl/miami/1421-sw-107th-ave"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/fl/miami/1421-sw-107th-ave/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "The UPS Store — 13876 SW 56th St",
+   "area": "West Kendall · Miller Square (SW 56th St & 137th Ave)",
+   "address": "13876 SW 56th St, Miami, FL 33175",
+   "phone": "(305) 385-8486",
+   "website": "https://locations.theupsstore.com/fl/miami/13876-sw-56th-st",
+   "bookingUrl": "https://locations.theupsstore.com/fl/miami/13876-sw-56th-st/mailbox-services",
+   "hours": {
+    "monday": "9:00 AM–7:30 PM",
+    "tuesday": "9:00 AM–7:30 PM",
+    "wednesday": "9:00 AM–7:30 PM",
+    "thursday": "9:00 AM–7:30 PM",
+    "friday": "9:00 AM–7:30 PM",
+    "saturday": "9:00 AM–4:00 PM",
+    "sunday": "11:00 AM–4:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/fl/miami/13876-sw-56th-st"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/fl/miami/13876-sw-56th-st/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "The UPS Store — 14629 SW 104 Street",
+   "area": "The Hammocks · SW 104th St & 147th Ave",
+   "address": "14629 SW 104 Street, Miami, FL 33186",
+   "phone": "(305) 408-7430",
+   "website": "https://locations.theupsstore.com/fl/miami/14629-sw-104-street",
+   "bookingUrl": "https://locations.theupsstore.com/fl/miami/14629-sw-104-street/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/fl/miami/14629-sw-104-street"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/fl/miami/14629-sw-104-street/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "The UPS Store — 13611 S Dixie Hwy Ste 109",
+   "area": "Palmetto Bay area · Colonial Palms Plaza (S Dixie Hwy)",
+   "address": "13611 S Dixie Hwy, Ste 109, Miami, FL 33176",
+   "phone": "(305) 256-0114",
+   "website": "https://locations.theupsstore.com/fl/miami/13611-s-dixie-hwy",
+   "bookingUrl": "https://locations.theupsstore.com/fl/miami/13611-s-dixie-hwy/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "10:00 AM–3:30 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/fl/miami/13611-s-dixie-hwy"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/fl/miami/13611-s-dixie-hwy/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "The UPS Store — 11231 NW 20th St Ste 140",
+   "area": "Doral area · Dolphin Park of Commerce (NW 20th St)",
+   "address": "11231 NW 20th St, Ste 140, Miami, FL 33172",
+   "phone": "(786) 342-7748",
+   "website": "https://locations.theupsstore.com/fl/miami/11231-nw-20th-st",
+   "bookingUrl": "https://locations.theupsstore.com/fl/miami/11231-nw-20th-st/mailbox-services",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "10:00 AM–4:00 PM",
+    "sunday": "Closed",
+    "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "carriers": [
+    "All carriers"
+   ],
+   "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+   "flags": {
+    "access24": false,
+    "allCarriers": true,
+    "mailScanning": false,
+    "noWaitlist": false,
+    "virtual": false
+   },
+   "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+   "feeNotes": "",
+   "sources": [
+    {
+     "label": "Official location page (hours and address)",
+     "url": "https://locations.theupsstore.com/fl/miami/11231-nw-20th-st"
+    },
+    {
+     "label": "Official mailbox services page",
+     "url": "https://locations.theupsstore.com/fl/miami/11231-nw-20th-st/mailbox-services"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  }
+ ]
+}
