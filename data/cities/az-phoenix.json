@@ -1,0 +1,852 @@
+{
+  "slug": "az-phoenix",
+  "city": "Phoenix",
+  "citySlug": "phoenix",
+  "state": "AZ",
+  "stateName": "Arizona",
+  "focus": "City of Phoenix (Downtown, Central Phoenix along Camelback and Indian School, Arcadia-area East Camelback, North Phoenix from 16th St and 19th Ave up to Deer Valley and Desert Ridge, Paradise Valley-area Tatum Blvd, West Phoenix along 43rd Ave, Peoria Ave, and 83rd Ave, South Phoenix along Baseline Rd, and Ahwatukee)",
+  "lastUpdated": "2026-11-25",
+  "intro": "This first Phoenix page covers 20 UPS Store locations with Phoenix street addresses whose official location and mailbox-services pages list staffed hours and package acceptance from all carriers — from Downtown and Central Phoenix to North Phoenix, Desert Ridge, West Phoenix, South Phoenix, and Ahwatukee. 19 of them publish Sunday hours, and three (24 W Camelback Rd, 3039 West Peoria Ave, and 4802 E Ray Rd) stay open until 7:00 or 8:00 PM on weekdays. None of these stores says on its own page that mailbox holders get round-the-clock access; they mention 24-hour access only at participating locations, so that flag is off for all of them. No mailbox prices are published on these pages. It is not a complete inventory: independent pack-and-ship stores, USPS Premium PO Boxes, and nearby cities such as Scottsdale, Tempe, Mesa, Chandler, and Glendale are not covered yet. Box availability can change; treat it as something to confirm. If you cannot get to a storefront, compare virtual mailbox services.",
+  "listings": [
+    {
+      "name": "The UPS Store — 125 N 2nd St Ste 110",
+      "area": "Phoenix Convention Center · N 2nd St (85004)",
+      "address": "125 N 2nd St Ste 110, Phoenix, AZ 85004",
+      "phone": "(602) 251-0135",
+      "website": "https://locations.theupsstore.com/az/phoenix/125-n-2nd-st",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/125-n-2nd-st/mailbox-services",
+      "hours": {
+        "monday": "7:00 AM–6:00 PM",
+        "tuesday": "7:00 AM–6:00 PM",
+        "wednesday": "7:00 AM–6:00 PM",
+        "thursday": "7:00 AM–6:00 PM",
+        "friday": "7:00 AM–6:00 PM",
+        "saturday": "9:00 AM–3:00 PM",
+        "sunday": "Closed",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/az/phoenix/125-n-2nd-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/az/phoenix/125-n-2nd-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store — 530 E McDowell Rd #107",
+      "area": "E McDowell Rd (85004)",
+      "address": "530 E McDowell Rd #107, Phoenix, AZ 85004",
+      "phone": "(602) 258-1995",
+      "website": "https://locations.theupsstore.com/az/phoenix/530-e-mcdowell-rd",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/530-e-mcdowell-rd/mailbox-services",
+      "hours": {
+        "monday": "7:30 AM–6:30 PM",
+        "tuesday": "7:30 AM–6:30 PM",
+        "wednesday": "7:30 AM–6:30 PM",
+        "thursday": "7:30 AM–6:30 PM",
+        "friday": "7:30 AM–6:30 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/az/phoenix/530-e-mcdowell-rd"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/az/phoenix/530-e-mcdowell-rd/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store — 24 W Camelback Rd",
+      "area": "W Camelback Rd (85013)",
+      "address": "24 W Camelback Rd, Phoenix, AZ 85013",
+      "phone": "(602) 248-9300",
+      "website": "https://locations.theupsstore.com/az/phoenix/24-w-camelback-rd",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/24-w-camelback-rd/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–8:00 PM",
+        "tuesday": "8:00 AM–8:00 PM",
+        "wednesday": "8:00 AM–8:00 PM",
+        "thursday": "8:00 AM–8:00 PM",
+        "friday": "8:00 AM–8:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "12:00 PM–5:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/az/phoenix/24-w-camelback-rd"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/az/phoenix/24-w-camelback-rd/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store — 1934 E Camelback Rd",
+      "area": "E Camelback Rd (85016)",
+      "address": "1934 E Camelback Rd, Phoenix, AZ 85016",
+      "phone": "(602) 279-1256",
+      "website": "https://locations.theupsstore.com/az/phoenix/1934-e-camelback-rd",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/1934-e-camelback-rd/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM–6:30 PM",
+        "tuesday": "8:30 AM–6:30 PM",
+        "wednesday": "8:30 AM–6:30 PM",
+        "thursday": "8:30 AM–6:30 PM",
+        "friday": "8:30 AM–6:30 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "12:00 PM–5:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/az/phoenix/1934-e-camelback-rd"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/az/phoenix/1934-e-camelback-rd/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store — 3219 East Camelback Rd",
+      "area": "East Camelback Rd (85018)",
+      "address": "3219 East Camelback Rd, Phoenix, AZ 85018",
+      "phone": "(602) 952-8830",
+      "website": "https://locations.theupsstore.com/az/phoenix/3219-east-camelback-rd",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/3219-east-camelback-rd/mailbox-services",
+      "hours": {
+        "monday": "7:30 AM–6:00 PM",
+        "tuesday": "7:30 AM–6:00 PM",
+        "wednesday": "7:30 AM–6:00 PM",
+        "thursday": "7:30 AM–6:00 PM",
+        "friday": "7:30 AM–6:00 PM",
+        "saturday": "9:00 AM–3:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/az/phoenix/3219-east-camelback-rd"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/az/phoenix/3219-east-camelback-rd/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store — 4340 E Indian School Ste 21",
+      "area": "E Indian School (85018)",
+      "address": "4340 E Indian School Ste 21, Phoenix, AZ 85018",
+      "phone": "(602) 765-4456",
+      "website": "https://locations.theupsstore.com/az/phoenix/4340-e-indian-school",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/4340-e-indian-school/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/az/phoenix/4340-e-indian-school"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/az/phoenix/4340-e-indian-school/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store — 2303 N 44th St Ste 14",
+      "area": "N 44th St (85008)",
+      "address": "2303 N 44th St Ste 14, Phoenix, AZ 85008",
+      "phone": "(602) 840-3020",
+      "website": "https://locations.theupsstore.com/az/phoenix/2303-n-44th-st",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/2303-n-44th-st/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/az/phoenix/2303-n-44th-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/az/phoenix/2303-n-44th-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store — 7000 N 16th St Ste 120",
+      "area": "N 16th St (85020)",
+      "address": "7000 N 16th St Ste 120, Phoenix, AZ 85020",
+      "phone": "(602) 331-1111",
+      "website": "https://locations.theupsstore.com/az/phoenix/7000-n-16th-st",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/7000-n-16th-st/mailbox-services",
+      "hours": {
+        "monday": "7:30 AM–6:00 PM",
+        "tuesday": "7:30 AM–6:00 PM",
+        "wednesday": "7:30 AM–6:00 PM",
+        "thursday": "7:30 AM–6:00 PM",
+        "friday": "7:30 AM–6:00 PM",
+        "saturday": "9:00 AM–3:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/az/phoenix/7000-n-16th-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/az/phoenix/7000-n-16th-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store — 8050 N 19th Ave",
+      "area": "N 19th Ave (85021)",
+      "address": "8050 N 19th Ave, Phoenix, AZ 85021",
+      "phone": "(602) 864-3646",
+      "website": "https://locations.theupsstore.com/az/phoenix/8050-n-19th-ave",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/8050-n-19th-ave/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/az/phoenix/8050-n-19th-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/az/phoenix/8050-n-19th-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store — 6001 N 43rd Ave",
+      "area": "W Bethany Home Rd · N 43rd Ave (85019)",
+      "address": "6001 N 43rd Ave, Phoenix, AZ 85019",
+      "phone": "(623) 842-3505",
+      "website": "https://locations.theupsstore.com/az/phoenix/6001-n-43rd-ave",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/6001-n-43rd-ave/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "12:00 PM–5:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/az/phoenix/6001-n-43rd-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/az/phoenix/6001-n-43rd-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store — 3039 West Peoria Ave Ste 102",
+      "area": "West Peoria Ave (85051)",
+      "address": "3039 West Peoria Ave Ste 102, Phoenix, AZ 85051",
+      "phone": "(602) 870-3887",
+      "website": "https://locations.theupsstore.com/az/phoenix/3039-west-peoria-ave",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/3039-west-peoria-ave/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–8:00 PM",
+        "tuesday": "8:00 AM–8:00 PM",
+        "wednesday": "8:00 AM–8:00 PM",
+        "thursday": "8:00 AM–8:00 PM",
+        "friday": "8:00 AM–8:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/az/phoenix/3039-west-peoria-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/az/phoenix/3039-west-peoria-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store — 10625 N Tatum Blvd Ste D115",
+      "area": "Paradise Village Gateway Shopping Center · N Tatum Blvd (85028)",
+      "address": "10625 N Tatum Blvd Ste D115, Phoenix, AZ 85028",
+      "phone": "(480) 483-2220",
+      "website": "https://locations.theupsstore.com/az/phoenix/10625-n-tatum-blvd",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/10625-n-tatum-blvd/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:30 PM",
+        "tuesday": "8:00 AM–6:30 PM",
+        "wednesday": "8:00 AM–6:30 PM",
+        "thursday": "8:00 AM–6:30 PM",
+        "friday": "8:00 AM–6:30 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "9:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/az/phoenix/10625-n-tatum-blvd"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/az/phoenix/10625-n-tatum-blvd/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store — 13835 N Tatum Blvd Ste 9",
+      "area": "N Tatum Blvd (85032)",
+      "address": "13835 N Tatum Blvd Ste 9, Phoenix, AZ 85032",
+      "phone": "(602) 867-9393",
+      "website": "https://locations.theupsstore.com/az/phoenix/13835-n-tatum-blvd",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/13835-n-tatum-blvd/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:30 PM",
+        "tuesday": "8:00 AM–6:30 PM",
+        "wednesday": "8:00 AM–6:30 PM",
+        "thursday": "8:00 AM–6:30 PM",
+        "friday": "8:00 AM–6:30 PM",
+        "saturday": "9:00 AM–3:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/az/phoenix/13835-n-tatum-blvd"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/az/phoenix/13835-n-tatum-blvd/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store — 428 E Thunderbird Road",
+      "area": "E Thunderbird Road (85022)",
+      "address": "428 E Thunderbird Road, Phoenix, AZ 85022",
+      "phone": "(602) 548-5512",
+      "website": "https://locations.theupsstore.com/az/phoenix/428-e-thunderbird-road",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/428-e-thunderbird-road/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/az/phoenix/428-e-thunderbird-road"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/az/phoenix/428-e-thunderbird-road/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store — 625 W Deer Valley Rd Ste 103",
+      "area": "W Deer Valley Rd (85027)",
+      "address": "625 W Deer Valley Rd Ste 103, Phoenix, AZ 85027",
+      "phone": "(623) 516-8454",
+      "website": "https://locations.theupsstore.com/az/phoenix/625-w-deer-valley-rd",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/625-w-deer-valley-rd/mailbox-services",
+      "hours": {
+        "monday": "7:30 AM–6:00 PM",
+        "tuesday": "7:30 AM–6:00 PM",
+        "wednesday": "7:30 AM–6:00 PM",
+        "thursday": "7:30 AM–6:00 PM",
+        "friday": "7:30 AM–6:00 PM",
+        "saturday": "9:00 AM–3:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/az/phoenix/625-w-deer-valley-rd"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/az/phoenix/625-w-deer-valley-rd/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store — 21001 N Tatum Blvd Ste 1630",
+      "area": "N Tatum Blvd (85050)",
+      "address": "21001 N Tatum Blvd Ste 1630, Phoenix, AZ 85050",
+      "phone": "(480) 513-4990",
+      "website": "https://locations.theupsstore.com/az/phoenix/21001-n-tatum-blvd",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/21001-n-tatum-blvd/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/az/phoenix/21001-n-tatum-blvd"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/az/phoenix/21001-n-tatum-blvd/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store — 2030 W Baseline Rd",
+      "area": "W Baseline Rd (85041)",
+      "address": "2030 W Baseline Rd, Phoenix, AZ 85041",
+      "phone": "(602) 268-9399",
+      "website": "https://locations.theupsstore.com/az/phoenix/2030-w-baseline-rd",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/2030-w-baseline-rd/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/az/phoenix/2030-w-baseline-rd"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/az/phoenix/2030-w-baseline-rd/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store — 2320 E Baseline Rd",
+      "area": "E Baseline Rd (85042)",
+      "address": "2320 E Baseline Rd, Phoenix, AZ 85042",
+      "phone": "(602) 889-8888",
+      "website": "https://locations.theupsstore.com/az/phoenix/2320-e-baseline-rd",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/2320-e-baseline-rd/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:30 PM",
+        "tuesday": "8:00 AM–6:30 PM",
+        "wednesday": "8:00 AM–6:30 PM",
+        "thursday": "8:00 AM–6:30 PM",
+        "friday": "8:00 AM–6:30 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/az/phoenix/2320-e-baseline-rd"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/az/phoenix/2320-e-baseline-rd/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store — 4802 E Ray Rd Ste 23",
+      "area": "Foothills Park Place Shopping Center · E Ray Rd (85044)",
+      "address": "4802 E Ray Rd Ste 23, Phoenix, AZ 85044",
+      "phone": "(480) 496-8500",
+      "website": "https://locations.theupsstore.com/az/phoenix/4802-e-ray-rd",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/4802-e-ray-rd/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–7:00 PM",
+        "tuesday": "8:00 AM–7:00 PM",
+        "wednesday": "8:00 AM–7:00 PM",
+        "thursday": "8:00 AM–7:00 PM",
+        "friday": "8:00 AM–7:00 PM",
+        "saturday": "9:00 AM–3:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/az/phoenix/4802-e-ray-rd"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/az/phoenix/4802-e-ray-rd/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store — 2632 S 83rd Ave #100",
+      "area": "S 83rd Ave (85043)",
+      "address": "2632 S 83rd Ave #100, Phoenix, AZ 85043",
+      "phone": "(623) 907-4448",
+      "website": "https://locations.theupsstore.com/az/phoenix/2632-s-83rd-ave",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/2632-s-83rd-ave/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/az/phoenix/2632-s-83rd-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/az/phoenix/2632-s-83rd-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    }
+  ]
+}
