@@ -1,0 +1,646 @@
+{
+  "slug": "ma-boston",
+  "city": "Boston",
+  "citySlug": "boston",
+  "state": "MA",
+  "stateName": "Massachusetts",
+  "focus": "City of Boston (North End waterfront, Beacon Hill, Downtown, Back Bay, South End, Fenway, Allston, East Boston, and Hyde Park), plus nearby stores just over the line in Chestnut Hill, Brookline, Cambridge, and Somerville",
+  "lastUpdated": "2026-11-26",
+  "intro": "This first Boston page covers 15 UPS Store locations whose official location and mailbox-services pages list staffed hours and package acceptance from all carriers — 10 with Boston-neighborhood addresses (from the North End and Back Bay to Allston, East Boston, and Hyde Park) and 5 just over the city line in Chestnut Hill, Brookline, Cambridge, and Somerville. All 15 publish Sunday hours, and 10 stay open until 7:00 PM on weekdays. None of these stores says on its own page that mailbox holders get round-the-clock access; they mention 24-hour access only at participating locations, so that flag is off for all of them. Only the Cambridge (955 Massachusetts Ave) and Somerville stores publish mailbox prices. It is not a complete inventory: independent pack-and-ship stores, USPS Premium PO Boxes, and Dorchester, Roxbury, Jamaica Plain, and Charlestown storefronts are not covered yet. Box availability can change; treat it as something to confirm. If you cannot get to a storefront, compare virtual mailbox services.",
+  "listings": [
+    {
+      "name": "The UPS Store — 71 Commercial St",
+      "area": "North End / Waterfront · Commercial St (02109)",
+      "address": "71 Commercial St, Boston, MA 02109",
+      "phone": "(617) 670-1121",
+      "website": "https://locations.theupsstore.com/ma/boston/71-commercial-st",
+      "bookingUrl": "https://locations.theupsstore.com/ma/boston/71-commercial-st/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:30 PM",
+        "tuesday": "8:00 AM–6:30 PM",
+        "wednesday": "8:00 AM–6:30 PM",
+        "thursday": "8:00 AM–6:30 PM",
+        "friday": "8:00 AM–6:30 PM",
+        "saturday": "10:00 AM–4:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ma/boston/71-commercial-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ma/boston/71-commercial-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "The UPS Store — 139 Charles St",
+      "area": "Beacon Hill · Charles St (02114)",
+      "address": "139 Charles St, Boston, MA 02114",
+      "phone": "(617) 573-0005",
+      "website": "https://locations.theupsstore.com/ma/boston/139-charles-st",
+      "bookingUrl": "https://locations.theupsstore.com/ma/boston/139-charles-st/mailbox-services",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "10:00 AM–6:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ma/boston/139-charles-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ma/boston/139-charles-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "The UPS Store — 198 Tremont St",
+      "area": "Downtown / Theatre District · Tremont St (02116)",
+      "address": "198 Tremont St, Boston, MA 02116",
+      "phone": "(617) 426-3039",
+      "website": "https://locations.theupsstore.com/ma/boston/198-tremont-st",
+      "bookingUrl": "https://locations.theupsstore.com/ma/boston/198-tremont-st/mailbox-services",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "10:00 AM–6:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ma/boston/198-tremont-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ma/boston/198-tremont-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "The UPS Store — 292 Newbury St",
+      "area": "Back Bay · Newbury St (02115)",
+      "address": "292 Newbury St, Boston, MA 02115",
+      "phone": "(617) 437-9303",
+      "website": "https://locations.theupsstore.com/ma/boston/292-newbury-st",
+      "bookingUrl": "https://locations.theupsstore.com/ma/boston/292-newbury-st/mailbox-services",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "10:00 AM–6:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ma/boston/292-newbury-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ma/boston/292-newbury-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "The UPS Store — 398 Columbus Ave",
+      "area": "South End / Back Bay Station · Columbus Ave (02116)",
+      "address": "398 Columbus Ave, Boston, MA 02116",
+      "phone": "(617) 859-7780",
+      "website": "https://locations.theupsstore.com/ma/boston/398-columbus-ave",
+      "bookingUrl": "https://locations.theupsstore.com/ma/boston/398-columbus-ave/mailbox-services",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "10:00 AM–6:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ma/boston/398-columbus-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ma/boston/398-columbus-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "The UPS Store — 263 Huntington Ave",
+      "area": "Fenway / Symphony · Huntington Ave (02115)",
+      "address": "263 Huntington Ave, Boston, MA 02115",
+      "phone": "(617) 437-8818",
+      "website": "https://locations.theupsstore.com/ma/boston/263-huntington-ave",
+      "bookingUrl": "https://locations.theupsstore.com/ma/boston/263-huntington-ave/mailbox-services",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "10:00 AM–6:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ma/boston/263-huntington-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ma/boston/263-huntington-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "The UPS Store — 1363 Boylston St",
+      "area": "Fenway · Boylston St (02215)",
+      "address": "1363 Boylston St, Boston, MA 02215",
+      "phone": "(617) 738-4461",
+      "website": "https://locations.theupsstore.com/ma/boston/1363-boylston-st",
+      "bookingUrl": "https://locations.theupsstore.com/ma/boston/1363-boylston-st/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM–7:00 PM",
+        "tuesday": "8:30 AM–7:00 PM",
+        "wednesday": "8:30 AM–7:00 PM",
+        "thursday": "8:30 AM–7:00 PM",
+        "friday": "8:30 AM–7:00 PM",
+        "saturday": "10:00 AM–5:00 PM",
+        "sunday": "10:00 AM–4:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ma/boston/1363-boylston-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ma/boston/1363-boylston-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "The UPS Store — 1089 Commonwealth Ave",
+      "area": "Allston · Commonwealth Ave (02215)",
+      "address": "1089 Commonwealth Ave, Boston, MA 02215",
+      "phone": "(617) 254-7173",
+      "website": "https://locations.theupsstore.com/ma/boston/1089-commonwealth-ave",
+      "bookingUrl": "https://locations.theupsstore.com/ma/boston/1089-commonwealth-ave/mailbox-services",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "10:00 AM–6:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ma/boston/1089-commonwealth-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ma/boston/1089-commonwealth-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "The UPS Store — 2 Neptune Rd",
+      "area": "East Boston · Neptune Rd (02128)",
+      "address": "2 Neptune Rd, East Boston, MA 02128",
+      "phone": "(617) 568-9215",
+      "website": "https://locations.theupsstore.com/ma/east-boston/2-neptune-rd",
+      "bookingUrl": "https://locations.theupsstore.com/ma/east-boston/2-neptune-rd/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:30 PM",
+        "tuesday": "8:00 AM–6:30 PM",
+        "wednesday": "8:00 AM–6:30 PM",
+        "thursday": "8:00 AM–6:30 PM",
+        "friday": "8:00 AM–6:30 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ma/east-boston/2-neptune-rd"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ma/east-boston/2-neptune-rd/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "The UPS Store — 695 Truman Parkway",
+      "area": "Hyde Park · Truman Pkwy (02136)",
+      "address": "695 Truman Parkway, Hyde Park, MA 02136",
+      "phone": "(617) 272-3418",
+      "website": "https://locations.theupsstore.com/ma/hyde-park/695-truman-parkway",
+      "bookingUrl": "https://locations.theupsstore.com/ma/hyde-park/695-truman-parkway/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "8:00 AM–4:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ma/hyde-park/695-truman-parkway"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ma/hyde-park/695-truman-parkway/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "The UPS Store — 675 Vfw Pkwy",
+      "area": "Chestnut Hill · VFW Pkwy (02467)",
+      "address": "675 Vfw Pkwy, Chestnut Hill, MA 02467",
+      "phone": "(617) 325-1090",
+      "website": "https://locations.theupsstore.com/ma/chestnut-hill/675-vfw-pkwy",
+      "bookingUrl": "https://locations.theupsstore.com/ma/chestnut-hill/675-vfw-pkwy/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM–6:30 PM",
+        "tuesday": "8:30 AM–6:30 PM",
+        "wednesday": "8:30 AM–6:30 PM",
+        "thursday": "8:30 AM–6:30 PM",
+        "friday": "8:30 AM–6:30 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ma/chestnut-hill/675-vfw-pkwy"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ma/chestnut-hill/675-vfw-pkwy/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "The UPS Store — 258 Harvard St",
+      "area": "Brookline (Coolidge Corner area) · Harvard St (02446)",
+      "address": "258 Harvard St, Brookline, MA 02446",
+      "phone": "(617) 730-8300",
+      "website": "https://locations.theupsstore.com/ma/brookline/258-harvard-st",
+      "bookingUrl": "https://locations.theupsstore.com/ma/brookline/258-harvard-st/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM–7:00 PM",
+        "tuesday": "8:30 AM–7:00 PM",
+        "wednesday": "8:30 AM–7:00 PM",
+        "thursday": "8:30 AM–7:00 PM",
+        "friday": "8:30 AM–7:00 PM",
+        "saturday": "10:00 AM–5:00 PM",
+        "sunday": "10:00 AM–4:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ma/brookline/258-harvard-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ma/brookline/258-harvard-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "The UPS Store — 955 Massachusetts Ave",
+      "area": "Cambridge (between Central and Harvard) · Massachusetts Ave (02139)",
+      "address": "955 Massachusetts Ave, Cambridge, MA 02139",
+      "phone": "(617) 868-5055",
+      "website": "https://locations.theupsstore.com/ma/cambridge/955-massachusetts-ave",
+      "bookingUrl": "https://locations.theupsstore.com/ma/cambridge/955-massachusetts-ave/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM–6:30 PM",
+        "tuesday": "8:30 AM–6:30 PM",
+        "wednesday": "8:30 AM–6:30 PM",
+        "thursday": "8:30 AM–6:30 PM",
+        "friday": "8:30 AM–6:30 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "UPS",
+        "FedEx",
+        "DHL",
+        "USPS",
+        "Amazon"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, and its pricing section says a mailbox can receive packages from UPS, FedEx, DHL, USPS, Amazon, and more. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "Personal mailbox prices as listed on 2026-11-26 on the official mailbox-services page: small $96 (3 months), $180 (6 months), $330 (12 months); medium $300 (6 months), $516 (12 months); large $402 (6 months), $636 (12 months). Business mailboxes: small $270 / $444, medium $330 / $570, large $420 / $696 (6 / 12 months). One-time setup fee $20.00; refundable deposits of $5.00 (mailbox key) and $25.00 (front door key).",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ma/cambridge/955-massachusetts-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ma/cambridge/955-massachusetts-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "The UPS Store — 1770 Mass Ave",
+      "area": "Cambridge (Porter Square area) · Massachusetts Ave (02140)",
+      "address": "1770 Mass Ave, Cambridge, MA 02140",
+      "phone": "(617) 661-7171",
+      "website": "https://locations.theupsstore.com/ma/cambridge/1770-mass-ave",
+      "bookingUrl": "https://locations.theupsstore.com/ma/cambridge/1770-mass-ave/mailbox-services",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "12:00 PM–5:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ma/cambridge/1770-mass-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ma/cambridge/1770-mass-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "The UPS Store — 519 Somerville Ave Ste 2",
+      "area": "Somerville · Somerville Ave (02143)",
+      "address": "519 Somerville Ave Ste 2, Somerville, MA 02143",
+      "phone": "(617) 591-0199",
+      "website": "https://locations.theupsstore.com/ma/somerville/519-somerville-ave",
+      "bookingUrl": "https://locations.theupsstore.com/ma/somerville/519-somerville-ave/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM–7:00 PM",
+        "tuesday": "8:30 AM–7:00 PM",
+        "wednesday": "8:30 AM–7:00 PM",
+        "thursday": "8:30 AM–7:00 PM",
+        "friday": "8:30 AM–7:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "Mailbox prices as listed on 2026-11-26 on the official mailbox-services page: personal small $87 (3 months), $156 (6 months), $264 (12 months); medium $120 / $216 / $312; large $147 / $264 / $396. Business medium $120 / $216 / $312 and business large $147 / $264 / $396 (3 / 6 / 12 months). The page lists a $20.00 service or setup fee for each box rental; extra keys cost extra.",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ma/somerville/519-somerville-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ma/somerville/519-somerville-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    }
+  ]
+}
