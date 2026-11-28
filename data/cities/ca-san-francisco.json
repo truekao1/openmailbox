@@ -1,0 +1,852 @@
+{
+  "slug": "ca-san-francisco",
+  "city": "San Francisco",
+  "citySlug": "san-francisco",
+  "state": "CA",
+  "stateName": "California",
+  "focus": "City of San Francisco — Financial District, SoMa, Mission Bay, North Beach, Nob Hill, Civic Center, Japantown, Pacific Heights, the Marina, the Castro, Noe Valley, the Mission, the Richmond, the Sunset, West Portal, Lakeshore and Ingleside",
+  "lastUpdated": "2026-11-27",
+  "intro": "This first San Francisco page covers 20 UPS Store locations across the city whose official location and mailbox-services pages list staffed hours and package acceptance from all carriers — from the Financial District, SoMa and Mission Bay to the Marina, the Richmond, the Sunset, Noe Valley and Ingleside. Three stores say on their own pages that mailbox holders can get 24-hour access: 1410 Franklin St, and 1225 4th St and 3145 Geary Blvd for an additional fee. 14 of the 20 publish Sunday hours, and 4 stay open until 7:00 PM or later on weekdays. Only the 3145 Geary Blvd store publishes mailbox prices. It is not a complete inventory: two more UPS Stores (268 Bush St and 660 4th St), independent pack-and-ship stores, USPS Premium PO Boxes, and Oakland or Daly City storefronts are not covered yet. Box availability can change; treat it as something to confirm. If you cannot get to a storefront, compare virtual mailbox services.",
+  "listings": [
+    {
+      "name": "The UPS Store — 1410 Franklin St",
+      "area": "Cathedral Hill / Van Ness corridor · Franklin St (94109)",
+      "address": "1410 Franklin St, San Francisco, CA 94109",
+      "phone": "(415) 346-0124",
+      "website": "https://locations.theupsstore.com/ca/san-francisco/1410-franklin-st",
+      "bookingUrl": "https://locations.theupsstore.com/ca/san-francisco/1410-franklin-st/mailbox-services",
+      "hours": {
+        "monday": "9:30 AM–7:30 PM",
+        "tuesday": "9:30 AM–7:30 PM",
+        "wednesday": "9:30 AM–7:30 PM",
+        "thursday": "9:30 AM–7:30 PM",
+        "friday": "9:30 AM–7:30 PM",
+        "saturday": "10:00 AM–6:00 PM",
+        "sunday": "12:00 PM–5:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) and Christmas Day as closed and 3:00 PM closing on December 24."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": true,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The store’s mailbox-services FAQ says: “Yes, this location provides 24 hour access to your mailbox,” and to ask about signing up for night lobby access during off hours; some packages can be picked up off hours when prearranged. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/1410-franklin-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/1410-franklin-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store — 3145 Geary Blvd",
+      "area": "Laurel Heights / Inner Richmond · Geary Blvd (94118)",
+      "address": "3145 Geary Blvd, San Francisco, CA 94118",
+      "phone": "(415) 751-6644",
+      "website": "https://locations.theupsstore.com/ca/san-francisco/3145-geary-blvd",
+      "bookingUrl": "https://locations.theupsstore.com/ca/san-francisco/3145-geary-blvd/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM–6:30 PM",
+        "tuesday": "8:30 AM–6:30 PM",
+        "wednesday": "8:30 AM–6:30 PM",
+        "thursday": "8:30 AM–6:30 PM",
+        "friday": "8:30 AM–6:30 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "Closed",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) and Christmas Day as closed and 3:00 PM closing on December 24."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": true,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The store’s mailbox-services pricing section says personal and business mailboxes have “the option of 24 hour access for an additional fee.” Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "Mailbox prices as listed on 2026-11-27 on the official mailbox-services page. Personal: small $99 (3 months), $186 (6 months), $336 (12 months); medium $135 / $252 / $468; large $165 / $294 / $528. Business: medium $153 / $288 / $540; large $207 / $336 / $600 (3 / 6 / 12 months). 24-hour access is an additional fee; the amount is not published.",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/3145-geary-blvd"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/3145-geary-blvd/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store — 1225 4th St",
+      "area": "Mission Bay / China Basin · 4th St (94158)",
+      "address": "1225 4th St, San Francisco, CA 94158",
+      "phone": "(415) 896-4685",
+      "website": "https://locations.theupsstore.com/ca/san-francisco/1225-4th-street",
+      "bookingUrl": "https://locations.theupsstore.com/ca/san-francisco/1225-4th-street/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–5:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) and Christmas Day as closed and 3:00 PM closing on December 24."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": true,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The store’s mailbox-services page says it offers 24-hour mailbox access “available for an additional fee”; ask the store for details. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "The 24-hour access fee amount is not published; no mailbox prices are listed on the page we checked.",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/1225-4th-street"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/1225-4th-street/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store — 2370 Market St",
+      "area": "Castro · Market St (94114)",
+      "address": "2370 Market St, San Francisco, CA 94114",
+      "phone": "(415) 431-0121",
+      "website": "https://locations.theupsstore.com/ca/san-francisco/2370-market-st",
+      "bookingUrl": "https://locations.theupsstore.com/ca/san-francisco/2370-market-st/mailbox-services",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "11:00 AM–5:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) and Christmas Day as closed and 3:00 PM closing on December 24."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/2370-market-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/2370-market-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store — 77 Van Ness Ave",
+      "area": "Civic Center · Van Ness Ave (94102)",
+      "address": "77 Van Ness Ave, San Francisco, CA 94102",
+      "phone": "(415) 222-9910",
+      "website": "https://locations.theupsstore.com/ca/san-francisco/77-van-ness-ave",
+      "bookingUrl": "https://locations.theupsstore.com/ca/san-francisco/77-van-ness-ave/mailbox-services",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "10:00 AM–5:00 PM",
+        "sunday": "12:00 PM–5:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) and Christmas Day as closed and 3:00 PM closing on December 24."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/77-van-ness-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/77-van-ness-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store — 101A Clay St",
+      "area": "Financial District / Embarcadero · Clay St (94111)",
+      "address": "101A Clay St, San Francisco, CA 94111",
+      "phone": "(415) 982-0271",
+      "website": "https://locations.theupsstore.com/ca/san-francisco/101a-clay-street",
+      "bookingUrl": "https://locations.theupsstore.com/ca/san-francisco/101a-clay-street/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:30 PM",
+        "tuesday": "8:00 AM–6:30 PM",
+        "wednesday": "8:00 AM–6:30 PM",
+        "thursday": "8:00 AM–6:30 PM",
+        "friday": "8:00 AM–6:30 PM",
+        "saturday": "9:00 AM–3:00 PM",
+        "sunday": "Closed",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) and Christmas Day as closed and 3:00 PM closing on December 24."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/101a-clay-street"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/101a-clay-street/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store — 1728 Ocean Ave",
+      "area": "Ingleside · Ocean Ave (94112)",
+      "address": "1728 Ocean Ave, San Francisco, CA 94112",
+      "phone": "(415) 337-7755",
+      "website": "https://locations.theupsstore.com/ca/san-francisco/1728-ocean-ave",
+      "bookingUrl": "https://locations.theupsstore.com/ca/san-francisco/1728-ocean-ave/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM–6:30 PM",
+        "tuesday": "8:30 AM–6:30 PM",
+        "wednesday": "8:30 AM–6:30 PM",
+        "thursday": "8:30 AM–6:30 PM",
+        "friday": "8:30 AM–6:30 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "Closed",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) and Christmas Day as closed and 3:00 PM closing on December 24."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/1728-ocean-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/1728-ocean-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store — 1032 Irving St",
+      "area": "Inner Sunset · Irving St (94122)",
+      "address": "1032 Irving St, San Francisco, CA 94122",
+      "phone": "(415) 566-2660",
+      "website": "https://locations.theupsstore.com/ca/san-francisco/1032-irving-st",
+      "bookingUrl": "https://locations.theupsstore.com/ca/san-francisco/1032-irving-st/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM–6:30 PM",
+        "tuesday": "8:30 AM–6:30 PM",
+        "wednesday": "8:30 AM–6:30 PM",
+        "thursday": "8:30 AM–6:30 PM",
+        "friday": "8:30 AM–6:30 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "Closed",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) and Christmas Day as closed and 3:00 PM closing on December 24."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/1032-irving-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/1032-irving-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store — 1770 Post St",
+      "area": "Japantown · Post St (94115)",
+      "address": "1770 Post St, San Francisco, CA 94115",
+      "phone": "(415) 929-9200",
+      "website": "https://locations.theupsstore.com/ca/san-francisco/1770-post-street",
+      "bookingUrl": "https://locations.theupsstore.com/ca/san-francisco/1770-post-street/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:30 PM",
+        "tuesday": "8:00 AM–6:30 PM",
+        "wednesday": "8:00 AM–6:30 PM",
+        "thursday": "8:00 AM–6:30 PM",
+        "friday": "8:00 AM–6:30 PM",
+        "saturday": "10:30 AM–4:00 PM",
+        "sunday": "Closed",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) and Christmas Day as closed and 3:00 PM closing on December 24."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/1770-post-street"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/1770-post-street/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store — 1559 Sloat Blvd",
+      "area": "Lakeshore · Sloat Blvd (94132)",
+      "address": "1559 Sloat Blvd, San Francisco, CA 94132",
+      "phone": "(415) 681-4877",
+      "website": "https://locations.theupsstore.com/ca/san-francisco/1559-sloat-blvd",
+      "bookingUrl": "https://locations.theupsstore.com/ca/san-francisco/1559-sloat-blvd/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM–6:30 PM",
+        "tuesday": "8:30 AM–6:30 PM",
+        "wednesday": "8:30 AM–6:30 PM",
+        "thursday": "8:30 AM–6:30 PM",
+        "friday": "8:30 AM–6:30 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) and Christmas Day as closed and 3:00 PM closing on December 24."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/1559-sloat-blvd"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/1559-sloat-blvd/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store — 2269 Chestnut St",
+      "area": "Marina · Chestnut St (94123)",
+      "address": "2269 Chestnut St, San Francisco, CA 94123",
+      "phone": "(415) 922-4500",
+      "website": "https://locations.theupsstore.com/ca/san-francisco/2269-chestnut-st",
+      "bookingUrl": "https://locations.theupsstore.com/ca/san-francisco/2269-chestnut-st/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–5:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) and Christmas Day as closed and 3:00 PM closing on December 24."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/2269-chestnut-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/2269-chestnut-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store — 60 29th St",
+      "area": "Mission / Bernal Heights edge · 29th St (94110)",
+      "address": "60 29th St, San Francisco, CA 94110",
+      "phone": "(415) 550-6488",
+      "website": "https://locations.theupsstore.com/ca/san-francisco/60-29th-st",
+      "bookingUrl": "https://locations.theupsstore.com/ca/san-francisco/60-29th-st/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM–6:30 PM",
+        "tuesday": "8:30 AM–6:30 PM",
+        "wednesday": "8:30 AM–6:30 PM",
+        "thursday": "8:30 AM–6:30 PM",
+        "friday": "8:30 AM–6:30 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) and Christmas Day as closed and 3:00 PM closing on December 24."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/60-29th-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/60-29th-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store — 950 Mason St",
+      "area": "Nob Hill · Mason St (94108)",
+      "address": "950 Mason St, San Francisco, CA 94108",
+      "phone": "(415) 402-0910",
+      "website": "https://locations.theupsstore.com/ca/san-francisco/950-mason-st",
+      "bookingUrl": "https://locations.theupsstore.com/ca/san-francisco/950-mason-st/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "8:00 AM–4:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) and Christmas Day as closed and 3:00 PM closing on December 24."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/950-mason-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/950-mason-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store — 4104 24th St",
+      "area": "Noe Valley · 24th St (94114)",
+      "address": "4104 24th St, San Francisco, CA 94114",
+      "phone": "(415) 824-3200",
+      "website": "https://locations.theupsstore.com/ca/san-francisco/4104-24th-st",
+      "bookingUrl": "https://locations.theupsstore.com/ca/san-francisco/4104-24th-st/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–5:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) and Christmas Day as closed and 3:00 PM closing on December 24."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/4104-24th-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/4104-24th-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store — 1288 Columbus Ave",
+      "area": "North Beach / Fisherman’s Wharf · Columbus Ave (94133)",
+      "address": "1288 Columbus Ave, San Francisco, CA 94133",
+      "phone": "(415) 885-7177",
+      "website": "https://locations.theupsstore.com/ca/san-francisco/1288-columbus-ave",
+      "bookingUrl": "https://locations.theupsstore.com/ca/san-francisco/1288-columbus-ave/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) and Christmas Day as closed and 3:00 PM closing on December 24."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/1288-columbus-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/1288-columbus-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store — 5758 Geary Blvd",
+      "area": "Outer Richmond · Geary Blvd (94121)",
+      "address": "5758 Geary Blvd, San Francisco, CA 94121",
+      "phone": "(415) 750-3738",
+      "website": "https://locations.theupsstore.com/ca/san-francisco/5758-geary-blvd",
+      "bookingUrl": "https://locations.theupsstore.com/ca/san-francisco/5758-geary-blvd/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM–6:30 PM",
+        "tuesday": "8:30 AM–6:30 PM",
+        "wednesday": "8:30 AM–6:30 PM",
+        "thursday": "8:30 AM–6:30 PM",
+        "friday": "8:30 AM–6:30 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) and Christmas Day as closed and 3:00 PM closing on December 24."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/5758-geary-blvd"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/5758-geary-blvd/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store — 2443 Fillmore St",
+      "area": "Pacific Heights · Fillmore St (94115)",
+      "address": "2443 Fillmore St, San Francisco, CA 94115",
+      "phone": "(415) 922-6245",
+      "website": "https://locations.theupsstore.com/ca/san-francisco/2443-fillmore-st",
+      "bookingUrl": "https://locations.theupsstore.com/ca/san-francisco/2443-fillmore-st/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:30 PM",
+        "tuesday": "8:00 AM–6:30 PM",
+        "wednesday": "8:00 AM–6:30 PM",
+        "thursday": "8:00 AM–6:30 PM",
+        "friday": "8:00 AM–6:30 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) and Christmas Day as closed and 3:00 PM closing on December 24."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/2443-fillmore-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/2443-fillmore-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store — 1819 Polk St",
+      "area": "Polk Gulch / Russian Hill · Polk St (94109)",
+      "address": "1819 Polk St, San Francisco, CA 94109",
+      "phone": "(415) 441-4954",
+      "website": "https://locations.theupsstore.com/ca/san-francisco/1819-polk-st",
+      "bookingUrl": "https://locations.theupsstore.com/ca/san-francisco/1819-polk-st/mailbox-services",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) and Christmas Day as closed and 3:00 PM closing on December 24."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/1819-polk-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/1819-polk-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store — 182 Howard St",
+      "area": "SoMa / Rincon Hill · Howard St (94105)",
+      "address": "182 Howard St, San Francisco, CA 94105",
+      "phone": "(415) 495-6963",
+      "website": "https://locations.theupsstore.com/ca/san-francisco/182-howard-st",
+      "bookingUrl": "https://locations.theupsstore.com/ca/san-francisco/182-howard-st/mailbox-services",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "Closed",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) and Christmas Day as closed and 3:00 PM closing on December 24."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/182-howard-st"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/182-howard-st/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store — 236 West Portal Ave",
+      "area": "West Portal · West Portal Ave (94127)",
+      "address": "236 West Portal Ave, San Francisco, CA 94127",
+      "phone": "(415) 665-5085",
+      "website": "https://locations.theupsstore.com/ca/san-francisco/236-west-portal-ave",
+      "bookingUrl": "https://locations.theupsstore.com/ca/san-francisco/236-west-portal-ave/mailbox-services",
+      "hours": {
+        "monday": "8:30 AM–6:30 PM",
+        "tuesday": "8:30 AM–6:30 PM",
+        "wednesday": "8:30 AM–6:30 PM",
+        "thursday": "8:30 AM–6:30 PM",
+        "friday": "8:30 AM–6:30 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Staffed store hours from the official location page’s opening-hours data. Holiday hours can differ; the page lists Thanksgiving Day (November 26) and Christmas Day as closed and 3:00 PM closing on December 24."
+      },
+      "carriers": [
+        "All carriers"
+      ],
+      "carriersNotes": "The official mailbox-services page for this store says mailbox customers get package acceptance from all carriers, plus mail holding and forwarding. It does not list carrier names. Confirm any size or signing limits with the store.",
+      "flags": {
+        "access24": false,
+        "allCarriers": true,
+        "mailScanning": false,
+        "noWaitlist": false,
+        "virtual": false
+      },
+      "visitNotes": "The mailbox-services page lists “24-hour access (at participating locations),” which does not confirm after-hours lobby access at this store. Box availability is not published as live inventory. Confirm with the store that a box is actually open.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Official location page (hours and address)",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/236-west-portal-ave"
+        },
+        {
+          "label": "Official mailbox services page",
+          "url": "https://locations.theupsstore.com/ca/san-francisco/236-west-portal-ave/mailbox-services"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    }
+  ]
+}
